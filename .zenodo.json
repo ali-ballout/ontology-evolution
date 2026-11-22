@@ -1,0 +1,15 @@
+{
+  "title": "Temporal ontology completion across historical releases: data, code and results",
+  "upload_type": "software",
+  "description": "Materials for the article <i>Learning and Reasoning for Temporal Ontology Completion: Cross-Ontology Transfer Across Historical Releases</i>: the snapshot list with release dates, sources and checksums, the derived data, the study protocols, all code, the model outputs (rank files and suggestion lists) and the analysis scripts that reproduce every number, table and figure of the article.",
+  "creators": [
+    {
+      "name": "Ballout, Ali",
+      "affiliation": "Lebanese International University",
+      "orcid": "0000-0002-7186-1831"
+    }
+  ],
+  "license": "MIT",
+  "keywords": ["ontology evolution", "ontology completion", "subsumption prediction", "temporal evaluation", "learning to rank", "graph neural networks", "description logic reasoning", "OBO Foundry"],
+  "version": "1.0.0"
+}
