@@ -1,0 +1,41 @@
+cutoff,ontology,task,i,model,rank,kind,h,entailed
+2019-07-01,ehdaa2,A,0,names only,1912.0,moved,3y+,False
+2019-07-01,ehdaa2,A,0,name vote,1.0,moved,3y+,False
+2019-07-01,ehdaa2,A,0,structural vote,1.0,moved,3y+,False
+2019-07-01,ehdaa2,A,0,hybrid,1.0,moved,3y+,False
+2019-07-01,ehdaa2,A,0,reasoner: nearest inferred ancestor,4.0,moved,3y+,False
+2019-07-01,ehdaa2,A,0,reasoner: ancestors by hybrid,4.0,moved,3y+,False
+2019-07-01,ehdaa2,A,1,names only,792.0,moved,3y+,False
+2019-07-01,ehdaa2,A,1,name vote,1.0,moved,3y+,False
+2019-07-01,ehdaa2,A,1,structural vote,1.0,moved,3y+,False
+2019-07-01,ehdaa2,A,1,hybrid,1.0,moved,3y+,False
+2019-07-01,ehdaa2,A,1,reasoner: nearest inferred ancestor,4.0,moved,3y+,False
+2019-07-01,ehdaa2,A,1,reasoner: ancestors by hybrid,4.0,moved,3y+,False
+2019-07-01,ehdaa2,A,2,names only,1832.0,moved,3y+,False
+2019-07-01,ehdaa2,A,2,name vote,1.0,moved,3y+,False
+2019-07-01,ehdaa2,A,2,structural vote,1.0,moved,3y+,False
+2019-07-01,ehdaa2,A,2,hybrid,1.0,moved,3y+,False
+2019-07-01,ehdaa2,A,2,reasoner: nearest inferred ancestor,4.0,moved,3y+,False
+2019-07-01,ehdaa2,A,2,reasoner: ancestors by hybrid,4.0,moved,3y+,False
+2019-07-01,ehdaa2,A,3,names only,428.0,moved,3y+,False
+2019-07-01,ehdaa2,A,3,name vote,1.0,moved,3y+,False
+2019-07-01,ehdaa2,A,3,structural vote,2.0,moved,3y+,False
+2019-07-01,ehdaa2,A,3,hybrid,1.0,moved,3y+,False
+2019-07-01,ehdaa2,A,3,reasoner: nearest inferred ancestor,4.0,moved,3y+,False
+2019-07-01,ehdaa2,A,3,reasoner: ancestors by hybrid,4.0,moved,3y+,False
+2019-07-01,ehdaa2,A,4,names only,1830.0,moved,3y+,False
+2019-07-01,ehdaa2,A,4,name vote,1.0,moved,3y+,False
+2019-07-01,ehdaa2,A,4,structural vote,1.0,moved,3y+,False
+2019-07-01,ehdaa2,A,4,hybrid,1.0,moved,3y+,False
+2019-07-01,ehdaa2,A,4,reasoner: nearest inferred ancestor,4.0,moved,3y+,False
+2019-07-01,ehdaa2,A,4,reasoner: ancestors by hybrid,4.0,moved,3y+,False
+2019-07-01,ehdaa2,A,5,names only,801.0,moved,3y+,False
+2019-07-01,ehdaa2,A,5,name vote,1.0,moved,3y+,False
+2019-07-01,ehdaa2,A,5,structural vote,2.0,moved,3y+,False
+2019-07-01,ehdaa2,A,5,hybrid,1.0,moved,3y+,False
+2019-07-01,ehdaa2,A,5,reasoner: nearest inferred ancestor,4.0,moved,3y+,False
+2019-07-01,ehdaa2,A,5,reasoner: ancestors by hybrid,4.0,moved,3y+,False
+2019-07-01,ehdaa2,B,0,names only,1195.0,new,3y+,
+2019-07-01,ehdaa2,B,0,name vote,1.0,new,3y+,
+2019-07-01,ehdaa2,B,0,structural vote,36.0,new,3y+,
+2019-07-01,ehdaa2,B,0,hybrid,1.0,new,3y+,

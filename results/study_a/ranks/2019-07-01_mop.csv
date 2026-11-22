@@ -1,0 +1,19 @@
+cutoff,ontology,task,i,model,rank,kind,h,entailed
+2019-07-01,mop,A,0,names only,4.0,moved,2y,True
+2019-07-01,mop,A,0,name vote,1.0,moved,2y,True
+2019-07-01,mop,A,0,structural vote,675.0,moved,2y,True
+2019-07-01,mop,A,0,hybrid,1.0,moved,2y,True
+2019-07-01,mop,A,0,reasoner: nearest inferred ancestor,1.0,moved,2y,True
+2019-07-01,mop,A,0,reasoner: ancestors by hybrid,1.0,moved,2y,True
+2019-07-01,mop,B,0,names only,223.0,new,3y+,
+2019-07-01,mop,B,0,name vote,1.0,new,3y+,
+2019-07-01,mop,B,0,structural vote,7.0,new,3y+,
+2019-07-01,mop,B,0,hybrid,1.0,new,3y+,
+2019-07-01,mop,B,1,names only,3299.0,new,3y+,
+2019-07-01,mop,B,1,name vote,2.0,new,3y+,
+2019-07-01,mop,B,1,structural vote,7.0,new,3y+,
+2019-07-01,mop,B,1,hybrid,2.0,new,3y+,
+2019-07-01,mop,B,2,names only,16.0,new,3y+,
+2019-07-01,mop,B,2,name vote,21.0,new,3y+,
+2019-07-01,mop,B,2,structural vote,664.5,new,3y+,
+2019-07-01,mop,B,2,hybrid,21.0,new,3y+,

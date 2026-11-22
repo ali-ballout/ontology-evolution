@@ -1,0 +1,5 @@
+cutoff,ontology,task,i,model,rank,kind,h,entailed
+2023-07-01,symp,B,0,names only,116.0,new,3y+,
+2023-07-01,symp,B,0,name vote,118.0,new,3y+,
+2023-07-01,symp,B,0,structural vote,4.0,new,3y+,
+2023-07-01,symp,B,0,hybrid,118.0,new,3y+,

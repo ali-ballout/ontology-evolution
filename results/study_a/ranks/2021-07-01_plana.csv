@@ -1,0 +1,91 @@
+cutoff,ontology,task,i,model,rank,kind,h,entailed
+2021-07-01,plana,A,0,names only,786.0,moved,1y,True
+2021-07-01,plana,A,0,name vote,4.0,moved,1y,True
+2021-07-01,plana,A,0,structural vote,5.0,moved,1y,True
+2021-07-01,plana,A,0,hybrid,4.0,moved,1y,True
+2021-07-01,plana,A,0,reasoner: nearest inferred ancestor,1.0,moved,1y,True
+2021-07-01,plana,A,0,reasoner: ancestors by hybrid,1.0,moved,1y,True
+2021-07-01,plana,A,1,names only,125.0,moved,1y,False
+2021-07-01,plana,A,1,name vote,132.0,moved,1y,False
+2021-07-01,plana,A,1,structural vote,14.0,moved,1y,False
+2021-07-01,plana,A,1,hybrid,101.0,moved,1y,False
+2021-07-01,plana,A,1,reasoner: nearest inferred ancestor,103.0,moved,1y,False
+2021-07-01,plana,A,1,reasoner: ancestors by hybrid,103.0,moved,1y,False
+2021-07-01,plana,A,2,names only,352.0,moved,1y,True
+2021-07-01,plana,A,2,name vote,1.0,moved,1y,True
+2021-07-01,plana,A,2,structural vote,2.0,moved,1y,True
+2021-07-01,plana,A,2,hybrid,1.0,moved,1y,True
+2021-07-01,plana,A,2,reasoner: nearest inferred ancestor,1.0,moved,1y,True
+2021-07-01,plana,A,2,reasoner: ancestors by hybrid,1.0,moved,1y,True
+2021-07-01,plana,A,3,names only,772.0,moved,1y,False
+2021-07-01,plana,A,3,name vote,773.0,moved,1y,False
+2021-07-01,plana,A,3,structural vote,191.0,moved,1y,False
+2021-07-01,plana,A,3,hybrid,774.0,moved,1y,False
+2021-07-01,plana,A,3,reasoner: nearest inferred ancestor,774.0,moved,1y,False
+2021-07-01,plana,A,3,reasoner: ancestors by hybrid,774.0,moved,1y,False
+2021-07-01,plana,A,4,names only,792.0,moved,1y,False
+2021-07-01,plana,A,4,name vote,792.0,moved,1y,False
+2021-07-01,plana,A,4,structural vote,191.5,moved,1y,False
+2021-07-01,plana,A,4,hybrid,792.0,moved,1y,False
+2021-07-01,plana,A,4,reasoner: nearest inferred ancestor,792.0,moved,1y,False
+2021-07-01,plana,A,4,reasoner: ancestors by hybrid,792.0,moved,1y,False
+2021-07-01,plana,A,5,names only,501.0,moved,1y,True
+2021-07-01,plana,A,5,name vote,6.0,moved,1y,True
+2021-07-01,plana,A,5,structural vote,1.0,moved,1y,True
+2021-07-01,plana,A,5,hybrid,2.0,moved,1y,True
+2021-07-01,plana,A,5,reasoner: nearest inferred ancestor,1.0,moved,1y,True
+2021-07-01,plana,A,5,reasoner: ancestors by hybrid,1.0,moved,1y,True
+2021-07-01,plana,A,6,names only,776.0,moved,1y,True
+2021-07-01,plana,A,6,name vote,1.0,moved,1y,True
+2021-07-01,plana,A,6,structural vote,2.0,moved,1y,True
+2021-07-01,plana,A,6,hybrid,1.0,moved,1y,True
+2021-07-01,plana,A,6,reasoner: nearest inferred ancestor,1.0,moved,1y,True
+2021-07-01,plana,A,6,reasoner: ancestors by hybrid,1.0,moved,1y,True
+2021-07-01,plana,A,7,names only,627.0,moved,1y,True
+2021-07-01,plana,A,7,name vote,627.0,moved,1y,True
+2021-07-01,plana,A,7,structural vote,2.0,moved,1y,True
+2021-07-01,plana,A,7,hybrid,402.0,moved,1y,True
+2021-07-01,plana,A,7,reasoner: nearest inferred ancestor,2.0,moved,1y,True
+2021-07-01,plana,A,7,reasoner: ancestors by hybrid,3.0,moved,1y,True
+2021-07-01,plana,A,8,names only,804.0,moved,1y,True
+2021-07-01,plana,A,8,name vote,804.0,moved,1y,True
+2021-07-01,plana,A,8,structural vote,2.0,moved,1y,True
+2021-07-01,plana,A,8,hybrid,781.0,moved,1y,True
+2021-07-01,plana,A,8,reasoner: nearest inferred ancestor,2.0,moved,1y,True
+2021-07-01,plana,A,8,reasoner: ancestors by hybrid,3.0,moved,1y,True
+2021-07-01,plana,A,9,names only,606.0,moved,1y,False
+2021-07-01,plana,A,9,name vote,607.0,moved,1y,False
+2021-07-01,plana,A,9,structural vote,191.0,moved,1y,False
+2021-07-01,plana,A,9,hybrid,610.0,moved,1y,False
+2021-07-01,plana,A,9,reasoner: nearest inferred ancestor,611.0,moved,1y,False
+2021-07-01,plana,A,9,reasoner: ancestors by hybrid,611.0,moved,1y,False
+2021-07-01,plana,A,10,names only,770.0,moved,1y,False
+2021-07-01,plana,A,10,name vote,771.0,moved,1y,False
+2021-07-01,plana,A,10,structural vote,191.0,moved,1y,False
+2021-07-01,plana,A,10,hybrid,771.0,moved,1y,False
+2021-07-01,plana,A,10,reasoner: nearest inferred ancestor,772.0,moved,1y,False
+2021-07-01,plana,A,10,reasoner: ancestors by hybrid,772.0,moved,1y,False
+2021-07-01,plana,A,11,names only,743.0,moved,1y,False
+2021-07-01,plana,A,11,name vote,744.0,moved,1y,False
+2021-07-01,plana,A,11,structural vote,191.0,moved,1y,False
+2021-07-01,plana,A,11,hybrid,746.0,moved,1y,False
+2021-07-01,plana,A,11,reasoner: nearest inferred ancestor,746.0,moved,1y,False
+2021-07-01,plana,A,11,reasoner: ancestors by hybrid,746.0,moved,1y,False
+2021-07-01,plana,A,12,names only,722.0,moved,1y,False
+2021-07-01,plana,A,12,name vote,723.0,moved,1y,False
+2021-07-01,plana,A,12,structural vote,190.5,moved,1y,False
+2021-07-01,plana,A,12,hybrid,724.0,moved,1y,False
+2021-07-01,plana,A,12,reasoner: nearest inferred ancestor,725.0,moved,1y,False
+2021-07-01,plana,A,12,reasoner: ancestors by hybrid,725.0,moved,1y,False
+2021-07-01,plana,B,0,names only,3.0,new,1y,
+2021-07-01,plana,B,0,name vote,1.0,new,1y,
+2021-07-01,plana,B,0,structural vote,1.0,new,1y,
+2021-07-01,plana,B,0,hybrid,1.0,new,1y,
+2021-07-01,plana,B,1,names only,32.0,new,1y,
+2021-07-01,plana,B,1,name vote,5.0,new,1y,
+2021-07-01,plana,B,1,structural vote,1.0,new,1y,
+2021-07-01,plana,B,1,hybrid,5.0,new,1y,
+2021-07-01,plana,B,2,names only,3.0,new,1y,
+2021-07-01,plana,B,2,name vote,1.0,new,1y,
+2021-07-01,plana,B,2,structural vote,2.0,new,1y,
+2021-07-01,plana,B,2,hybrid,1.0,new,1y,

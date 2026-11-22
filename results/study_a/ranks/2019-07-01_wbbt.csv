@@ -1,0 +1,439 @@
+cutoff,ontology,task,i,model,rank,kind,h,entailed
+2019-07-01,wbbt,A,0,names only,6802.0,added,1y,False
+2019-07-01,wbbt,A,0,name vote,6802.0,added,1y,False
+2019-07-01,wbbt,A,0,structural vote,14.0,added,1y,False
+2019-07-01,wbbt,A,0,hybrid,6772.0,added,1y,False
+2019-07-01,wbbt,A,0,reasoner: nearest inferred ancestor,6772.0,added,1y,False
+2019-07-01,wbbt,A,0,reasoner: ancestors by hybrid,6772.0,added,1y,False
+2019-07-01,wbbt,A,1,names only,44.0,added,1y,False
+2019-07-01,wbbt,A,1,name vote,49.0,added,1y,False
+2019-07-01,wbbt,A,1,structural vote,73.0,added,1y,False
+2019-07-01,wbbt,A,1,hybrid,49.0,added,1y,False
+2019-07-01,wbbt,A,1,reasoner: nearest inferred ancestor,50.0,added,1y,False
+2019-07-01,wbbt,A,1,reasoner: ancestors by hybrid,50.0,added,1y,False
+2019-07-01,wbbt,A,2,names only,1609.0,added,1y,False
+2019-07-01,wbbt,A,2,name vote,9.0,added,1y,False
+2019-07-01,wbbt,A,2,structural vote,77.5,added,1y,False
+2019-07-01,wbbt,A,2,hybrid,9.0,added,1y,False
+2019-07-01,wbbt,A,2,reasoner: nearest inferred ancestor,14.0,added,1y,False
+2019-07-01,wbbt,A,2,reasoner: ancestors by hybrid,14.0,added,1y,False
+2019-07-01,wbbt,A,3,names only,37.0,added,1y,False
+2019-07-01,wbbt,A,3,name vote,44.0,added,1y,False
+2019-07-01,wbbt,A,3,structural vote,3726.0,added,1y,False
+2019-07-01,wbbt,A,3,hybrid,45.0,added,1y,False
+2019-07-01,wbbt,A,3,reasoner: nearest inferred ancestor,46.0,added,1y,False
+2019-07-01,wbbt,A,3,reasoner: ancestors by hybrid,46.0,added,1y,False
+2019-07-01,wbbt,A,4,names only,37.0,moved,1y,False
+2019-07-01,wbbt,A,4,name vote,42.0,moved,1y,False
+2019-07-01,wbbt,A,4,structural vote,8.0,moved,1y,False
+2019-07-01,wbbt,A,4,hybrid,20.0,moved,1y,False
+2019-07-01,wbbt,A,4,reasoner: nearest inferred ancestor,23.0,moved,1y,False
+2019-07-01,wbbt,A,4,reasoner: ancestors by hybrid,23.0,moved,1y,False
+2019-07-01,wbbt,A,5,names only,18.0,added,1y,False
+2019-07-01,wbbt,A,5,name vote,27.0,added,1y,False
+2019-07-01,wbbt,A,5,structural vote,3726.0,added,1y,False
+2019-07-01,wbbt,A,5,hybrid,28.0,added,1y,False
+2019-07-01,wbbt,A,5,reasoner: nearest inferred ancestor,29.0,added,1y,False
+2019-07-01,wbbt,A,5,reasoner: ancestors by hybrid,29.0,added,1y,False
+2019-07-01,wbbt,A,6,names only,25.0,added,1y,False
+2019-07-01,wbbt,A,6,name vote,26.0,added,1y,False
+2019-07-01,wbbt,A,6,structural vote,3726.5,added,1y,False
+2019-07-01,wbbt,A,6,hybrid,28.0,added,1y,False
+2019-07-01,wbbt,A,6,reasoner: nearest inferred ancestor,31.0,added,1y,False
+2019-07-01,wbbt,A,6,reasoner: ancestors by hybrid,31.0,added,1y,False
+2019-07-01,wbbt,A,7,names only,1.0,moved,1y,True
+2019-07-01,wbbt,A,7,name vote,3.0,moved,1y,True
+2019-07-01,wbbt,A,7,structural vote,4.0,moved,1y,True
+2019-07-01,wbbt,A,7,hybrid,2.0,moved,1y,True
+2019-07-01,wbbt,A,7,reasoner: nearest inferred ancestor,1.0,moved,1y,True
+2019-07-01,wbbt,A,7,reasoner: ancestors by hybrid,1.0,moved,1y,True
+2019-07-01,wbbt,A,8,names only,28.0,moved,1y,True
+2019-07-01,wbbt,A,8,name vote,4.0,moved,1y,True
+2019-07-01,wbbt,A,8,structural vote,2.0,moved,1y,True
+2019-07-01,wbbt,A,8,hybrid,3.0,moved,1y,True
+2019-07-01,wbbt,A,8,reasoner: nearest inferred ancestor,1.0,moved,1y,True
+2019-07-01,wbbt,A,8,reasoner: ancestors by hybrid,1.0,moved,1y,True
+2019-07-01,wbbt,A,9,names only,6024.0,added,1y,False
+2019-07-01,wbbt,A,9,name vote,6024.0,added,1y,False
+2019-07-01,wbbt,A,9,structural vote,72.0,added,1y,False
+2019-07-01,wbbt,A,9,hybrid,6024.0,added,1y,False
+2019-07-01,wbbt,A,9,reasoner: nearest inferred ancestor,6024.0,added,1y,False
+2019-07-01,wbbt,A,9,reasoner: ancestors by hybrid,6024.0,added,1y,False
+2019-07-01,wbbt,A,10,names only,58.0,added,1y,False
+2019-07-01,wbbt,A,10,name vote,63.0,added,1y,False
+2019-07-01,wbbt,A,10,structural vote,76.0,added,1y,False
+2019-07-01,wbbt,A,10,hybrid,64.0,added,1y,False
+2019-07-01,wbbt,A,10,reasoner: nearest inferred ancestor,65.0,added,1y,False
+2019-07-01,wbbt,A,10,reasoner: ancestors by hybrid,65.0,added,1y,False
+2019-07-01,wbbt,A,11,names only,4289.0,added,1y,False
+2019-07-01,wbbt,A,11,name vote,4293.0,added,1y,False
+2019-07-01,wbbt,A,11,structural vote,74.0,added,1y,False
+2019-07-01,wbbt,A,11,hybrid,4296.0,added,1y,False
+2019-07-01,wbbt,A,11,reasoner: nearest inferred ancestor,4297.0,added,1y,False
+2019-07-01,wbbt,A,11,reasoner: ancestors by hybrid,4297.0,added,1y,False
+2019-07-01,wbbt,A,12,names only,6526.0,added,1y,False
+2019-07-01,wbbt,A,12,name vote,6528.0,added,1y,False
+2019-07-01,wbbt,A,12,structural vote,74.0,added,1y,False
+2019-07-01,wbbt,A,12,hybrid,6528.0,added,1y,False
+2019-07-01,wbbt,A,12,reasoner: nearest inferred ancestor,6529.0,added,1y,False
+2019-07-01,wbbt,A,12,reasoner: ancestors by hybrid,6529.0,added,1y,False
+2019-07-01,wbbt,A,13,names only,2213.0,moved,1y,True
+2019-07-01,wbbt,A,13,name vote,2216.0,moved,1y,True
+2019-07-01,wbbt,A,13,structural vote,36.0,moved,1y,True
+2019-07-01,wbbt,A,13,hybrid,2217.0,moved,1y,True
+2019-07-01,wbbt,A,13,reasoner: nearest inferred ancestor,1.0,moved,1y,True
+2019-07-01,wbbt,A,13,reasoner: ancestors by hybrid,2.0,moved,1y,True
+2019-07-01,wbbt,A,14,names only,123.0,added,2y,False
+2019-07-01,wbbt,A,14,name vote,123.0,added,2y,False
+2019-07-01,wbbt,A,14,structural vote,2.0,added,2y,False
+2019-07-01,wbbt,A,14,hybrid,43.0,added,2y,False
+2019-07-01,wbbt,A,14,reasoner: nearest inferred ancestor,45.0,added,2y,False
+2019-07-01,wbbt,A,14,reasoner: ancestors by hybrid,45.0,added,2y,False
+2019-07-01,wbbt,A,15,names only,123.0,added,2y,False
+2019-07-01,wbbt,A,15,name vote,123.0,added,2y,False
+2019-07-01,wbbt,A,15,structural vote,2.0,added,2y,False
+2019-07-01,wbbt,A,15,hybrid,43.0,added,2y,False
+2019-07-01,wbbt,A,15,reasoner: nearest inferred ancestor,45.0,added,2y,False
+2019-07-01,wbbt,A,15,reasoner: ancestors by hybrid,45.0,added,2y,False
+2019-07-01,wbbt,A,16,names only,2288.0,added,2y,False
+2019-07-01,wbbt,A,16,name vote,2288.0,added,2y,False
+2019-07-01,wbbt,A,16,structural vote,6.5,added,2y,False
+2019-07-01,wbbt,A,16,hybrid,643.0,added,2y,False
+2019-07-01,wbbt,A,16,reasoner: nearest inferred ancestor,650.0,added,2y,False
+2019-07-01,wbbt,A,16,reasoner: ancestors by hybrid,650.0,added,2y,False
+2019-07-01,wbbt,A,17,names only,6574.0,added,2y,False
+2019-07-01,wbbt,A,17,name vote,6574.0,added,2y,False
+2019-07-01,wbbt,A,17,structural vote,20.0,added,2y,False
+2019-07-01,wbbt,A,17,hybrid,6494.0,added,2y,False
+2019-07-01,wbbt,A,17,reasoner: nearest inferred ancestor,6495.0,added,2y,False
+2019-07-01,wbbt,A,17,reasoner: ancestors by hybrid,6495.0,added,2y,False
+2019-07-01,wbbt,A,18,names only,6789.0,added,2y,False
+2019-07-01,wbbt,A,18,name vote,6789.0,added,2y,False
+2019-07-01,wbbt,A,18,structural vote,20.0,added,2y,False
+2019-07-01,wbbt,A,18,hybrid,6751.0,added,2y,False
+2019-07-01,wbbt,A,18,reasoner: nearest inferred ancestor,6751.0,added,2y,False
+2019-07-01,wbbt,A,18,reasoner: ancestors by hybrid,6751.0,added,2y,False
+2019-07-01,wbbt,A,19,names only,6755.0,added,2y,False
+2019-07-01,wbbt,A,19,name vote,6755.0,added,2y,False
+2019-07-01,wbbt,A,19,structural vote,20.0,added,2y,False
+2019-07-01,wbbt,A,19,hybrid,6720.0,added,2y,False
+2019-07-01,wbbt,A,19,reasoner: nearest inferred ancestor,6720.0,added,2y,False
+2019-07-01,wbbt,A,19,reasoner: ancestors by hybrid,6720.0,added,2y,False
+2019-07-01,wbbt,A,20,names only,6793.0,added,2y,False
+2019-07-01,wbbt,A,20,name vote,6793.0,added,2y,False
+2019-07-01,wbbt,A,20,structural vote,20.0,added,2y,False
+2019-07-01,wbbt,A,20,hybrid,6779.0,added,2y,False
+2019-07-01,wbbt,A,20,reasoner: nearest inferred ancestor,6779.0,added,2y,False
+2019-07-01,wbbt,A,20,reasoner: ancestors by hybrid,6779.0,added,2y,False
+2019-07-01,wbbt,A,21,names only,6645.0,added,2y,False
+2019-07-01,wbbt,A,21,name vote,6645.0,added,2y,False
+2019-07-01,wbbt,A,21,structural vote,20.0,added,2y,False
+2019-07-01,wbbt,A,21,hybrid,6529.0,added,2y,False
+2019-07-01,wbbt,A,21,reasoner: nearest inferred ancestor,6529.0,added,2y,False
+2019-07-01,wbbt,A,21,reasoner: ancestors by hybrid,6529.0,added,2y,False
+2019-07-01,wbbt,A,22,names only,6665.0,added,2y,False
+2019-07-01,wbbt,A,22,name vote,6665.0,added,2y,False
+2019-07-01,wbbt,A,22,structural vote,20.0,added,2y,False
+2019-07-01,wbbt,A,22,hybrid,6622.0,added,2y,False
+2019-07-01,wbbt,A,22,reasoner: nearest inferred ancestor,6622.0,added,2y,False
+2019-07-01,wbbt,A,22,reasoner: ancestors by hybrid,6622.0,added,2y,False
+2019-07-01,wbbt,A,23,names only,6631.0,added,2y,False
+2019-07-01,wbbt,A,23,name vote,6631.0,added,2y,False
+2019-07-01,wbbt,A,23,structural vote,20.0,added,2y,False
+2019-07-01,wbbt,A,23,hybrid,6560.0,added,2y,False
+2019-07-01,wbbt,A,23,reasoner: nearest inferred ancestor,6560.0,added,2y,False
+2019-07-01,wbbt,A,23,reasoner: ancestors by hybrid,6560.0,added,2y,False
+2019-07-01,wbbt,A,24,names only,6704.0,added,2y,False
+2019-07-01,wbbt,A,24,name vote,6704.0,added,2y,False
+2019-07-01,wbbt,A,24,structural vote,20.0,added,2y,False
+2019-07-01,wbbt,A,24,hybrid,6630.0,added,2y,False
+2019-07-01,wbbt,A,24,reasoner: nearest inferred ancestor,6631.0,added,2y,False
+2019-07-01,wbbt,A,24,reasoner: ancestors by hybrid,6631.0,added,2y,False
+2019-07-01,wbbt,A,25,names only,6710.0,added,2y,False
+2019-07-01,wbbt,A,25,name vote,6710.0,added,2y,False
+2019-07-01,wbbt,A,25,structural vote,20.0,added,2y,False
+2019-07-01,wbbt,A,25,hybrid,6638.0,added,2y,False
+2019-07-01,wbbt,A,25,reasoner: nearest inferred ancestor,6639.0,added,2y,False
+2019-07-01,wbbt,A,25,reasoner: ancestors by hybrid,6639.0,added,2y,False
+2019-07-01,wbbt,A,26,names only,6112.0,added,2y,False
+2019-07-01,wbbt,A,26,name vote,6114.0,added,2y,False
+2019-07-01,wbbt,A,26,structural vote,20.0,added,2y,False
+2019-07-01,wbbt,A,26,hybrid,5921.0,added,2y,False
+2019-07-01,wbbt,A,26,reasoner: nearest inferred ancestor,5922.0,added,2y,False
+2019-07-01,wbbt,A,26,reasoner: ancestors by hybrid,5922.0,added,2y,False
+2019-07-01,wbbt,A,27,names only,6584.0,added,2y,False
+2019-07-01,wbbt,A,27,name vote,6584.0,added,2y,False
+2019-07-01,wbbt,A,27,structural vote,20.0,added,2y,False
+2019-07-01,wbbt,A,27,hybrid,6490.0,added,2y,False
+2019-07-01,wbbt,A,27,reasoner: nearest inferred ancestor,6492.0,added,2y,False
+2019-07-01,wbbt,A,27,reasoner: ancestors by hybrid,6492.0,added,2y,False
+2019-07-01,wbbt,A,28,names only,6779.0,added,2y,False
+2019-07-01,wbbt,A,28,name vote,6779.0,added,2y,False
+2019-07-01,wbbt,A,28,structural vote,20.0,added,2y,False
+2019-07-01,wbbt,A,28,hybrid,6753.0,added,2y,False
+2019-07-01,wbbt,A,28,reasoner: nearest inferred ancestor,6753.0,added,2y,False
+2019-07-01,wbbt,A,28,reasoner: ancestors by hybrid,6753.0,added,2y,False
+2019-07-01,wbbt,A,29,names only,6689.0,added,2y,False
+2019-07-01,wbbt,A,29,name vote,6689.0,added,2y,False
+2019-07-01,wbbt,A,29,structural vote,20.0,added,2y,False
+2019-07-01,wbbt,A,29,hybrid,6631.0,added,2y,False
+2019-07-01,wbbt,A,29,reasoner: nearest inferred ancestor,6631.0,added,2y,False
+2019-07-01,wbbt,A,29,reasoner: ancestors by hybrid,6631.0,added,2y,False
+2019-07-01,wbbt,A,30,names only,6613.0,added,2y,False
+2019-07-01,wbbt,A,30,name vote,6613.0,added,2y,False
+2019-07-01,wbbt,A,30,structural vote,20.0,added,2y,False
+2019-07-01,wbbt,A,30,hybrid,6483.0,added,2y,False
+2019-07-01,wbbt,A,30,reasoner: nearest inferred ancestor,6484.0,added,2y,False
+2019-07-01,wbbt,A,30,reasoner: ancestors by hybrid,6484.0,added,2y,False
+2019-07-01,wbbt,A,31,names only,6797.0,added,2y,False
+2019-07-01,wbbt,A,31,name vote,6797.0,added,2y,False
+2019-07-01,wbbt,A,31,structural vote,20.0,added,2y,False
+2019-07-01,wbbt,A,31,hybrid,6773.0,added,2y,False
+2019-07-01,wbbt,A,31,reasoner: nearest inferred ancestor,6773.0,added,2y,False
+2019-07-01,wbbt,A,31,reasoner: ancestors by hybrid,6773.0,added,2y,False
+2019-07-01,wbbt,A,32,names only,6498.0,added,2y,False
+2019-07-01,wbbt,A,32,name vote,6498.0,added,2y,False
+2019-07-01,wbbt,A,32,structural vote,20.0,added,2y,False
+2019-07-01,wbbt,A,32,hybrid,6421.0,added,2y,False
+2019-07-01,wbbt,A,32,reasoner: nearest inferred ancestor,6422.0,added,2y,False
+2019-07-01,wbbt,A,32,reasoner: ancestors by hybrid,6422.0,added,2y,False
+2019-07-01,wbbt,A,33,names only,6791.0,added,2y,False
+2019-07-01,wbbt,A,33,name vote,6791.0,added,2y,False
+2019-07-01,wbbt,A,33,structural vote,20.0,added,2y,False
+2019-07-01,wbbt,A,33,hybrid,6728.0,added,2y,False
+2019-07-01,wbbt,A,33,reasoner: nearest inferred ancestor,6728.0,added,2y,False
+2019-07-01,wbbt,A,33,reasoner: ancestors by hybrid,6728.0,added,2y,False
+2019-07-01,wbbt,A,34,names only,6699.0,added,2y,False
+2019-07-01,wbbt,A,34,name vote,6699.0,added,2y,False
+2019-07-01,wbbt,A,34,structural vote,20.0,added,2y,False
+2019-07-01,wbbt,A,34,hybrid,6626.0,added,2y,False
+2019-07-01,wbbt,A,34,reasoner: nearest inferred ancestor,6627.0,added,2y,False
+2019-07-01,wbbt,A,34,reasoner: ancestors by hybrid,6627.0,added,2y,False
+2019-07-01,wbbt,A,35,names only,6715.0,added,2y,False
+2019-07-01,wbbt,A,35,name vote,6715.0,added,2y,False
+2019-07-01,wbbt,A,35,structural vote,20.0,added,2y,False
+2019-07-01,wbbt,A,35,hybrid,6664.0,added,2y,False
+2019-07-01,wbbt,A,35,reasoner: nearest inferred ancestor,6664.0,added,2y,False
+2019-07-01,wbbt,A,35,reasoner: ancestors by hybrid,6664.0,added,2y,False
+2019-07-01,wbbt,A,36,names only,6551.0,added,2y,False
+2019-07-01,wbbt,A,36,name vote,6551.0,added,2y,False
+2019-07-01,wbbt,A,36,structural vote,20.0,added,2y,False
+2019-07-01,wbbt,A,36,hybrid,6431.0,added,2y,False
+2019-07-01,wbbt,A,36,reasoner: nearest inferred ancestor,6432.0,added,2y,False
+2019-07-01,wbbt,A,36,reasoner: ancestors by hybrid,6432.0,added,2y,False
+2019-07-01,wbbt,A,37,names only,2856.0,added,2y,False
+2019-07-01,wbbt,A,37,name vote,2858.0,added,2y,False
+2019-07-01,wbbt,A,37,structural vote,12.0,added,2y,False
+2019-07-01,wbbt,A,37,hybrid,1184.0,added,2y,False
+2019-07-01,wbbt,A,37,reasoner: nearest inferred ancestor,1188.0,added,2y,False
+2019-07-01,wbbt,A,37,reasoner: ancestors by hybrid,1188.0,added,2y,False
+2019-07-01,wbbt,A,38,names only,6577.0,added,2y,False
+2019-07-01,wbbt,A,38,name vote,6578.0,added,2y,False
+2019-07-01,wbbt,A,38,structural vote,8.0,added,2y,False
+2019-07-01,wbbt,A,38,hybrid,6480.0,added,2y,False
+2019-07-01,wbbt,A,38,reasoner: nearest inferred ancestor,6482.0,added,2y,False
+2019-07-01,wbbt,A,38,reasoner: ancestors by hybrid,6482.0,added,2y,False
+2019-07-01,wbbt,A,39,names only,6446.0,added,2y,False
+2019-07-01,wbbt,A,39,name vote,6447.0,added,2y,False
+2019-07-01,wbbt,A,39,structural vote,8.0,added,2y,False
+2019-07-01,wbbt,A,39,hybrid,6317.0,added,2y,False
+2019-07-01,wbbt,A,39,reasoner: nearest inferred ancestor,6319.0,added,2y,False
+2019-07-01,wbbt,A,39,reasoner: ancestors by hybrid,6319.0,added,2y,False
+2019-07-01,wbbt,A,40,names only,4878.0,added,2y,False
+2019-07-01,wbbt,A,40,name vote,4879.0,added,2y,False
+2019-07-01,wbbt,A,40,structural vote,8.0,added,2y,False
+2019-07-01,wbbt,A,40,hybrid,4562.0,added,2y,False
+2019-07-01,wbbt,A,40,reasoner: nearest inferred ancestor,4564.0,added,2y,False
+2019-07-01,wbbt,A,40,reasoner: ancestors by hybrid,4564.0,added,2y,False
+2019-07-01,wbbt,A,41,names only,644.0,added,2y,False
+2019-07-01,wbbt,A,41,name vote,646.0,added,2y,False
+2019-07-01,wbbt,A,41,structural vote,3.0,added,2y,False
+2019-07-01,wbbt,A,41,hybrid,59.0,added,2y,False
+2019-07-01,wbbt,A,41,reasoner: nearest inferred ancestor,63.0,added,2y,False
+2019-07-01,wbbt,A,41,reasoner: ancestors by hybrid,63.0,added,2y,False
+2019-07-01,wbbt,A,42,names only,6738.0,added,2y,False
+2019-07-01,wbbt,A,42,name vote,6738.0,added,2y,False
+2019-07-01,wbbt,A,42,structural vote,10.0,added,2y,False
+2019-07-01,wbbt,A,42,hybrid,6711.0,added,2y,False
+2019-07-01,wbbt,A,42,reasoner: nearest inferred ancestor,6712.0,added,2y,False
+2019-07-01,wbbt,A,42,reasoner: ancestors by hybrid,6712.0,added,2y,False
+2019-07-01,wbbt,A,43,names only,6794.0,added,2y,False
+2019-07-01,wbbt,A,43,name vote,6794.0,added,2y,False
+2019-07-01,wbbt,A,43,structural vote,8.0,added,2y,False
+2019-07-01,wbbt,A,43,hybrid,6782.0,added,2y,False
+2019-07-01,wbbt,A,43,reasoner: nearest inferred ancestor,6782.0,added,2y,False
+2019-07-01,wbbt,A,43,reasoner: ancestors by hybrid,6782.0,added,2y,False
+2019-07-01,wbbt,A,44,names only,6553.0,added,2y,False
+2019-07-01,wbbt,A,44,name vote,6553.0,added,2y,False
+2019-07-01,wbbt,A,44,structural vote,52.0,added,2y,False
+2019-07-01,wbbt,A,44,hybrid,6545.0,added,2y,False
+2019-07-01,wbbt,A,44,reasoner: nearest inferred ancestor,6546.0,added,2y,False
+2019-07-01,wbbt,A,44,reasoner: ancestors by hybrid,6546.0,added,2y,False
+2019-07-01,wbbt,A,45,names only,6551.0,added,2y,False
+2019-07-01,wbbt,A,45,name vote,6551.0,added,2y,False
+2019-07-01,wbbt,A,45,structural vote,52.0,added,2y,False
+2019-07-01,wbbt,A,45,hybrid,6543.0,added,2y,False
+2019-07-01,wbbt,A,45,reasoner: nearest inferred ancestor,6544.0,added,2y,False
+2019-07-01,wbbt,A,45,reasoner: ancestors by hybrid,6544.0,added,2y,False
+2019-07-01,wbbt,A,46,names only,6502.0,added,2y,False
+2019-07-01,wbbt,A,46,name vote,6503.0,added,2y,False
+2019-07-01,wbbt,A,46,structural vote,52.0,added,2y,False
+2019-07-01,wbbt,A,46,hybrid,6459.0,added,2y,False
+2019-07-01,wbbt,A,46,reasoner: nearest inferred ancestor,6459.0,added,2y,False
+2019-07-01,wbbt,A,46,reasoner: ancestors by hybrid,6459.0,added,2y,False
+2019-07-01,wbbt,A,47,names only,6532.0,added,2y,False
+2019-07-01,wbbt,A,47,name vote,6532.0,added,2y,False
+2019-07-01,wbbt,A,47,structural vote,52.0,added,2y,False
+2019-07-01,wbbt,A,47,hybrid,6520.0,added,2y,False
+2019-07-01,wbbt,A,47,reasoner: nearest inferred ancestor,6521.0,added,2y,False
+2019-07-01,wbbt,A,47,reasoner: ancestors by hybrid,6521.0,added,2y,False
+2019-07-01,wbbt,A,48,names only,6477.0,added,2y,False
+2019-07-01,wbbt,A,48,name vote,6477.0,added,2y,False
+2019-07-01,wbbt,A,48,structural vote,52.0,added,2y,False
+2019-07-01,wbbt,A,48,hybrid,6464.0,added,2y,False
+2019-07-01,wbbt,A,48,reasoner: nearest inferred ancestor,6465.0,added,2y,False
+2019-07-01,wbbt,A,48,reasoner: ancestors by hybrid,6465.0,added,2y,False
+2019-07-01,wbbt,A,49,names only,6433.0,added,2y,False
+2019-07-01,wbbt,A,49,name vote,6433.0,added,2y,False
+2019-07-01,wbbt,A,49,structural vote,52.0,added,2y,False
+2019-07-01,wbbt,A,49,hybrid,6428.0,added,2y,False
+2019-07-01,wbbt,A,49,reasoner: nearest inferred ancestor,6429.0,added,2y,False
+2019-07-01,wbbt,A,49,reasoner: ancestors by hybrid,6429.0,added,2y,False
+2019-07-01,wbbt,A,50,names only,6346.0,added,2y,False
+2019-07-01,wbbt,A,50,name vote,6346.0,added,2y,False
+2019-07-01,wbbt,A,50,structural vote,52.0,added,2y,False
+2019-07-01,wbbt,A,50,hybrid,6335.0,added,2y,False
+2019-07-01,wbbt,A,50,reasoner: nearest inferred ancestor,6336.0,added,2y,False
+2019-07-01,wbbt,A,50,reasoner: ancestors by hybrid,6336.0,added,2y,False
+2019-07-01,wbbt,A,51,names only,6410.0,added,2y,False
+2019-07-01,wbbt,A,51,name vote,6410.0,added,2y,False
+2019-07-01,wbbt,A,51,structural vote,52.0,added,2y,False
+2019-07-01,wbbt,A,51,hybrid,6371.0,added,2y,False
+2019-07-01,wbbt,A,51,reasoner: nearest inferred ancestor,6372.0,added,2y,False
+2019-07-01,wbbt,A,51,reasoner: ancestors by hybrid,6372.0,added,2y,False
+2019-07-01,wbbt,A,52,names only,6372.0,added,2y,False
+2019-07-01,wbbt,A,52,name vote,6372.0,added,2y,False
+2019-07-01,wbbt,A,52,structural vote,52.0,added,2y,False
+2019-07-01,wbbt,A,52,hybrid,6343.0,added,2y,False
+2019-07-01,wbbt,A,52,reasoner: nearest inferred ancestor,6345.0,added,2y,False
+2019-07-01,wbbt,A,52,reasoner: ancestors by hybrid,6345.0,added,2y,False
+2019-07-01,wbbt,A,53,names only,6251.0,added,2y,False
+2019-07-01,wbbt,A,53,name vote,6251.0,added,2y,False
+2019-07-01,wbbt,A,53,structural vote,52.0,added,2y,False
+2019-07-01,wbbt,A,53,hybrid,6210.0,added,2y,False
+2019-07-01,wbbt,A,53,reasoner: nearest inferred ancestor,6212.0,added,2y,False
+2019-07-01,wbbt,A,53,reasoner: ancestors by hybrid,6212.0,added,2y,False
+2019-07-01,wbbt,A,54,names only,6550.0,added,2y,False
+2019-07-01,wbbt,A,54,name vote,6550.0,added,2y,False
+2019-07-01,wbbt,A,54,structural vote,52.0,added,2y,False
+2019-07-01,wbbt,A,54,hybrid,6540.0,added,2y,False
+2019-07-01,wbbt,A,54,reasoner: nearest inferred ancestor,6542.0,added,2y,False
+2019-07-01,wbbt,A,54,reasoner: ancestors by hybrid,6542.0,added,2y,False
+2019-07-01,wbbt,A,55,names only,6484.0,added,2y,False
+2019-07-01,wbbt,A,55,name vote,6484.0,added,2y,False
+2019-07-01,wbbt,A,55,structural vote,52.0,added,2y,False
+2019-07-01,wbbt,A,55,hybrid,6456.0,added,2y,False
+2019-07-01,wbbt,A,55,reasoner: nearest inferred ancestor,6457.0,added,2y,False
+2019-07-01,wbbt,A,55,reasoner: ancestors by hybrid,6457.0,added,2y,False
+2019-07-01,wbbt,A,56,names only,6493.0,added,2y,False
+2019-07-01,wbbt,A,56,name vote,6493.0,added,2y,False
+2019-07-01,wbbt,A,56,structural vote,52.0,added,2y,False
+2019-07-01,wbbt,A,56,hybrid,6479.0,added,2y,False
+2019-07-01,wbbt,A,56,reasoner: nearest inferred ancestor,6480.0,added,2y,False
+2019-07-01,wbbt,A,56,reasoner: ancestors by hybrid,6480.0,added,2y,False
+2019-07-01,wbbt,A,57,names only,6152.0,added,2y,False
+2019-07-01,wbbt,A,57,name vote,6152.0,added,2y,False
+2019-07-01,wbbt,A,57,structural vote,52.0,added,2y,False
+2019-07-01,wbbt,A,57,hybrid,6107.0,added,2y,False
+2019-07-01,wbbt,A,57,reasoner: nearest inferred ancestor,6108.0,added,2y,False
+2019-07-01,wbbt,A,57,reasoner: ancestors by hybrid,6108.0,added,2y,False
+2019-07-01,wbbt,A,58,names only,6316.0,added,2y,False
+2019-07-01,wbbt,A,58,name vote,6316.0,added,2y,False
+2019-07-01,wbbt,A,58,structural vote,52.0,added,2y,False
+2019-07-01,wbbt,A,58,hybrid,6299.0,added,2y,False
+2019-07-01,wbbt,A,58,reasoner: nearest inferred ancestor,6300.0,added,2y,False
+2019-07-01,wbbt,A,58,reasoner: ancestors by hybrid,6300.0,added,2y,False
+2019-07-01,wbbt,A,59,names only,65.0,added,2y,False
+2019-07-01,wbbt,A,59,name vote,69.0,added,2y,False
+2019-07-01,wbbt,A,59,structural vote,8.0,added,2y,False
+2019-07-01,wbbt,A,59,hybrid,71.0,added,2y,False
+2019-07-01,wbbt,A,59,reasoner: nearest inferred ancestor,72.0,added,2y,False
+2019-07-01,wbbt,A,59,reasoner: ancestors by hybrid,72.0,added,2y,False
+2019-07-01,wbbt,A,60,names only,109.0,moved,2y,False
+2019-07-01,wbbt,A,60,name vote,111.0,moved,2y,False
+2019-07-01,wbbt,A,60,structural vote,7.0,moved,2y,False
+2019-07-01,wbbt,A,60,hybrid,112.0,moved,2y,False
+2019-07-01,wbbt,A,60,reasoner: nearest inferred ancestor,112.0,moved,2y,False
+2019-07-01,wbbt,A,60,reasoner: ancestors by hybrid,112.0,moved,2y,False
+2019-07-01,wbbt,A,61,names only,1.5,added,3y+,False
+2019-07-01,wbbt,A,61,name vote,1.0,added,3y+,False
+2019-07-01,wbbt,A,61,structural vote,4.0,added,3y+,False
+2019-07-01,wbbt,A,61,hybrid,1.0,added,3y+,False
+2019-07-01,wbbt,A,61,reasoner: nearest inferred ancestor,3.0,added,3y+,False
+2019-07-01,wbbt,A,61,reasoner: ancestors by hybrid,3.0,added,3y+,False
+2019-07-01,wbbt,A,62,names only,4.5,added,3y+,False
+2019-07-01,wbbt,A,62,name vote,1.0,added,3y+,False
+2019-07-01,wbbt,A,62,structural vote,4.0,added,3y+,False
+2019-07-01,wbbt,A,62,hybrid,1.0,added,3y+,False
+2019-07-01,wbbt,A,62,reasoner: nearest inferred ancestor,3.0,added,3y+,False
+2019-07-01,wbbt,A,62,reasoner: ancestors by hybrid,3.0,added,3y+,False
+2019-07-01,wbbt,A,63,names only,4746.0,moved,3y+,False
+2019-07-01,wbbt,A,63,name vote,5.0,moved,3y+,False
+2019-07-01,wbbt,A,63,structural vote,11.5,moved,3y+,False
+2019-07-01,wbbt,A,63,hybrid,3.0,moved,3y+,False
+2019-07-01,wbbt,A,63,reasoner: nearest inferred ancestor,11.0,moved,3y+,False
+2019-07-01,wbbt,A,63,reasoner: ancestors by hybrid,11.0,moved,3y+,False
+2019-07-01,wbbt,A,64,names only,6002.0,moved,3y+,False
+2019-07-01,wbbt,A,64,name vote,6.0,moved,3y+,False
+2019-07-01,wbbt,A,64,structural vote,10.5,moved,3y+,False
+2019-07-01,wbbt,A,64,hybrid,6.0,moved,3y+,False
+2019-07-01,wbbt,A,64,reasoner: nearest inferred ancestor,14.0,moved,3y+,False
+2019-07-01,wbbt,A,64,reasoner: ancestors by hybrid,14.0,moved,3y+,False
+2019-07-01,wbbt,A,65,names only,5933.0,moved,3y+,False
+2019-07-01,wbbt,A,65,name vote,3.0,moved,3y+,False
+2019-07-01,wbbt,A,65,structural vote,11.5,moved,3y+,False
+2019-07-01,wbbt,A,65,hybrid,3.0,moved,3y+,False
+2019-07-01,wbbt,A,65,reasoner: nearest inferred ancestor,11.0,moved,3y+,False
+2019-07-01,wbbt,A,65,reasoner: ancestors by hybrid,11.0,moved,3y+,False
+2019-07-01,wbbt,A,66,names only,57.0,moved,3y+,False
+2019-07-01,wbbt,A,66,name vote,58.0,moved,3y+,False
+2019-07-01,wbbt,A,66,structural vote,62.5,moved,3y+,False
+2019-07-01,wbbt,A,66,hybrid,60.0,moved,3y+,False
+2019-07-01,wbbt,A,66,reasoner: nearest inferred ancestor,61.0,moved,3y+,False
+2019-07-01,wbbt,A,66,reasoner: ancestors by hybrid,61.0,moved,3y+,False
+2019-07-01,wbbt,B,0,names only,799.0,new,1y,
+2019-07-01,wbbt,B,0,name vote,2.0,new,1y,
+2019-07-01,wbbt,B,0,structural vote,71.0,new,1y,
+2019-07-01,wbbt,B,0,hybrid,2.0,new,1y,
+2019-07-01,wbbt,B,1,names only,1211.0,new,1y,
+2019-07-01,wbbt,B,1,name vote,1216.0,new,1y,
+2019-07-01,wbbt,B,1,structural vote,9.5,new,1y,
+2019-07-01,wbbt,B,1,hybrid,1216.0,new,1y,
+2019-07-01,wbbt,B,2,names only,829.0,new,1y,
+2019-07-01,wbbt,B,2,name vote,833.0,new,1y,
+2019-07-01,wbbt,B,2,structural vote,9.5,new,1y,
+2019-07-01,wbbt,B,2,hybrid,833.0,new,1y,
+2019-07-01,wbbt,B,3,names only,6.0,new,2y,
+2019-07-01,wbbt,B,3,name vote,12.0,new,2y,
+2019-07-01,wbbt,B,3,structural vote,3728.0,new,2y,
+2019-07-01,wbbt,B,3,hybrid,12.0,new,2y,
+2019-07-01,wbbt,B,4,names only,17.0,new,2y,
+2019-07-01,wbbt,B,4,name vote,27.0,new,2y,
+2019-07-01,wbbt,B,4,structural vote,3728.0,new,2y,
+2019-07-01,wbbt,B,4,hybrid,27.0,new,2y,
+2019-07-01,wbbt,B,5,names only,11.0,new,2y,
+2019-07-01,wbbt,B,5,name vote,17.0,new,2y,
+2019-07-01,wbbt,B,5,structural vote,3728.0,new,2y,
+2019-07-01,wbbt,B,5,hybrid,17.0,new,2y,
+2019-07-01,wbbt,B,6,names only,103.0,new,2y,
+2019-07-01,wbbt,B,6,name vote,113.0,new,2y,
+2019-07-01,wbbt,B,6,structural vote,3728.0,new,2y,
+2019-07-01,wbbt,B,6,hybrid,113.0,new,2y,
+2019-07-01,wbbt,B,7,names only,97.0,new,2y,
+2019-07-01,wbbt,B,7,name vote,107.0,new,2y,
+2019-07-01,wbbt,B,7,structural vote,3728.0,new,2y,
+2019-07-01,wbbt,B,7,hybrid,107.0,new,2y,
+2019-07-01,wbbt,B,8,names only,9.0,new,2y,
+2019-07-01,wbbt,B,8,name vote,12.0,new,2y,
+2019-07-01,wbbt,B,8,structural vote,3728.0,new,2y,
+2019-07-01,wbbt,B,8,hybrid,12.0,new,2y,

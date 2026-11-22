@@ -1,0 +1,43 @@
+cutoff,ontology,task,i,model,rank,kind,h,entailed
+2023-07-01,colao,A,0,names only,201.0,moved,1y,False
+2023-07-01,colao,A,0,name vote,202.0,moved,1y,False
+2023-07-01,colao,A,0,structural vote,149.0,moved,1y,False
+2023-07-01,colao,A,0,hybrid,203.0,moved,1y,False
+2023-07-01,colao,A,0,reasoner: nearest inferred ancestor,203.0,moved,1y,False
+2023-07-01,colao,A,0,reasoner: ancestors by hybrid,203.0,moved,1y,False
+2023-07-01,colao,A,1,names only,95.0,moved,1y,False
+2023-07-01,colao,A,1,name vote,96.0,moved,1y,False
+2023-07-01,colao,A,1,structural vote,150.5,moved,1y,False
+2023-07-01,colao,A,1,hybrid,101.0,moved,1y,False
+2023-07-01,colao,A,1,reasoner: nearest inferred ancestor,101.0,moved,1y,False
+2023-07-01,colao,A,1,reasoner: ancestors by hybrid,101.0,moved,1y,False
+2023-07-01,colao,A,2,names only,833.0,moved,1y,False
+2023-07-01,colao,A,2,name vote,833.0,moved,1y,False
+2023-07-01,colao,A,2,structural vote,534.5,moved,1y,False
+2023-07-01,colao,A,2,hybrid,835.0,moved,1y,False
+2023-07-01,colao,A,2,reasoner: nearest inferred ancestor,835.0,moved,1y,False
+2023-07-01,colao,A,2,reasoner: ancestors by hybrid,835.0,moved,1y,False
+2023-07-01,colao,A,3,names only,813.0,moved,1y,True
+2023-07-01,colao,A,3,name vote,14.0,moved,1y,True
+2023-07-01,colao,A,3,structural vote,85.5,moved,1y,True
+2023-07-01,colao,A,3,hybrid,14.0,moved,1y,True
+2023-07-01,colao,A,3,reasoner: nearest inferred ancestor,1.0,moved,1y,True
+2023-07-01,colao,A,3,reasoner: ancestors by hybrid,1.0,moved,1y,True
+2023-07-01,colao,A,4,names only,691.0,moved,1y,False
+2023-07-01,colao,A,4,name vote,691.0,moved,1y,False
+2023-07-01,colao,A,4,structural vote,87.5,moved,1y,False
+2023-07-01,colao,A,4,hybrid,692.0,moved,1y,False
+2023-07-01,colao,A,4,reasoner: nearest inferred ancestor,692.0,moved,1y,False
+2023-07-01,colao,A,4,reasoner: ancestors by hybrid,692.0,moved,1y,False
+2023-07-01,colao,B,0,names only,1.0,new,1y,
+2023-07-01,colao,B,0,name vote,1.0,new,1y,
+2023-07-01,colao,B,0,structural vote,14.0,new,1y,
+2023-07-01,colao,B,0,hybrid,1.0,new,1y,
+2023-07-01,colao,B,1,names only,3.0,new,1y,
+2023-07-01,colao,B,1,name vote,1.0,new,1y,
+2023-07-01,colao,B,1,structural vote,31.5,new,1y,
+2023-07-01,colao,B,1,hybrid,1.0,new,1y,
+2023-07-01,colao,B,2,names only,1.0,new,1y,
+2023-07-01,colao,B,2,name vote,1.0,new,1y,
+2023-07-01,colao,B,2,structural vote,47.0,new,1y,
+2023-07-01,colao,B,2,hybrid,1.0,new,1y,

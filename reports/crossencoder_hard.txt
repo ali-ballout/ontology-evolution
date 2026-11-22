@@ -1,0 +1,22 @@
+
+=== hard negatives (100 candidates per query; mean over ontologies)
+                                                                                                MRR  Hits@1  Hits@10
+set                   model                                                                                        
+GO, Uberon, CL        names only (TF-IDF)                                                    0.261   0.170    0.441
+                      BERTSubs-style, isolated class, zero-shot                              0.375   0.214    0.727
+                      look-alike vote + names                                                0.407   0.266    0.677
+                      BERTSubs-style, path context, zero-shot                                0.421   0.252    0.757
+                      BERTSubs-style, path context, fine-tuned on this ontology (reference)  0.442   0.274    0.783
+                      GNN + names, learned jointly (3 seeds)                                 0.570   0.433    0.849
+                      GNN + BERTSubs zero-shot (summed standardised scores)                  0.578   0.400    0.892
+fold 0 (8 ontologies) names only (TF-IDF)                                                    0.276   0.165    0.470
+                      BERTSubs-style, path context, zero-shot                                0.289   0.148    0.598
+                      BERTSubs-style, isolated class, zero-shot                              0.296   0.158    0.596
+                      BERTSubs-style, path context, fine-tuned on this ontology (reference)  0.436   0.274    0.756
+                      look-alike vote + names                                                0.529   0.393    0.775
+                      GNN + BERTSubs zero-shot (summed standardised scores)                  0.591   0.437    0.876
+                      GNN + names, learned jointly (3 seeds)                                 0.621   0.484    0.877
+GNN vs BERTSubs-style, isolated class, zero-shot: wins 11/11, median margin 0.305, smallest 0.169
+GNN vs BERTSubs-style, path context, fine-tuned on this ontology (reference): wins 11/11, median margin 0.176, smallest 0.096
+GNN vs BERTSubs-style, path context, zero-shot: wins 11/11, median margin 0.286, smallest 0.110
+GNN vs look-alike vote + names: wins 11/11, median margin 0.107, smallest 0.033

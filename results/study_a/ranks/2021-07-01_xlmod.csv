@@ -1,0 +1,29 @@
+cutoff,ontology,task,i,model,rank,kind,h,entailed
+2021-07-01,xlmod,A,0,names only,1042.0,moved,3y+,False
+2021-07-01,xlmod,A,0,name vote,1.0,moved,3y+,False
+2021-07-01,xlmod,A,0,structural vote,6.0,moved,3y+,False
+2021-07-01,xlmod,A,0,hybrid,1.0,moved,3y+,False
+2021-07-01,xlmod,A,0,reasoner: nearest inferred ancestor,3.0,moved,3y+,False
+2021-07-01,xlmod,A,0,reasoner: ancestors by hybrid,3.0,moved,3y+,False
+2021-07-01,xlmod,A,1,names only,1066.0,moved,3y+,False
+2021-07-01,xlmod,A,1,name vote,1066.0,moved,3y+,False
+2021-07-01,xlmod,A,1,structural vote,5.0,moved,3y+,False
+2021-07-01,xlmod,A,1,hybrid,1065.0,moved,3y+,False
+2021-07-01,xlmod,A,1,reasoner: nearest inferred ancestor,1065.0,moved,3y+,False
+2021-07-01,xlmod,A,1,reasoner: ancestors by hybrid,1065.0,moved,3y+,False
+2021-07-01,xlmod,B,0,names only,685.0,new,3y+,
+2021-07-01,xlmod,B,0,name vote,1.0,new,3y+,
+2021-07-01,xlmod,B,0,structural vote,2.0,new,3y+,
+2021-07-01,xlmod,B,0,hybrid,1.0,new,3y+,
+2021-07-01,xlmod,B,1,names only,8.0,new,3y+,
+2021-07-01,xlmod,B,1,name vote,3.0,new,3y+,
+2021-07-01,xlmod,B,1,structural vote,16.0,new,3y+,
+2021-07-01,xlmod,B,1,hybrid,3.0,new,3y+,
+2021-07-01,xlmod,B,2,names only,823.0,new,3y+,
+2021-07-01,xlmod,B,2,name vote,3.0,new,3y+,
+2021-07-01,xlmod,B,2,structural vote,3.0,new,3y+,
+2021-07-01,xlmod,B,2,hybrid,3.0,new,3y+,
+2021-07-01,xlmod,B,3,names only,685.0,new,3y+,
+2021-07-01,xlmod,B,3,name vote,1.0,new,3y+,
+2021-07-01,xlmod,B,3,structural vote,2.0,new,3y+,
+2021-07-01,xlmod,B,3,hybrid,1.0,new,3y+,

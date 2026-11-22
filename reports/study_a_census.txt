@@ -1,0 +1,42 @@
+ontologies per cutoff: {'2019-07-01': 34, '2021-07-01': 41, '2023-07-01': 41} | reasoner ok: {'2019-07-01': 34, '2021-07-01': 41, '2023-07-01': 41}
+
+== Own-namespace edits after each cutoff (all first appearances; still present in current in brackets)
+2019-07-01: moved 9509 (7065), added 3585 (2072), new classes 16650 (16442), of which outside the task 41.5%
+2021-07-01: moved 7151 (5844), added 3110 (1969), new classes 13261 (13174), of which outside the task 42.9%
+2023-07-01: moved 4781 (4189), added 1823 (1461), new classes 8042 (8021), of which outside the task 44.8%
+
+== Entailed share of re-parenting edits (own), pooled and per ontology (ontologies with >= 10 edits of that kind)
+2019-07-01 added : pooled 36.8%; 20 ontologies, median 5.7%, range 0%–73%
+2019-07-01 moved : pooled 58.0%; 18 ontologies, median 23.7%, range 0%–81%
+   paired moved − added entailed share: 16 ontologies, moved higher in 10, median difference +12.6%
+2021-07-01 added : pooled 38.3%; 14 ontologies, median 4.4%, range 0%–66%
+2021-07-01 moved : pooled 56.4%; 17 ontologies, median 32.3%, range 0%–73%
+   paired moved − added entailed share: 13 ontologies, moved higher in 8, median difference +5.2%
+2023-07-01 added : pooled 32.3%; 13 ontologies, median 8.3%, range 0%–78%
+2023-07-01 moved : pooled 61.4%; 13 ontologies, median 32.6%, range 5%–84%
+   paired moved − added entailed share: 11 ontologies, moved higher in 10, median difference +15.2%
+
+== Horizon: share of own edits that appear within 1 year of the cutoff
+2019-07-01: within 1 year — moved 12%, added 21%, new_placeable 18%
+2021-07-01: within 1 year — moved 19%, added 38%, new_placeable 22%
+2023-07-01: within 1 year — moved 35%, added 49%, new_placeable 25%
+
+== Reverted later (own, first appeared but absent from the current release)
+2019-07-01: added 42%, moved 26%, new_outside 1%, new_placeable 2%
+2021-07-01: added 37%, moved 18%, new_outside 1%, new_placeable 1%
+2023-07-01: added 20%, moved 12%, new_outside 0%, new_placeable 0%
+
+== Ontologies with test material (own: >= 10 re-parenting edits / >= 10 placeable new classes, still present); independent in brackets
+2019-07-01: re-parenting 23 (12), new classes 27 (14)
+2021-07-01: re-parenting 20 (7), new classes 28 (15)
+2023-07-01: re-parenting 15 (4), new classes 23 (12)
+
+== GO's weight in re-parenting edits, and entailed share without GO
+2019-07-01: GO 70% of own re-parenting edits; without GO entailed share moved 37%, added 26%; GO alone moved 64%
+2021-07-01: GO 67% of own re-parenting edits; without GO entailed share moved 43%, added 38%; GO alone moved 61%
+2023-07-01: GO 66% of own re-parenting edits; without GO entailed share moved 45%, added 15%; GO alone moved 68%
+
+== Families at each cutoff (0.5% class / is-a overlap, connected components)
+2019-07-01: block 17, independent 17
+2021-07-01: block 23, independent 18
+2023-07-01: block 23, independent 18

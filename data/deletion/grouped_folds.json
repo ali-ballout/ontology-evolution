@@ -1,0 +1,64 @@
+[
+ {
+  "name": "A: connected block",
+  "test": [
+   "aism",
+   "chmo",
+   "colao",
+   "ehdaa2",
+   "envo",
+   "lepao",
+   "maxo",
+   "mco",
+   "mop",
+   "nbo",
+   "obi",
+   "omp",
+   "pato",
+   "peco",
+   "plana",
+   "po",
+   "poro",
+   "rxno",
+   "so",
+   "stato",
+   "to"
+  ],
+  "extra": [
+   "go",
+   "uberon",
+   "cl"
+  ]
+ },
+ {
+  "name": "B1: independent",
+  "test": [
+   "cmo",
+   "fbcv",
+   "mi",
+   "mmo",
+   "mpath",
+   "pw",
+   "symp",
+   "wbphenotype",
+   "xco",
+   "zfa"
+  ],
+  "extra": []
+ },
+ {
+  "name": "B2: independent",
+  "test": [
+   "eco",
+   "hao",
+   "miro",
+   "mod",
+   "ms",
+   "rs",
+   "wbbt",
+   "xao",
+   "xlmod"
+  ],
+  "extra": []
+ }
+]

@@ -1,0 +1,114 @@
+
+== F1 primary: queries whose link is in training material excluded
+  2019 deletion: GNN 0.555, hybrid 0.492, name search 0.255 (28 ontologies)
+  2019 future non-entailed re-parenting: GNN 0.187 (deletion 0.555), GNN−hybrid +0.010 (deletion +0.062)
+  2019 GNN deletion − future non-entailed re-parenting: mean +0.368, median +0.366, positive 22/23, CI +0.304..+0.431
+  2019 (GNN−hybrid) deletion − future non-entailed re-parenting: mean +0.052, median +0.063, positive 17/23, CI +0.024..+0.082
+  2019 future re-parenting (all): GNN 0.200 (deletion 0.555), GNN−hybrid +0.005 (deletion +0.062)
+  2019 GNN deletion − future re-parenting (all): mean +0.355, median +0.334, positive 23/23, CI +0.296..+0.416
+  2019 (GNN−hybrid) deletion − future re-parenting (all): mean +0.057, median +0.061, positive 19/23, CI +0.028..+0.089
+  2019 future new classes: GNN 0.450 (deletion 0.546), GNN−hybrid +0.033 (deletion +0.065)
+  2019 GNN deletion − future new classes: mean +0.096, median +0.097, positive 21/27, CI +0.051..+0.140
+  2019 (GNN−hybrid) deletion − future new classes: mean +0.032, median +0.019, positive 17/27, CI +0.003..+0.062
+  2021 deletion: GNN 0.575, hybrid 0.506, name search 0.262 (29 ontologies)
+  2021 future non-entailed re-parenting: GNN 0.195 (deletion 0.553), GNN−hybrid +0.034 (deletion +0.069)
+  2021 GNN deletion − future non-entailed re-parenting: mean +0.358, median +0.333, positive 16/16, CI +0.300..+0.416
+  2021 (GNN−hybrid) deletion − future non-entailed re-parenting: mean +0.035, median +0.032, positive 9/16, CI -0.006..+0.079
+  2021 future re-parenting (all): GNN 0.207 (deletion 0.552), GNN−hybrid +0.009 (deletion +0.065)
+  2021 GNN deletion − future re-parenting (all): mean +0.345, median +0.339, positive 20/20, CI +0.289..+0.402
+  2021 (GNN−hybrid) deletion − future re-parenting (all): mean +0.056, median +0.050, positive 15/20, CI +0.015..+0.095
+  2021 future new classes: GNN 0.452 (deletion 0.580), GNN−hybrid +0.054 (deletion +0.073)
+  2021 GNN deletion − future new classes: mean +0.128, median +0.125, positive 22/27, CI +0.082..+0.174
+  2021 (GNN−hybrid) deletion − future new classes: mean +0.019, median +0.019, positive 16/27, CI -0.012..+0.050
+  2023 deletion: GNN 0.546, hybrid 0.466, name search 0.257 (24 ontologies)
+  2023 future non-entailed re-parenting: GNN 0.192 (deletion 0.511), GNN−hybrid +0.034 (deletion +0.068)
+  2023 GNN deletion − future non-entailed re-parenting: mean +0.319, median +0.336, positive 13/14, CI +0.239..+0.386
+  2023 (GNN−hybrid) deletion − future non-entailed re-parenting: mean +0.034, median +0.034, positive 12/14, CI -0.010..+0.071
+  2023 future re-parenting (all): GNN 0.213 (deletion 0.511), GNN−hybrid +0.024 (deletion +0.068)
+  2023 GNN deletion − future re-parenting (all): mean +0.298, median +0.306, positive 14/14, CI +0.224..+0.372
+  2023 (GNN−hybrid) deletion − future re-parenting (all): mean +0.044, median +0.051, positive 11/14, CI -0.000..+0.085
+  2023 future new classes: GNN 0.431 (deletion 0.557), GNN−hybrid +0.046 (deletion +0.081)
+  2023 GNN deletion − future new classes: mean +0.126, median +0.130, positive 19/22, CI +0.075..+0.178
+  2023 (GNN−hybrid) deletion − future new classes: mean +0.035, median +0.028, positive 15/22, CI +0.010..+0.062
+
+== F1 sensitivity: all queries
+  2019 deletion: GNN 0.530, hybrid 0.463, name search 0.243 (28 ontologies)
+  2019 future non-entailed re-parenting: GNN 0.187 (deletion 0.524), GNN−hybrid +0.010 (deletion +0.066)
+  2019 GNN deletion − future non-entailed re-parenting (all): mean +0.337, median +0.341, positive 22/23, CI +0.268..+0.401
+  2019 (GNN−hybrid) deletion − future non-entailed re-parenting (all): mean +0.056, median +0.069, positive 19/23, CI +0.029..+0.081
+  2019 future re-parenting (all): GNN 0.200 (deletion 0.524), GNN−hybrid +0.005 (deletion +0.066)
+  2019 GNN deletion − future re-parenting (all) (all): mean +0.324, median +0.327, positive 22/23, CI +0.258..+0.387
+  2019 (GNN−hybrid) deletion − future re-parenting (all) (all): mean +0.061, median +0.072, positive 19/23, CI +0.035..+0.087
+  2019 future new classes: GNN 0.450 (deletion 0.520), GNN−hybrid +0.033 (deletion +0.069)
+  2019 GNN deletion − future new classes (all): mean +0.069, median +0.066, positive 21/27, CI +0.013..+0.120
+  2019 (GNN−hybrid) deletion − future new classes (all): mean +0.036, median +0.021, positive 18/27, CI +0.010..+0.064
+  2021 deletion: GNN 0.550, hybrid 0.472, name search 0.246 (30 ontologies)
+  2021 future non-entailed re-parenting: GNN 0.199 (deletion 0.500), GNN−hybrid +0.039 (deletion +0.080)
+  2021 GNN deletion − future non-entailed re-parenting (all): mean +0.301, median +0.315, positive 15/16, CI +0.221..+0.366
+  2021 (GNN−hybrid) deletion − future non-entailed re-parenting (all): mean +0.042, median +0.036, positive 11/16, CI +0.002..+0.085
+  2021 future re-parenting (all): GNN 0.209 (deletion 0.510), GNN−hybrid +0.011 (deletion +0.075)
+  2021 GNN deletion − future re-parenting (all) (all): mean +0.301, median +0.336, positive 19/20, CI +0.232..+0.360
+  2021 (GNN−hybrid) deletion − future re-parenting (all) (all): mean +0.065, median +0.055, positive 16/20, CI +0.027..+0.101
+  2021 future new classes: GNN 0.454 (deletion 0.561), GNN−hybrid +0.057 (deletion +0.080)
+  2021 GNN deletion − future new classes (all): mean +0.107, median +0.111, positive 23/28, CI +0.057..+0.158
+  2021 (GNN−hybrid) deletion − future new classes (all): mean +0.023, median +0.025, positive 18/28, CI -0.004..+0.052
+  2023 deletion: GNN 0.542, hybrid 0.442, name search 0.258 (25 ontologies)
+  2023 future non-entailed re-parenting: GNN 0.181 (deletion 0.508), GNN−hybrid +0.033 (deletion +0.100)
+  2023 GNN deletion − future non-entailed re-parenting (all): mean +0.327, median +0.360, positive 14/15, CI +0.244..+0.394
+  2023 (GNN−hybrid) deletion − future non-entailed re-parenting (all): mean +0.066, median +0.074, positive 13/15, CI +0.016..+0.111
+  2023 future re-parenting (all): GNN 0.201 (deletion 0.508), GNN−hybrid +0.025 (deletion +0.100)
+  2023 GNN deletion − future re-parenting (all) (all): mean +0.307, median +0.325, positive 14/15, CI +0.234..+0.375
+  2023 (GNN−hybrid) deletion − future re-parenting (all) (all): mean +0.075, median +0.075, positive 13/15, CI +0.027..+0.118
+  2023 future new classes: GNN 0.433 (deletion 0.554), GNN−hybrid +0.048 (deletion +0.102)
+  2023 GNN deletion − future new classes (all): mean +0.121, median +0.107, positive 19/23, CI +0.072..+0.171
+  2023 (GNN−hybrid) deletion − future new classes (all): mean +0.054, median +0.051, positive 18/23, CI +0.026..+0.082
+
+== F1 reconciliation: future-edit GNN results in the main analysis and in the paired set (overlapping queries removed)
+  2019 deletion queries: 6687 in 28 ontologies; 1365 (20.4%) hide a link that is also in a training ontology; ontologies left with < 10 queries: none
+  2019 future non-entailed re-parenting: main 0.187 (23 ontologies, 1770 queries) -> paired set 0.187 (23 ontologies, 1769 queries); future queries removed as overlapping 1; ontologies not in the paired set: none; main result on the paired ontologies 0.187
+  2019 future re-parenting (all): main 0.200 (23 ontologies, 2520 queries) -> paired set 0.200 (23 ontologies, 2518 queries); future queries removed as overlapping 2; ontologies not in the paired set: none; main result on the paired ontologies 0.200
+  2019 future new classes: main 0.450 (27 ontologies, 5064 queries) -> paired set 0.450 (27 ontologies, 5064 queries); future queries removed as overlapping 0; ontologies not in the paired set: none; main result on the paired ontologies 0.450
+  2021 deletion queries: 7168 in 30 ontologies; 1530 (21.3%) hide a link that is also in a training ontology; ontologies left with < 10 queries: colao (20 of 20 removed)
+  2021 future non-entailed re-parenting: main 0.199 (16 ontologies, 1485 queries) -> paired set 0.195 (16 ontologies, 1484 queries); future queries removed as overlapping 1; ontologies not in the paired set: none; main result on the paired ontologies 0.199
+  2021 future re-parenting (all): main 0.209 (20 ontologies, 2404 queries) -> paired set 0.207 (20 ontologies, 2402 queries); future queries removed as overlapping 2; ontologies not in the paired set: none; main result on the paired ontologies 0.209
+  2021 future new classes: main 0.454 (28 ontologies, 4809 queries) -> paired set 0.452 (27 ontologies, 4730 queries); future queries removed as overlapping 1; ontologies not in the paired set: colao; main result on the paired ontologies 0.452
+  2023 deletion queries: 6739 in 25 ontologies; 1535 (22.8%) hide a link that is also in a training ontology; ontologies left with < 10 queries: aism (291 of 300 removed)
+  2023 future non-entailed re-parenting: main 0.181 (15 ontologies, 1254 queries) -> paired set 0.192 (14 ontologies, 1231 queries); future queries removed as overlapping 3; ontologies not in the paired set: aism; main result on the paired ontologies 0.192
+  2023 future re-parenting (all): main 0.201 (15 ontologies, 2105 queries) -> paired set 0.213 (14 ontologies, 1990 queries); future queries removed as overlapping 94; ontologies not in the paired set: aism; main result on the paired ontologies 0.213
+  2023 future new classes: main 0.433 (23 ontologies, 3234 queries) -> paired set 0.431 (22 ontologies, 3158 queries); future queries removed as overlapping 0; ontologies not in the paired set: aism; main result on the paired ontologies 0.431
+
+== F2 check: sum signal against Study A name search, 20311 queries, max |rank difference| 0.5
+  2019 non-entailed re-parenting: TF-IDF 0.116, encoder 0.144, sum 0.143
+  2019 encoder gain (sum − TF-IDF), non-entailed re-parenting: mean +0.027, median +0.018, positive 20/23, CI +0.016..+0.039
+  2021 non-entailed re-parenting: TF-IDF 0.108, encoder 0.136, sum 0.131
+  2021 encoder gain (sum − TF-IDF), non-entailed re-parenting: mean +0.023, median +0.022, positive 14/16, CI +0.011..+0.035
+  2023 non-entailed re-parenting: TF-IDF 0.104, encoder 0.134, sum 0.124
+  2023 encoder gain (sum − TF-IDF), non-entailed re-parenting: mean +0.021, median +0.011, positive 15/15, CI +0.011..+0.031
+  gain 2019 − gain 2023, non-entailed re-parenting: +0.006, CI -0.009..+0.023
+  gain 2021 − gain 2023, non-entailed re-parenting: +0.002, CI -0.013..+0.018
+  2019 new classes: TF-IDF 0.327, encoder 0.355, sum 0.362
+  2019 encoder gain (sum − TF-IDF), new classes: mean +0.035, median +0.021, positive 25/27, CI +0.022..+0.052
+  2021 new classes: TF-IDF 0.338, encoder 0.346, sum 0.361
+  2021 encoder gain (sum − TF-IDF), new classes: mean +0.023, median +0.021, positive 24/28, CI +0.012..+0.034
+  2023 new classes: TF-IDF 0.295, encoder 0.315, sum 0.321
+  2023 encoder gain (sum − TF-IDF), new classes: mean +0.026, median +0.024, positive 16/23, CI +0.010..+0.043
+  gain 2019 − gain 2023, new classes: +0.009, CI -0.012..+0.032
+  gain 2021 − gain 2023, new classes: -0.003, CI -0.023..+0.017
+
+== F3: tuned ranker minus hybrid, std folds, without the sentence encoder (TF-IDF only) and with it (Study B)
+  2019 non-entailed re-parenting: TF-IDF only: ranker 0.172, hybrid 0.152, wins 14/23; with encoder: ranker 0.202, hybrid 0.177
+  2019 ranker − hybrid, TF-IDF only, non-entailed re-parenting: mean +0.021, median +0.013, positive 14/23, CI +0.004..+0.039
+  2019 ranker − hybrid, with encoder, non-entailed re-parenting: mean +0.025, median +0.015, positive 17/23, CI +0.007..+0.044
+  2019 TF-IDF-only ranker − hybrid with encoder, non-entailed re-parenting: mean -0.005, median -0.002, positive 11/23, CI -0.025..+0.016
+  2019 new classes: TF-IDF only: ranker 0.417, hybrid 0.385, wins 25/27; with encoder: ranker 0.468, hybrid 0.417
+  2019 ranker − hybrid, TF-IDF only, new classes: mean +0.032, median +0.030, positive 25/27, CI +0.021..+0.044
+  2019 ranker − hybrid, with encoder, new classes: mean +0.051, median +0.045, positive 27/27, CI +0.039..+0.065
+  2019 TF-IDF-only ranker − hybrid with encoder, new classes: mean -0.000, median +0.003, positive 14/27, CI -0.018..+0.017
+  2021 non-entailed re-parenting: TF-IDF only: ranker 0.169, hybrid 0.139, wins 11/16; with encoder: ranker 0.195, hybrid 0.160
+  2021 ranker − hybrid, TF-IDF only, non-entailed re-parenting: mean +0.030, median +0.016, positive 11/16, CI +0.008..+0.054
+  2021 ranker − hybrid, with encoder, non-entailed re-parenting: mean +0.034, median +0.016, positive 13/16, CI +0.012..+0.059
+  2021 TF-IDF-only ranker − hybrid with encoder, non-entailed re-parenting: mean +0.009, median +0.009, positive 10/16, CI -0.015..+0.033
+  2021 new classes: TF-IDF only: ranker 0.422, hybrid 0.377, wins 26/28; with encoder: ranker 0.452, hybrid 0.397
+  2021 ranker − hybrid, TF-IDF only, new classes: mean +0.045, median +0.046, positive 26/28, CI +0.023..+0.066
+  2021 ranker − hybrid, with encoder, new classes: mean +0.055, median +0.054, positive 25/28, CI +0.035..+0.074
+  2021 TF-IDF-only ranker − hybrid with encoder, new classes: mean +0.025, median +0.021, positive 20/28, CI +0.006..+0.043

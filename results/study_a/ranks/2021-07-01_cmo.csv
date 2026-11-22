@@ -1,0 +1,1579 @@
+cutoff,ontology,task,i,model,rank,kind,h,entailed
+2021-07-01,cmo,A,0,names only,1.0,moved,1y,False
+2021-07-01,cmo,A,0,name vote,3.0,moved,1y,False
+2021-07-01,cmo,A,0,structural vote,784.0,moved,1y,False
+2021-07-01,cmo,A,0,hybrid,4.0,moved,1y,False
+2021-07-01,cmo,A,0,reasoner: nearest inferred ancestor,6.0,moved,1y,False
+2021-07-01,cmo,A,0,reasoner: ancestors by hybrid,6.0,moved,1y,False
+2021-07-01,cmo,A,1,names only,1026.0,moved,1y,False
+2021-07-01,cmo,A,1,name vote,1026.0,moved,1y,False
+2021-07-01,cmo,A,1,structural vote,1412.5,moved,1y,False
+2021-07-01,cmo,A,1,hybrid,1026.0,moved,1y,False
+2021-07-01,cmo,A,1,reasoner: nearest inferred ancestor,1026.0,moved,1y,False
+2021-07-01,cmo,A,1,reasoner: ancestors by hybrid,1026.0,moved,1y,False
+2021-07-01,cmo,A,2,names only,51.0,moved,1y,False
+2021-07-01,cmo,A,2,name vote,2.0,moved,1y,False
+2021-07-01,cmo,A,2,structural vote,781.5,moved,1y,False
+2021-07-01,cmo,A,2,hybrid,2.0,moved,1y,False
+2021-07-01,cmo,A,2,reasoner: nearest inferred ancestor,8.0,moved,1y,False
+2021-07-01,cmo,A,2,reasoner: ancestors by hybrid,8.0,moved,1y,False
+2021-07-01,cmo,A,3,names only,10.0,moved,1y,False
+2021-07-01,cmo,A,3,name vote,14.0,moved,1y,False
+2021-07-01,cmo,A,3,structural vote,1412.0,moved,1y,False
+2021-07-01,cmo,A,3,hybrid,14.0,moved,1y,False
+2021-07-01,cmo,A,3,reasoner: nearest inferred ancestor,15.0,moved,1y,False
+2021-07-01,cmo,A,3,reasoner: ancestors by hybrid,15.0,moved,1y,False
+2021-07-01,cmo,A,4,names only,1.0,added,1y,False
+2021-07-01,cmo,A,4,name vote,4.0,added,1y,False
+2021-07-01,cmo,A,4,structural vote,107.5,added,1y,False
+2021-07-01,cmo,A,4,hybrid,4.0,added,1y,False
+2021-07-01,cmo,A,4,reasoner: nearest inferred ancestor,11.0,added,1y,False
+2021-07-01,cmo,A,4,reasoner: ancestors by hybrid,11.0,added,1y,False
+2021-07-01,cmo,A,5,names only,7.0,moved,1y,False
+2021-07-01,cmo,A,5,name vote,5.0,moved,1y,False
+2021-07-01,cmo,A,5,structural vote,395.0,moved,1y,False
+2021-07-01,cmo,A,5,hybrid,5.0,moved,1y,False
+2021-07-01,cmo,A,5,reasoner: nearest inferred ancestor,6.0,moved,1y,False
+2021-07-01,cmo,A,5,reasoner: ancestors by hybrid,6.0,moved,1y,False
+2021-07-01,cmo,A,6,names only,96.0,moved,1y,False
+2021-07-01,cmo,A,6,name vote,98.0,moved,1y,False
+2021-07-01,cmo,A,6,structural vote,107.5,moved,1y,False
+2021-07-01,cmo,A,6,hybrid,100.0,moved,1y,False
+2021-07-01,cmo,A,6,reasoner: nearest inferred ancestor,105.0,moved,1y,False
+2021-07-01,cmo,A,6,reasoner: ancestors by hybrid,105.0,moved,1y,False
+2021-07-01,cmo,A,7,names only,13.0,moved,1y,False
+2021-07-01,cmo,A,7,name vote,16.0,moved,1y,False
+2021-07-01,cmo,A,7,structural vote,1412.0,moved,1y,False
+2021-07-01,cmo,A,7,hybrid,16.0,moved,1y,False
+2021-07-01,cmo,A,7,reasoner: nearest inferred ancestor,17.0,moved,1y,False
+2021-07-01,cmo,A,7,reasoner: ancestors by hybrid,17.0,moved,1y,False
+2021-07-01,cmo,A,8,names only,16.0,moved,1y,False
+2021-07-01,cmo,A,8,name vote,23.0,moved,1y,False
+2021-07-01,cmo,A,8,structural vote,397.0,moved,1y,False
+2021-07-01,cmo,A,8,hybrid,25.0,moved,1y,False
+2021-07-01,cmo,A,8,reasoner: nearest inferred ancestor,26.0,moved,1y,False
+2021-07-01,cmo,A,8,reasoner: ancestors by hybrid,26.0,moved,1y,False
+2021-07-01,cmo,A,9,names only,3.0,added,1y,False
+2021-07-01,cmo,A,9,name vote,4.0,added,1y,False
+2021-07-01,cmo,A,9,structural vote,4.0,added,1y,False
+2021-07-01,cmo,A,9,hybrid,3.0,added,1y,False
+2021-07-01,cmo,A,9,reasoner: nearest inferred ancestor,11.0,added,1y,False
+2021-07-01,cmo,A,9,reasoner: ancestors by hybrid,11.0,added,1y,False
+2021-07-01,cmo,A,10,names only,10.0,moved,1y,False
+2021-07-01,cmo,A,10,name vote,13.0,moved,1y,False
+2021-07-01,cmo,A,10,structural vote,4.0,moved,1y,False
+2021-07-01,cmo,A,10,hybrid,9.0,moved,1y,False
+2021-07-01,cmo,A,10,reasoner: nearest inferred ancestor,10.0,moved,1y,False
+2021-07-01,cmo,A,10,reasoner: ancestors by hybrid,10.0,moved,1y,False
+2021-07-01,cmo,A,11,names only,1.0,moved,1y,False
+2021-07-01,cmo,A,11,name vote,2.0,moved,1y,False
+2021-07-01,cmo,A,11,structural vote,2724.0,moved,1y,False
+2021-07-01,cmo,A,11,hybrid,2.0,moved,1y,False
+2021-07-01,cmo,A,11,reasoner: nearest inferred ancestor,7.0,moved,1y,False
+2021-07-01,cmo,A,11,reasoner: ancestors by hybrid,7.0,moved,1y,False
+2021-07-01,cmo,A,12,names only,265.0,moved,1y,False
+2021-07-01,cmo,A,12,name vote,2.0,moved,1y,False
+2021-07-01,cmo,A,12,structural vote,783.0,moved,1y,False
+2021-07-01,cmo,A,12,hybrid,2.0,moved,1y,False
+2021-07-01,cmo,A,12,reasoner: nearest inferred ancestor,7.0,moved,1y,False
+2021-07-01,cmo,A,12,reasoner: ancestors by hybrid,7.0,moved,1y,False
+2021-07-01,cmo,A,13,names only,138.0,added,1y,False
+2021-07-01,cmo,A,13,name vote,139.0,added,1y,False
+2021-07-01,cmo,A,13,structural vote,9.0,added,1y,False
+2021-07-01,cmo,A,13,hybrid,140.0,added,1y,False
+2021-07-01,cmo,A,13,reasoner: nearest inferred ancestor,140.0,added,1y,False
+2021-07-01,cmo,A,13,reasoner: ancestors by hybrid,140.0,added,1y,False
+2021-07-01,cmo,A,14,names only,446.0,moved,1y,False
+2021-07-01,cmo,A,14,name vote,448.0,moved,1y,False
+2021-07-01,cmo,A,14,structural vote,1412.0,moved,1y,False
+2021-07-01,cmo,A,14,hybrid,448.0,moved,1y,False
+2021-07-01,cmo,A,14,reasoner: nearest inferred ancestor,449.0,moved,1y,False
+2021-07-01,cmo,A,14,reasoner: ancestors by hybrid,449.0,moved,1y,False
+2021-07-01,cmo,A,15,names only,2.0,added,1y,False
+2021-07-01,cmo,A,15,name vote,5.0,added,1y,False
+2021-07-01,cmo,A,15,structural vote,2725.0,added,1y,False
+2021-07-01,cmo,A,15,hybrid,6.0,added,1y,False
+2021-07-01,cmo,A,15,reasoner: nearest inferred ancestor,11.0,added,1y,False
+2021-07-01,cmo,A,15,reasoner: ancestors by hybrid,11.0,added,1y,False
+2021-07-01,cmo,A,16,names only,3.0,added,1y,False
+2021-07-01,cmo,A,16,name vote,6.0,added,1y,False
+2021-07-01,cmo,A,16,structural vote,2725.0,added,1y,False
+2021-07-01,cmo,A,16,hybrid,7.0,added,1y,False
+2021-07-01,cmo,A,16,reasoner: nearest inferred ancestor,12.0,added,1y,False
+2021-07-01,cmo,A,16,reasoner: ancestors by hybrid,12.0,added,1y,False
+2021-07-01,cmo,A,17,names only,1.0,moved,1y,False
+2021-07-01,cmo,A,17,name vote,9.0,moved,1y,False
+2021-07-01,cmo,A,17,structural vote,2724.5,moved,1y,False
+2021-07-01,cmo,A,17,hybrid,9.0,moved,1y,False
+2021-07-01,cmo,A,17,reasoner: nearest inferred ancestor,18.0,moved,1y,False
+2021-07-01,cmo,A,17,reasoner: ancestors by hybrid,18.0,moved,1y,False
+2021-07-01,cmo,A,18,names only,5.0,moved,1y,False
+2021-07-01,cmo,A,18,name vote,12.0,moved,1y,False
+2021-07-01,cmo,A,18,structural vote,1412.0,moved,1y,False
+2021-07-01,cmo,A,18,hybrid,14.0,moved,1y,False
+2021-07-01,cmo,A,18,reasoner: nearest inferred ancestor,19.0,moved,1y,False
+2021-07-01,cmo,A,18,reasoner: ancestors by hybrid,19.0,moved,1y,False
+2021-07-01,cmo,A,19,names only,112.0,moved,1y,False
+2021-07-01,cmo,A,19,name vote,112.0,moved,1y,False
+2021-07-01,cmo,A,19,structural vote,2.5,moved,1y,False
+2021-07-01,cmo,A,19,hybrid,10.0,moved,1y,False
+2021-07-01,cmo,A,19,reasoner: nearest inferred ancestor,16.0,moved,1y,False
+2021-07-01,cmo,A,19,reasoner: ancestors by hybrid,16.0,moved,1y,False
+2021-07-01,cmo,A,20,names only,8.0,moved,1y,True
+2021-07-01,cmo,A,20,name vote,16.0,moved,1y,True
+2021-07-01,cmo,A,20,structural vote,1412.5,moved,1y,True
+2021-07-01,cmo,A,20,hybrid,16.0,moved,1y,True
+2021-07-01,cmo,A,20,reasoner: nearest inferred ancestor,1.0,moved,1y,True
+2021-07-01,cmo,A,20,reasoner: ancestors by hybrid,4.0,moved,1y,True
+2021-07-01,cmo,A,21,names only,73.0,added,1y,False
+2021-07-01,cmo,A,21,name vote,2.0,added,1y,False
+2021-07-01,cmo,A,21,structural vote,782.0,added,1y,False
+2021-07-01,cmo,A,21,hybrid,2.0,added,1y,False
+2021-07-01,cmo,A,21,reasoner: nearest inferred ancestor,6.0,added,1y,False
+2021-07-01,cmo,A,21,reasoner: ancestors by hybrid,6.0,added,1y,False
+2021-07-01,cmo,A,22,names only,13.0,added,1y,False
+2021-07-01,cmo,A,22,name vote,16.0,added,1y,False
+2021-07-01,cmo,A,22,structural vote,11.0,added,1y,False
+2021-07-01,cmo,A,22,hybrid,10.0,added,1y,False
+2021-07-01,cmo,A,22,reasoner: nearest inferred ancestor,11.0,added,1y,False
+2021-07-01,cmo,A,22,reasoner: ancestors by hybrid,11.0,added,1y,False
+2021-07-01,cmo,A,23,names only,69.0,moved,1y,False
+2021-07-01,cmo,A,23,name vote,71.0,moved,1y,False
+2021-07-01,cmo,A,23,structural vote,397.0,moved,1y,False
+2021-07-01,cmo,A,23,hybrid,75.0,moved,1y,False
+2021-07-01,cmo,A,23,reasoner: nearest inferred ancestor,76.0,moved,1y,False
+2021-07-01,cmo,A,23,reasoner: ancestors by hybrid,76.0,moved,1y,False
+2021-07-01,cmo,A,24,names only,91.0,moved,1y,False
+2021-07-01,cmo,A,24,name vote,92.0,moved,1y,False
+2021-07-01,cmo,A,24,structural vote,397.0,moved,1y,False
+2021-07-01,cmo,A,24,hybrid,95.0,moved,1y,False
+2021-07-01,cmo,A,24,reasoner: nearest inferred ancestor,96.0,moved,1y,False
+2021-07-01,cmo,A,24,reasoner: ancestors by hybrid,96.0,moved,1y,False
+2021-07-01,cmo,A,25,names only,292.0,moved,1y,False
+2021-07-01,cmo,A,25,name vote,292.0,moved,1y,False
+2021-07-01,cmo,A,25,structural vote,397.0,moved,1y,False
+2021-07-01,cmo,A,25,hybrid,294.0,moved,1y,False
+2021-07-01,cmo,A,25,reasoner: nearest inferred ancestor,294.0,moved,1y,False
+2021-07-01,cmo,A,25,reasoner: ancestors by hybrid,294.0,moved,1y,False
+2021-07-01,cmo,A,26,names only,3.0,moved,1y,False
+2021-07-01,cmo,A,26,name vote,3.0,moved,1y,False
+2021-07-01,cmo,A,26,structural vote,2.5,moved,1y,False
+2021-07-01,cmo,A,26,hybrid,3.0,moved,1y,False
+2021-07-01,cmo,A,26,reasoner: nearest inferred ancestor,8.0,moved,1y,False
+2021-07-01,cmo,A,26,reasoner: ancestors by hybrid,8.0,moved,1y,False
+2021-07-01,cmo,A,27,names only,2.0,moved,1y,False
+2021-07-01,cmo,A,27,name vote,3.0,moved,1y,False
+2021-07-01,cmo,A,27,structural vote,2.5,moved,1y,False
+2021-07-01,cmo,A,27,hybrid,2.0,moved,1y,False
+2021-07-01,cmo,A,27,reasoner: nearest inferred ancestor,7.0,moved,1y,False
+2021-07-01,cmo,A,27,reasoner: ancestors by hybrid,7.0,moved,1y,False
+2021-07-01,cmo,A,28,names only,16.0,moved,1y,False
+2021-07-01,cmo,A,28,name vote,21.0,moved,1y,False
+2021-07-01,cmo,A,28,structural vote,396.0,moved,1y,False
+2021-07-01,cmo,A,28,hybrid,22.0,moved,1y,False
+2021-07-01,cmo,A,28,reasoner: nearest inferred ancestor,23.0,moved,1y,False
+2021-07-01,cmo,A,28,reasoner: ancestors by hybrid,23.0,moved,1y,False
+2021-07-01,cmo,A,29,names only,15.0,moved,1y,False
+2021-07-01,cmo,A,29,name vote,22.0,moved,1y,False
+2021-07-01,cmo,A,29,structural vote,5.0,moved,1y,False
+2021-07-01,cmo,A,29,hybrid,12.0,moved,1y,False
+2021-07-01,cmo,A,29,reasoner: nearest inferred ancestor,14.0,moved,1y,False
+2021-07-01,cmo,A,29,reasoner: ancestors by hybrid,14.0,moved,1y,False
+2021-07-01,cmo,A,30,names only,12.0,moved,1y,False
+2021-07-01,cmo,A,30,name vote,7.0,moved,1y,False
+2021-07-01,cmo,A,30,structural vote,396.0,moved,1y,False
+2021-07-01,cmo,A,30,hybrid,8.0,moved,1y,False
+2021-07-01,cmo,A,30,reasoner: nearest inferred ancestor,9.0,moved,1y,False
+2021-07-01,cmo,A,30,reasoner: ancestors by hybrid,9.0,moved,1y,False
+2021-07-01,cmo,A,31,names only,2.0,moved,1y,True
+2021-07-01,cmo,A,31,name vote,3.0,moved,1y,True
+2021-07-01,cmo,A,31,structural vote,1412.0,moved,1y,True
+2021-07-01,cmo,A,31,hybrid,3.0,moved,1y,True
+2021-07-01,cmo,A,31,reasoner: nearest inferred ancestor,1.0,moved,1y,True
+2021-07-01,cmo,A,31,reasoner: ancestors by hybrid,2.0,moved,1y,True
+2021-07-01,cmo,A,32,names only,2.0,moved,1y,True
+2021-07-01,cmo,A,32,name vote,3.0,moved,1y,True
+2021-07-01,cmo,A,32,structural vote,1412.0,moved,1y,True
+2021-07-01,cmo,A,32,hybrid,3.0,moved,1y,True
+2021-07-01,cmo,A,32,reasoner: nearest inferred ancestor,1.0,moved,1y,True
+2021-07-01,cmo,A,32,reasoner: ancestors by hybrid,2.0,moved,1y,True
+2021-07-01,cmo,A,33,names only,8.0,moved,1y,True
+2021-07-01,cmo,A,33,name vote,16.0,moved,1y,True
+2021-07-01,cmo,A,33,structural vote,1412.5,moved,1y,True
+2021-07-01,cmo,A,33,hybrid,16.0,moved,1y,True
+2021-07-01,cmo,A,33,reasoner: nearest inferred ancestor,1.0,moved,1y,True
+2021-07-01,cmo,A,33,reasoner: ancestors by hybrid,4.0,moved,1y,True
+2021-07-01,cmo,A,34,names only,3.0,moved,2y,False
+2021-07-01,cmo,A,34,name vote,13.0,moved,2y,False
+2021-07-01,cmo,A,34,structural vote,2725.0,moved,2y,False
+2021-07-01,cmo,A,34,hybrid,13.0,moved,2y,False
+2021-07-01,cmo,A,34,reasoner: nearest inferred ancestor,15.0,moved,2y,False
+2021-07-01,cmo,A,34,reasoner: ancestors by hybrid,15.0,moved,2y,False
+2021-07-01,cmo,A,35,names only,2.0,moved,2y,False
+2021-07-01,cmo,A,35,name vote,11.0,moved,2y,False
+2021-07-01,cmo,A,35,structural vote,2725.0,moved,2y,False
+2021-07-01,cmo,A,35,hybrid,11.0,moved,2y,False
+2021-07-01,cmo,A,35,reasoner: nearest inferred ancestor,12.0,moved,2y,False
+2021-07-01,cmo,A,35,reasoner: ancestors by hybrid,12.0,moved,2y,False
+2021-07-01,cmo,A,36,names only,12.0,moved,2y,False
+2021-07-01,cmo,A,36,name vote,17.0,moved,2y,False
+2021-07-01,cmo,A,36,structural vote,8.5,moved,2y,False
+2021-07-01,cmo,A,36,hybrid,12.0,moved,2y,False
+2021-07-01,cmo,A,36,reasoner: nearest inferred ancestor,14.0,moved,2y,False
+2021-07-01,cmo,A,36,reasoner: ancestors by hybrid,14.0,moved,2y,False
+2021-07-01,cmo,A,37,names only,5.0,moved,2y,False
+2021-07-01,cmo,A,37,name vote,13.0,moved,2y,False
+2021-07-01,cmo,A,37,structural vote,2725.0,moved,2y,False
+2021-07-01,cmo,A,37,hybrid,16.0,moved,2y,False
+2021-07-01,cmo,A,37,reasoner: nearest inferred ancestor,21.0,moved,2y,False
+2021-07-01,cmo,A,37,reasoner: ancestors by hybrid,21.0,moved,2y,False
+2021-07-01,cmo,A,38,names only,11.0,moved,2y,False
+2021-07-01,cmo,A,38,name vote,14.0,moved,2y,False
+2021-07-01,cmo,A,38,structural vote,12.0,moved,2y,False
+2021-07-01,cmo,A,38,hybrid,11.0,moved,2y,False
+2021-07-01,cmo,A,38,reasoner: nearest inferred ancestor,11.0,moved,2y,False
+2021-07-01,cmo,A,38,reasoner: ancestors by hybrid,11.0,moved,2y,False
+2021-07-01,cmo,A,39,names only,14.0,moved,2y,True
+2021-07-01,cmo,A,39,name vote,17.0,moved,2y,True
+2021-07-01,cmo,A,39,structural vote,403.0,moved,2y,True
+2021-07-01,cmo,A,39,hybrid,17.0,moved,2y,True
+2021-07-01,cmo,A,39,reasoner: nearest inferred ancestor,2.0,moved,2y,True
+2021-07-01,cmo,A,39,reasoner: ancestors by hybrid,2.0,moved,2y,True
+2021-07-01,cmo,A,40,names only,299.0,moved,3y+,False
+2021-07-01,cmo,A,40,name vote,301.0,moved,3y+,False
+2021-07-01,cmo,A,40,structural vote,1411.0,moved,3y+,False
+2021-07-01,cmo,A,40,hybrid,301.0,moved,3y+,False
+2021-07-01,cmo,A,40,reasoner: nearest inferred ancestor,302.0,moved,3y+,False
+2021-07-01,cmo,A,40,reasoner: ancestors by hybrid,302.0,moved,3y+,False
+2021-07-01,cmo,A,41,names only,2852.0,moved,3y+,False
+2021-07-01,cmo,A,41,name vote,2854.0,moved,3y+,False
+2021-07-01,cmo,A,41,structural vote,1411.0,moved,3y+,False
+2021-07-01,cmo,A,41,hybrid,2855.0,moved,3y+,False
+2021-07-01,cmo,A,41,reasoner: nearest inferred ancestor,2856.0,moved,3y+,False
+2021-07-01,cmo,A,41,reasoner: ancestors by hybrid,2856.0,moved,3y+,False
+2021-07-01,cmo,A,42,names only,2029.0,moved,3y+,False
+2021-07-01,cmo,A,42,name vote,2029.0,moved,3y+,False
+2021-07-01,cmo,A,42,structural vote,1412.0,moved,3y+,False
+2021-07-01,cmo,A,42,hybrid,2029.0,moved,3y+,False
+2021-07-01,cmo,A,42,reasoner: nearest inferred ancestor,2029.0,moved,3y+,False
+2021-07-01,cmo,A,42,reasoner: ancestors by hybrid,2029.0,moved,3y+,False
+2021-07-01,cmo,A,43,names only,1369.0,moved,3y+,False
+2021-07-01,cmo,A,43,name vote,1369.0,moved,3y+,False
+2021-07-01,cmo,A,43,structural vote,1412.0,moved,3y+,False
+2021-07-01,cmo,A,43,hybrid,1369.0,moved,3y+,False
+2021-07-01,cmo,A,43,reasoner: nearest inferred ancestor,1370.0,moved,3y+,False
+2021-07-01,cmo,A,43,reasoner: ancestors by hybrid,1370.0,moved,3y+,False
+2021-07-01,cmo,A,44,names only,17.0,moved,3y+,True
+2021-07-01,cmo,A,44,name vote,1.0,moved,3y+,True
+2021-07-01,cmo,A,44,structural vote,13.5,moved,3y+,True
+2021-07-01,cmo,A,44,hybrid,1.0,moved,3y+,True
+2021-07-01,cmo,A,44,reasoner: nearest inferred ancestor,1.0,moved,3y+,True
+2021-07-01,cmo,A,44,reasoner: ancestors by hybrid,1.0,moved,3y+,True
+2021-07-01,cmo,A,45,names only,37.0,moved,3y+,False
+2021-07-01,cmo,A,45,name vote,46.0,moved,3y+,False
+2021-07-01,cmo,A,45,structural vote,231.5,moved,3y+,False
+2021-07-01,cmo,A,45,hybrid,50.0,moved,3y+,False
+2021-07-01,cmo,A,45,reasoner: nearest inferred ancestor,55.0,moved,3y+,False
+2021-07-01,cmo,A,45,reasoner: ancestors by hybrid,55.0,moved,3y+,False
+2021-07-01,cmo,A,46,names only,15.0,moved,3y+,False
+2021-07-01,cmo,A,46,name vote,9.0,moved,3y+,False
+2021-07-01,cmo,A,46,structural vote,1412.0,moved,3y+,False
+2021-07-01,cmo,A,46,hybrid,9.0,moved,3y+,False
+2021-07-01,cmo,A,46,reasoner: nearest inferred ancestor,17.0,moved,3y+,False
+2021-07-01,cmo,A,46,reasoner: ancestors by hybrid,17.0,moved,3y+,False
+2021-07-01,cmo,A,47,names only,1.0,moved,3y+,False
+2021-07-01,cmo,A,47,name vote,9.0,moved,3y+,False
+2021-07-01,cmo,A,47,structural vote,2725.0,moved,3y+,False
+2021-07-01,cmo,A,47,hybrid,9.0,moved,3y+,False
+2021-07-01,cmo,A,47,reasoner: nearest inferred ancestor,11.0,moved,3y+,False
+2021-07-01,cmo,A,47,reasoner: ancestors by hybrid,11.0,moved,3y+,False
+2021-07-01,cmo,A,48,names only,3.0,moved,3y+,False
+2021-07-01,cmo,A,48,name vote,3.0,moved,3y+,False
+2021-07-01,cmo,A,48,structural vote,1412.0,moved,3y+,False
+2021-07-01,cmo,A,48,hybrid,3.0,moved,3y+,False
+2021-07-01,cmo,A,48,reasoner: nearest inferred ancestor,7.0,moved,3y+,False
+2021-07-01,cmo,A,48,reasoner: ancestors by hybrid,7.0,moved,3y+,False
+2021-07-01,cmo,A,49,names only,107.0,added,3y+,False
+2021-07-01,cmo,A,49,name vote,110.0,added,3y+,False
+2021-07-01,cmo,A,49,structural vote,2.5,added,3y+,False
+2021-07-01,cmo,A,49,hybrid,100.0,added,3y+,False
+2021-07-01,cmo,A,49,reasoner: nearest inferred ancestor,102.0,added,3y+,False
+2021-07-01,cmo,A,49,reasoner: ancestors by hybrid,102.0,added,3y+,False
+2021-07-01,cmo,A,50,names only,5.0,added,3y+,False
+2021-07-01,cmo,A,50,name vote,1.0,added,3y+,False
+2021-07-01,cmo,A,50,structural vote,11.0,added,3y+,False
+2021-07-01,cmo,A,50,hybrid,1.0,added,3y+,False
+2021-07-01,cmo,A,50,reasoner: nearest inferred ancestor,11.0,added,3y+,False
+2021-07-01,cmo,A,50,reasoner: ancestors by hybrid,11.0,added,3y+,False
+2021-07-01,cmo,A,51,names only,16.0,moved,3y+,False
+2021-07-01,cmo,A,51,name vote,19.0,moved,3y+,False
+2021-07-01,cmo,A,51,structural vote,2725.0,moved,3y+,False
+2021-07-01,cmo,A,51,hybrid,19.0,moved,3y+,False
+2021-07-01,cmo,A,51,reasoner: nearest inferred ancestor,21.0,moved,3y+,False
+2021-07-01,cmo,A,51,reasoner: ancestors by hybrid,21.0,moved,3y+,False
+2021-07-01,cmo,A,52,names only,2.5,moved,3y+,False
+2021-07-01,cmo,A,52,name vote,1.0,moved,3y+,False
+2021-07-01,cmo,A,52,structural vote,237.0,moved,3y+,False
+2021-07-01,cmo,A,52,hybrid,1.0,moved,3y+,False
+2021-07-01,cmo,A,52,reasoner: nearest inferred ancestor,4.0,moved,3y+,False
+2021-07-01,cmo,A,52,reasoner: ancestors by hybrid,4.0,moved,3y+,False
+2021-07-01,cmo,A,53,names only,1.0,moved,3y+,False
+2021-07-01,cmo,A,53,name vote,3.0,moved,3y+,False
+2021-07-01,cmo,A,53,structural vote,2725.0,moved,3y+,False
+2021-07-01,cmo,A,53,hybrid,3.0,moved,3y+,False
+2021-07-01,cmo,A,53,reasoner: nearest inferred ancestor,5.0,moved,3y+,False
+2021-07-01,cmo,A,53,reasoner: ancestors by hybrid,5.0,moved,3y+,False
+2021-07-01,cmo,A,54,names only,8.0,moved,3y+,False
+2021-07-01,cmo,A,54,name vote,11.0,moved,3y+,False
+2021-07-01,cmo,A,54,structural vote,2725.0,moved,3y+,False
+2021-07-01,cmo,A,54,hybrid,11.0,moved,3y+,False
+2021-07-01,cmo,A,54,reasoner: nearest inferred ancestor,13.0,moved,3y+,False
+2021-07-01,cmo,A,54,reasoner: ancestors by hybrid,13.0,moved,3y+,False
+2021-07-01,cmo,A,55,names only,9.0,moved,3y+,False
+2021-07-01,cmo,A,55,name vote,11.0,moved,3y+,False
+2021-07-01,cmo,A,55,structural vote,2725.0,moved,3y+,False
+2021-07-01,cmo,A,55,hybrid,11.0,moved,3y+,False
+2021-07-01,cmo,A,55,reasoner: nearest inferred ancestor,13.0,moved,3y+,False
+2021-07-01,cmo,A,55,reasoner: ancestors by hybrid,13.0,moved,3y+,False
+2021-07-01,cmo,A,56,names only,1.0,moved,3y+,False
+2021-07-01,cmo,A,56,name vote,5.0,moved,3y+,False
+2021-07-01,cmo,A,56,structural vote,2725.0,moved,3y+,False
+2021-07-01,cmo,A,56,hybrid,5.0,moved,3y+,False
+2021-07-01,cmo,A,56,reasoner: nearest inferred ancestor,7.0,moved,3y+,False
+2021-07-01,cmo,A,56,reasoner: ancestors by hybrid,7.0,moved,3y+,False
+2021-07-01,cmo,A,57,names only,120.0,moved,3y+,True
+2021-07-01,cmo,A,57,name vote,120.0,moved,3y+,True
+2021-07-01,cmo,A,57,structural vote,34.0,moved,3y+,True
+2021-07-01,cmo,A,57,hybrid,120.0,moved,3y+,True
+2021-07-01,cmo,A,57,reasoner: nearest inferred ancestor,3.0,moved,3y+,True
+2021-07-01,cmo,A,57,reasoner: ancestors by hybrid,3.0,moved,3y+,True
+2021-07-01,cmo,A,58,names only,8.0,added,3y+,False
+2021-07-01,cmo,A,58,name vote,15.0,added,3y+,False
+2021-07-01,cmo,A,58,structural vote,1411.0,added,3y+,False
+2021-07-01,cmo,A,58,hybrid,15.0,added,3y+,False
+2021-07-01,cmo,A,58,reasoner: nearest inferred ancestor,19.0,added,3y+,False
+2021-07-01,cmo,A,58,reasoner: ancestors by hybrid,19.0,added,3y+,False
+2021-07-01,cmo,A,59,names only,5.0,moved,3y+,False
+2021-07-01,cmo,A,59,name vote,9.0,moved,3y+,False
+2021-07-01,cmo,A,59,structural vote,2723.5,moved,3y+,False
+2021-07-01,cmo,A,59,hybrid,9.0,moved,3y+,False
+2021-07-01,cmo,A,59,reasoner: nearest inferred ancestor,13.0,moved,3y+,False
+2021-07-01,cmo,A,59,reasoner: ancestors by hybrid,13.0,moved,3y+,False
+2021-07-01,cmo,A,60,names only,6.0,moved,3y+,True
+2021-07-01,cmo,A,60,name vote,1.0,moved,3y+,True
+2021-07-01,cmo,A,60,structural vote,231.5,moved,3y+,True
+2021-07-01,cmo,A,60,hybrid,1.0,moved,3y+,True
+2021-07-01,cmo,A,60,reasoner: nearest inferred ancestor,1.0,moved,3y+,True
+2021-07-01,cmo,A,60,reasoner: ancestors by hybrid,1.0,moved,3y+,True
+2021-07-01,cmo,A,61,names only,64.0,moved,3y+,False
+2021-07-01,cmo,A,61,name vote,1.0,moved,3y+,False
+2021-07-01,cmo,A,61,structural vote,2.0,moved,3y+,False
+2021-07-01,cmo,A,61,hybrid,1.0,moved,3y+,False
+2021-07-01,cmo,A,61,reasoner: nearest inferred ancestor,5.0,moved,3y+,False
+2021-07-01,cmo,A,61,reasoner: ancestors by hybrid,5.0,moved,3y+,False
+2021-07-01,cmo,A,62,names only,565.0,added,3y+,True
+2021-07-01,cmo,A,62,name vote,1.0,added,3y+,True
+2021-07-01,cmo,A,62,structural vote,4.0,added,3y+,True
+2021-07-01,cmo,A,62,hybrid,1.0,added,3y+,True
+2021-07-01,cmo,A,62,reasoner: nearest inferred ancestor,1.0,added,3y+,True
+2021-07-01,cmo,A,62,reasoner: ancestors by hybrid,1.0,added,3y+,True
+2021-07-01,cmo,A,63,names only,92.0,moved,3y+,False
+2021-07-01,cmo,A,63,name vote,95.0,moved,3y+,False
+2021-07-01,cmo,A,63,structural vote,2725.0,moved,3y+,False
+2021-07-01,cmo,A,63,hybrid,96.0,moved,3y+,False
+2021-07-01,cmo,A,63,reasoner: nearest inferred ancestor,103.0,moved,3y+,False
+2021-07-01,cmo,A,63,reasoner: ancestors by hybrid,103.0,moved,3y+,False
+2021-07-01,cmo,A,64,names only,1.0,moved,3y+,False
+2021-07-01,cmo,A,64,name vote,4.0,moved,3y+,False
+2021-07-01,cmo,A,64,structural vote,2725.0,moved,3y+,False
+2021-07-01,cmo,A,64,hybrid,4.0,moved,3y+,False
+2021-07-01,cmo,A,64,reasoner: nearest inferred ancestor,6.0,moved,3y+,False
+2021-07-01,cmo,A,64,reasoner: ancestors by hybrid,6.0,moved,3y+,False
+2021-07-01,cmo,A,65,names only,1.0,moved,3y+,False
+2021-07-01,cmo,A,65,name vote,4.0,moved,3y+,False
+2021-07-01,cmo,A,65,structural vote,2725.0,moved,3y+,False
+2021-07-01,cmo,A,65,hybrid,4.0,moved,3y+,False
+2021-07-01,cmo,A,65,reasoner: nearest inferred ancestor,6.0,moved,3y+,False
+2021-07-01,cmo,A,65,reasoner: ancestors by hybrid,6.0,moved,3y+,False
+2021-07-01,cmo,A,66,names only,6.0,moved,3y+,False
+2021-07-01,cmo,A,66,name vote,8.0,moved,3y+,False
+2021-07-01,cmo,A,66,structural vote,2725.0,moved,3y+,False
+2021-07-01,cmo,A,66,hybrid,8.0,moved,3y+,False
+2021-07-01,cmo,A,66,reasoner: nearest inferred ancestor,11.0,moved,3y+,False
+2021-07-01,cmo,A,66,reasoner: ancestors by hybrid,11.0,moved,3y+,False
+2021-07-01,cmo,A,67,names only,6.0,moved,3y+,False
+2021-07-01,cmo,A,67,name vote,9.0,moved,3y+,False
+2021-07-01,cmo,A,67,structural vote,2725.0,moved,3y+,False
+2021-07-01,cmo,A,67,hybrid,9.0,moved,3y+,False
+2021-07-01,cmo,A,67,reasoner: nearest inferred ancestor,11.0,moved,3y+,False
+2021-07-01,cmo,A,67,reasoner: ancestors by hybrid,11.0,moved,3y+,False
+2021-07-01,cmo,A,68,names only,6.0,moved,3y+,False
+2021-07-01,cmo,A,68,name vote,9.0,moved,3y+,False
+2021-07-01,cmo,A,68,structural vote,2725.0,moved,3y+,False
+2021-07-01,cmo,A,68,hybrid,9.0,moved,3y+,False
+2021-07-01,cmo,A,68,reasoner: nearest inferred ancestor,11.0,moved,3y+,False
+2021-07-01,cmo,A,68,reasoner: ancestors by hybrid,11.0,moved,3y+,False
+2021-07-01,cmo,A,69,names only,1.0,moved,3y+,False
+2021-07-01,cmo,A,69,name vote,4.0,moved,3y+,False
+2021-07-01,cmo,A,69,structural vote,2725.0,moved,3y+,False
+2021-07-01,cmo,A,69,hybrid,4.0,moved,3y+,False
+2021-07-01,cmo,A,69,reasoner: nearest inferred ancestor,6.0,moved,3y+,False
+2021-07-01,cmo,A,69,reasoner: ancestors by hybrid,6.0,moved,3y+,False
+2021-07-01,cmo,A,70,names only,1.0,moved,3y+,False
+2021-07-01,cmo,A,70,name vote,2.0,moved,3y+,False
+2021-07-01,cmo,A,70,structural vote,2725.0,moved,3y+,False
+2021-07-01,cmo,A,70,hybrid,2.0,moved,3y+,False
+2021-07-01,cmo,A,70,reasoner: nearest inferred ancestor,5.0,moved,3y+,False
+2021-07-01,cmo,A,70,reasoner: ancestors by hybrid,5.0,moved,3y+,False
+2021-07-01,cmo,A,71,names only,67.0,moved,3y+,False
+2021-07-01,cmo,A,71,name vote,70.0,moved,3y+,False
+2021-07-01,cmo,A,71,structural vote,2725.0,moved,3y+,False
+2021-07-01,cmo,A,71,hybrid,70.0,moved,3y+,False
+2021-07-01,cmo,A,71,reasoner: nearest inferred ancestor,72.0,moved,3y+,False
+2021-07-01,cmo,A,71,reasoner: ancestors by hybrid,72.0,moved,3y+,False
+2021-07-01,cmo,A,72,names only,1.0,moved,3y+,False
+2021-07-01,cmo,A,72,name vote,3.0,moved,3y+,False
+2021-07-01,cmo,A,72,structural vote,2725.0,moved,3y+,False
+2021-07-01,cmo,A,72,hybrid,3.0,moved,3y+,False
+2021-07-01,cmo,A,72,reasoner: nearest inferred ancestor,5.0,moved,3y+,False
+2021-07-01,cmo,A,72,reasoner: ancestors by hybrid,5.0,moved,3y+,False
+2021-07-01,cmo,A,73,names only,1.0,added,3y+,False
+2021-07-01,cmo,A,73,name vote,4.0,added,3y+,False
+2021-07-01,cmo,A,73,structural vote,2725.0,added,3y+,False
+2021-07-01,cmo,A,73,hybrid,4.0,added,3y+,False
+2021-07-01,cmo,A,73,reasoner: nearest inferred ancestor,6.0,added,3y+,False
+2021-07-01,cmo,A,73,reasoner: ancestors by hybrid,6.0,added,3y+,False
+2021-07-01,cmo,A,74,names only,163.0,added,3y+,False
+2021-07-01,cmo,A,74,name vote,164.0,added,3y+,False
+2021-07-01,cmo,A,74,structural vote,11.0,added,3y+,False
+2021-07-01,cmo,A,74,hybrid,165.0,added,3y+,False
+2021-07-01,cmo,A,74,reasoner: nearest inferred ancestor,166.0,added,3y+,False
+2021-07-01,cmo,A,74,reasoner: ancestors by hybrid,166.0,added,3y+,False
+2021-07-01,cmo,A,75,names only,1.0,moved,3y+,False
+2021-07-01,cmo,A,75,name vote,5.0,moved,3y+,False
+2021-07-01,cmo,A,75,structural vote,2725.0,moved,3y+,False
+2021-07-01,cmo,A,75,hybrid,5.0,moved,3y+,False
+2021-07-01,cmo,A,75,reasoner: nearest inferred ancestor,7.0,moved,3y+,False
+2021-07-01,cmo,A,75,reasoner: ancestors by hybrid,7.0,moved,3y+,False
+2021-07-01,cmo,A,76,names only,1.0,moved,3y+,False
+2021-07-01,cmo,A,76,name vote,3.0,moved,3y+,False
+2021-07-01,cmo,A,76,structural vote,2724.0,moved,3y+,False
+2021-07-01,cmo,A,76,hybrid,3.0,moved,3y+,False
+2021-07-01,cmo,A,76,reasoner: nearest inferred ancestor,5.0,moved,3y+,False
+2021-07-01,cmo,A,76,reasoner: ancestors by hybrid,5.0,moved,3y+,False
+2021-07-01,cmo,A,77,names only,132.0,moved,3y+,False
+2021-07-01,cmo,A,77,name vote,2.0,moved,3y+,False
+2021-07-01,cmo,A,77,structural vote,785.5,moved,3y+,False
+2021-07-01,cmo,A,77,hybrid,2.0,moved,3y+,False
+2021-07-01,cmo,A,77,reasoner: nearest inferred ancestor,5.0,moved,3y+,False
+2021-07-01,cmo,A,77,reasoner: ancestors by hybrid,5.0,moved,3y+,False
+2021-07-01,cmo,A,78,names only,108.0,moved,3y+,False
+2021-07-01,cmo,A,78,name vote,112.0,moved,3y+,False
+2021-07-01,cmo,A,78,structural vote,2725.0,moved,3y+,False
+2021-07-01,cmo,A,78,hybrid,112.0,moved,3y+,False
+2021-07-01,cmo,A,78,reasoner: nearest inferred ancestor,114.0,moved,3y+,False
+2021-07-01,cmo,A,78,reasoner: ancestors by hybrid,114.0,moved,3y+,False
+2021-07-01,cmo,A,79,names only,3.0,moved,3y+,False
+2021-07-01,cmo,A,79,name vote,3.0,moved,3y+,False
+2021-07-01,cmo,A,79,structural vote,2725.0,moved,3y+,False
+2021-07-01,cmo,A,79,hybrid,3.0,moved,3y+,False
+2021-07-01,cmo,A,79,reasoner: nearest inferred ancestor,6.0,moved,3y+,False
+2021-07-01,cmo,A,79,reasoner: ancestors by hybrid,6.0,moved,3y+,False
+2021-07-01,cmo,A,80,names only,4.0,moved,3y+,False
+2021-07-01,cmo,A,80,name vote,5.0,moved,3y+,False
+2021-07-01,cmo,A,80,structural vote,2725.0,moved,3y+,False
+2021-07-01,cmo,A,80,hybrid,5.0,moved,3y+,False
+2021-07-01,cmo,A,80,reasoner: nearest inferred ancestor,8.0,moved,3y+,False
+2021-07-01,cmo,A,80,reasoner: ancestors by hybrid,8.0,moved,3y+,False
+2021-07-01,cmo,A,81,names only,1.0,moved,3y+,False
+2021-07-01,cmo,A,81,name vote,5.0,moved,3y+,False
+2021-07-01,cmo,A,81,structural vote,2725.0,moved,3y+,False
+2021-07-01,cmo,A,81,hybrid,5.0,moved,3y+,False
+2021-07-01,cmo,A,81,reasoner: nearest inferred ancestor,7.0,moved,3y+,False
+2021-07-01,cmo,A,81,reasoner: ancestors by hybrid,7.0,moved,3y+,False
+2021-07-01,cmo,A,82,names only,1.0,moved,3y+,False
+2021-07-01,cmo,A,82,name vote,5.0,moved,3y+,False
+2021-07-01,cmo,A,82,structural vote,2725.0,moved,3y+,False
+2021-07-01,cmo,A,82,hybrid,5.0,moved,3y+,False
+2021-07-01,cmo,A,82,reasoner: nearest inferred ancestor,7.0,moved,3y+,False
+2021-07-01,cmo,A,82,reasoner: ancestors by hybrid,7.0,moved,3y+,False
+2021-07-01,cmo,A,83,names only,4.0,moved,3y+,False
+2021-07-01,cmo,A,83,name vote,4.0,moved,3y+,False
+2021-07-01,cmo,A,83,structural vote,395.0,moved,3y+,False
+2021-07-01,cmo,A,83,hybrid,4.0,moved,3y+,False
+2021-07-01,cmo,A,83,reasoner: nearest inferred ancestor,6.0,moved,3y+,False
+2021-07-01,cmo,A,83,reasoner: ancestors by hybrid,6.0,moved,3y+,False
+2021-07-01,cmo,A,84,names only,13.0,moved,3y+,False
+2021-07-01,cmo,A,84,name vote,17.0,moved,3y+,False
+2021-07-01,cmo,A,84,structural vote,229.5,moved,3y+,False
+2021-07-01,cmo,A,84,hybrid,17.0,moved,3y+,False
+2021-07-01,cmo,A,84,reasoner: nearest inferred ancestor,18.0,moved,3y+,False
+2021-07-01,cmo,A,84,reasoner: ancestors by hybrid,18.0,moved,3y+,False
+2021-07-01,cmo,A,85,names only,3.0,moved,3y+,False
+2021-07-01,cmo,A,85,name vote,3.0,moved,3y+,False
+2021-07-01,cmo,A,85,structural vote,782.5,moved,3y+,False
+2021-07-01,cmo,A,85,hybrid,5.0,moved,3y+,False
+2021-07-01,cmo,A,85,reasoner: nearest inferred ancestor,8.0,moved,3y+,False
+2021-07-01,cmo,A,85,reasoner: ancestors by hybrid,8.0,moved,3y+,False
+2021-07-01,cmo,A,86,names only,1.0,moved,3y+,True
+2021-07-01,cmo,A,86,name vote,1.0,moved,3y+,True
+2021-07-01,cmo,A,86,structural vote,105.5,moved,3y+,True
+2021-07-01,cmo,A,86,hybrid,1.0,moved,3y+,True
+2021-07-01,cmo,A,86,reasoner: nearest inferred ancestor,1.0,moved,3y+,True
+2021-07-01,cmo,A,86,reasoner: ancestors by hybrid,1.0,moved,3y+,True
+2021-07-01,cmo,A,87,names only,32.0,moved,3y+,False
+2021-07-01,cmo,A,87,name vote,34.0,moved,3y+,False
+2021-07-01,cmo,A,87,structural vote,2725.0,moved,3y+,False
+2021-07-01,cmo,A,87,hybrid,34.0,moved,3y+,False
+2021-07-01,cmo,A,87,reasoner: nearest inferred ancestor,37.0,moved,3y+,False
+2021-07-01,cmo,A,87,reasoner: ancestors by hybrid,37.0,moved,3y+,False
+2021-07-01,cmo,A,88,names only,1.0,moved,3y+,False
+2021-07-01,cmo,A,88,name vote,2.0,moved,3y+,False
+2021-07-01,cmo,A,88,structural vote,2725.0,moved,3y+,False
+2021-07-01,cmo,A,88,hybrid,2.0,moved,3y+,False
+2021-07-01,cmo,A,88,reasoner: nearest inferred ancestor,4.0,moved,3y+,False
+2021-07-01,cmo,A,88,reasoner: ancestors by hybrid,4.0,moved,3y+,False
+2021-07-01,cmo,B,0,names only,11.0,new,1y,
+2021-07-01,cmo,B,0,name vote,17.0,new,1y,
+2021-07-01,cmo,B,0,structural vote,1413.0,new,1y,
+2021-07-01,cmo,B,0,hybrid,17.0,new,1y,
+2021-07-01,cmo,B,1,names only,1.0,new,1y,
+2021-07-01,cmo,B,1,name vote,2.0,new,1y,
+2021-07-01,cmo,B,1,structural vote,1413.0,new,1y,
+2021-07-01,cmo,B,1,hybrid,2.0,new,1y,
+2021-07-01,cmo,B,2,names only,2.0,new,1y,
+2021-07-01,cmo,B,2,name vote,2.0,new,1y,
+2021-07-01,cmo,B,2,structural vote,229.5,new,1y,
+2021-07-01,cmo,B,2,hybrid,2.0,new,1y,
+2021-07-01,cmo,B,3,names only,1976.0,new,1y,
+2021-07-01,cmo,B,3,name vote,1977.0,new,1y,
+2021-07-01,cmo,B,3,structural vote,105.5,new,1y,
+2021-07-01,cmo,B,3,hybrid,1977.0,new,1y,
+2021-07-01,cmo,B,4,names only,10.0,new,1y,
+2021-07-01,cmo,B,4,name vote,17.0,new,1y,
+2021-07-01,cmo,B,4,structural vote,783.0,new,1y,
+2021-07-01,cmo,B,4,hybrid,17.0,new,1y,
+2021-07-01,cmo,B,5,names only,10.0,new,1y,
+2021-07-01,cmo,B,5,name vote,17.0,new,1y,
+2021-07-01,cmo,B,5,structural vote,783.0,new,1y,
+2021-07-01,cmo,B,5,hybrid,17.0,new,1y,
+2021-07-01,cmo,B,6,names only,30.0,new,1y,
+2021-07-01,cmo,B,6,name vote,37.0,new,1y,
+2021-07-01,cmo,B,6,structural vote,1413.0,new,1y,
+2021-07-01,cmo,B,6,hybrid,37.0,new,1y,
+2021-07-01,cmo,B,7,names only,1.0,new,1y,
+2021-07-01,cmo,B,7,name vote,1.0,new,1y,
+2021-07-01,cmo,B,7,structural vote,13.0,new,1y,
+2021-07-01,cmo,B,7,hybrid,1.0,new,1y,
+2021-07-01,cmo,B,8,names only,4.0,new,1y,
+2021-07-01,cmo,B,8,name vote,15.0,new,1y,
+2021-07-01,cmo,B,8,structural vote,2726.5,new,1y,
+2021-07-01,cmo,B,8,hybrid,15.0,new,1y,
+2021-07-01,cmo,B,9,names only,5.0,new,1y,
+2021-07-01,cmo,B,9,name vote,4.0,new,1y,
+2021-07-01,cmo,B,9,structural vote,1413.0,new,1y,
+2021-07-01,cmo,B,9,hybrid,4.0,new,1y,
+2021-07-01,cmo,B,10,names only,7.0,new,1y,
+2021-07-01,cmo,B,10,name vote,5.0,new,1y,
+2021-07-01,cmo,B,10,structural vote,1413.0,new,1y,
+2021-07-01,cmo,B,10,hybrid,5.0,new,1y,
+2021-07-01,cmo,B,11,names only,1.0,new,1y,
+2021-07-01,cmo,B,11,name vote,3.0,new,1y,
+2021-07-01,cmo,B,11,structural vote,1413.0,new,1y,
+2021-07-01,cmo,B,11,hybrid,3.0,new,1y,
+2021-07-01,cmo,B,12,names only,7.0,new,1y,
+2021-07-01,cmo,B,12,name vote,2.0,new,1y,
+2021-07-01,cmo,B,12,structural vote,1413.0,new,1y,
+2021-07-01,cmo,B,12,hybrid,2.0,new,1y,
+2021-07-01,cmo,B,13,names only,1.0,new,1y,
+2021-07-01,cmo,B,13,name vote,1.0,new,1y,
+2021-07-01,cmo,B,13,structural vote,783.0,new,1y,
+2021-07-01,cmo,B,13,hybrid,1.0,new,1y,
+2021-07-01,cmo,B,14,names only,18.0,new,1y,
+2021-07-01,cmo,B,14,name vote,23.0,new,1y,
+2021-07-01,cmo,B,14,structural vote,783.0,new,1y,
+2021-07-01,cmo,B,14,hybrid,23.0,new,1y,
+2021-07-01,cmo,B,15,names only,21.0,new,1y,
+2021-07-01,cmo,B,15,name vote,26.0,new,1y,
+2021-07-01,cmo,B,15,structural vote,783.0,new,1y,
+2021-07-01,cmo,B,15,hybrid,26.0,new,1y,
+2021-07-01,cmo,B,16,names only,6.0,new,1y,
+2021-07-01,cmo,B,16,name vote,10.0,new,1y,
+2021-07-01,cmo,B,16,structural vote,783.0,new,1y,
+2021-07-01,cmo,B,16,hybrid,10.0,new,1y,
+2021-07-01,cmo,B,17,names only,8.0,new,1y,
+2021-07-01,cmo,B,17,name vote,4.0,new,1y,
+2021-07-01,cmo,B,17,structural vote,1413.0,new,1y,
+2021-07-01,cmo,B,17,hybrid,4.0,new,1y,
+2021-07-01,cmo,B,18,names only,22.0,new,1y,
+2021-07-01,cmo,B,18,name vote,30.0,new,1y,
+2021-07-01,cmo,B,18,structural vote,1413.0,new,1y,
+2021-07-01,cmo,B,18,hybrid,30.0,new,1y,
+2021-07-01,cmo,B,19,names only,1.0,new,1y,
+2021-07-01,cmo,B,19,name vote,8.0,new,1y,
+2021-07-01,cmo,B,19,structural vote,2726.5,new,1y,
+2021-07-01,cmo,B,19,hybrid,8.0,new,1y,
+2021-07-01,cmo,B,20,names only,1.0,new,1y,
+2021-07-01,cmo,B,20,name vote,8.0,new,1y,
+2021-07-01,cmo,B,20,structural vote,2726.5,new,1y,
+2021-07-01,cmo,B,20,hybrid,8.0,new,1y,
+2021-07-01,cmo,B,21,names only,1.0,new,1y,
+2021-07-01,cmo,B,21,name vote,8.0,new,1y,
+2021-07-01,cmo,B,21,structural vote,2726.5,new,1y,
+2021-07-01,cmo,B,21,hybrid,8.0,new,1y,
+2021-07-01,cmo,B,22,names only,1.0,new,1y,
+2021-07-01,cmo,B,22,name vote,8.0,new,1y,
+2021-07-01,cmo,B,22,structural vote,2726.5,new,1y,
+2021-07-01,cmo,B,22,hybrid,8.0,new,1y,
+2021-07-01,cmo,B,23,names only,1.0,new,1y,
+2021-07-01,cmo,B,23,name vote,8.0,new,1y,
+2021-07-01,cmo,B,23,structural vote,2726.5,new,1y,
+2021-07-01,cmo,B,23,hybrid,8.0,new,1y,
+2021-07-01,cmo,B,24,names only,299.0,new,1y,
+2021-07-01,cmo,B,24,name vote,299.0,new,1y,
+2021-07-01,cmo,B,24,structural vote,9.5,new,1y,
+2021-07-01,cmo,B,24,hybrid,299.0,new,1y,
+2021-07-01,cmo,B,25,names only,1.0,new,1y,
+2021-07-01,cmo,B,25,name vote,8.0,new,1y,
+2021-07-01,cmo,B,25,structural vote,2726.5,new,1y,
+2021-07-01,cmo,B,25,hybrid,8.0,new,1y,
+2021-07-01,cmo,B,26,names only,1.0,new,1y,
+2021-07-01,cmo,B,26,name vote,8.0,new,1y,
+2021-07-01,cmo,B,26,structural vote,2726.5,new,1y,
+2021-07-01,cmo,B,26,hybrid,8.0,new,1y,
+2021-07-01,cmo,B,27,names only,5.0,new,1y,
+2021-07-01,cmo,B,27,name vote,13.0,new,1y,
+2021-07-01,cmo,B,27,structural vote,1413.0,new,1y,
+2021-07-01,cmo,B,27,hybrid,13.0,new,1y,
+2021-07-01,cmo,B,28,names only,561.0,new,1y,
+2021-07-01,cmo,B,28,name vote,563.0,new,1y,
+2021-07-01,cmo,B,28,structural vote,9.5,new,1y,
+2021-07-01,cmo,B,28,hybrid,563.0,new,1y,
+2021-07-01,cmo,B,29,names only,667.0,new,1y,
+2021-07-01,cmo,B,29,name vote,667.0,new,1y,
+2021-07-01,cmo,B,29,structural vote,9.5,new,1y,
+2021-07-01,cmo,B,29,hybrid,667.0,new,1y,
+2021-07-01,cmo,B,30,names only,1.0,new,1y,
+2021-07-01,cmo,B,30,name vote,1.0,new,1y,
+2021-07-01,cmo,B,30,structural vote,396.0,new,1y,
+2021-07-01,cmo,B,30,hybrid,1.0,new,1y,
+2021-07-01,cmo,B,31,names only,16.0,new,1y,
+2021-07-01,cmo,B,31,name vote,23.0,new,1y,
+2021-07-01,cmo,B,31,structural vote,2726.5,new,1y,
+2021-07-01,cmo,B,31,hybrid,23.0,new,1y,
+2021-07-01,cmo,B,32,names only,5.0,new,1y,
+2021-07-01,cmo,B,32,name vote,1.0,new,1y,
+2021-07-01,cmo,B,32,structural vote,52.0,new,1y,
+2021-07-01,cmo,B,32,hybrid,1.0,new,1y,
+2021-07-01,cmo,B,33,names only,6.0,new,1y,
+2021-07-01,cmo,B,33,name vote,1.0,new,1y,
+2021-07-01,cmo,B,33,structural vote,396.0,new,1y,
+2021-07-01,cmo,B,33,hybrid,1.0,new,1y,
+2021-07-01,cmo,B,34,names only,26.0,new,1y,
+2021-07-01,cmo,B,34,name vote,7.0,new,1y,
+2021-07-01,cmo,B,34,structural vote,1413.0,new,1y,
+2021-07-01,cmo,B,34,hybrid,7.0,new,1y,
+2021-07-01,cmo,B,35,names only,18.0,new,1y,
+2021-07-01,cmo,B,35,name vote,20.0,new,1y,
+2021-07-01,cmo,B,35,structural vote,1413.0,new,1y,
+2021-07-01,cmo,B,35,hybrid,20.0,new,1y,
+2021-07-01,cmo,B,36,names only,3.0,new,1y,
+2021-07-01,cmo,B,36,name vote,2.0,new,1y,
+2021-07-01,cmo,B,36,structural vote,32.0,new,1y,
+2021-07-01,cmo,B,36,hybrid,2.0,new,1y,
+2021-07-01,cmo,B,37,names only,1.0,new,1y,
+2021-07-01,cmo,B,37,name vote,2.0,new,1y,
+2021-07-01,cmo,B,37,structural vote,70.0,new,1y,
+2021-07-01,cmo,B,37,hybrid,2.0,new,1y,
+2021-07-01,cmo,B,38,names only,1.0,new,1y,
+2021-07-01,cmo,B,38,name vote,11.0,new,1y,
+2021-07-01,cmo,B,38,structural vote,2726.5,new,1y,
+2021-07-01,cmo,B,38,hybrid,11.0,new,1y,
+2021-07-01,cmo,B,39,names only,1.0,new,1y,
+2021-07-01,cmo,B,39,name vote,9.0,new,1y,
+2021-07-01,cmo,B,39,structural vote,2726.5,new,1y,
+2021-07-01,cmo,B,39,hybrid,9.0,new,1y,
+2021-07-01,cmo,B,40,names only,21.0,new,1y,
+2021-07-01,cmo,B,40,name vote,21.0,new,1y,
+2021-07-01,cmo,B,40,structural vote,2726.5,new,1y,
+2021-07-01,cmo,B,40,hybrid,21.0,new,1y,
+2021-07-01,cmo,B,41,names only,1.0,new,1y,
+2021-07-01,cmo,B,41,name vote,2.0,new,1y,
+2021-07-01,cmo,B,41,structural vote,1413.0,new,1y,
+2021-07-01,cmo,B,41,hybrid,2.0,new,1y,
+2021-07-01,cmo,B,42,names only,2.0,new,1y,
+2021-07-01,cmo,B,42,name vote,3.0,new,1y,
+2021-07-01,cmo,B,42,structural vote,1413.0,new,1y,
+2021-07-01,cmo,B,42,hybrid,3.0,new,1y,
+2021-07-01,cmo,B,43,names only,1.0,new,1y,
+2021-07-01,cmo,B,43,name vote,2.0,new,1y,
+2021-07-01,cmo,B,43,structural vote,1413.0,new,1y,
+2021-07-01,cmo,B,43,hybrid,2.0,new,1y,
+2021-07-01,cmo,B,44,names only,2.0,new,1y,
+2021-07-01,cmo,B,44,name vote,2.0,new,1y,
+2021-07-01,cmo,B,44,structural vote,32.0,new,1y,
+2021-07-01,cmo,B,44,hybrid,2.0,new,1y,
+2021-07-01,cmo,B,45,names only,1.0,new,1y,
+2021-07-01,cmo,B,45,name vote,11.0,new,1y,
+2021-07-01,cmo,B,45,structural vote,2726.5,new,1y,
+2021-07-01,cmo,B,45,hybrid,11.0,new,1y,
+2021-07-01,cmo,B,46,names only,1.0,new,1y,
+2021-07-01,cmo,B,46,name vote,10.0,new,1y,
+2021-07-01,cmo,B,46,structural vote,2726.5,new,1y,
+2021-07-01,cmo,B,46,hybrid,10.0,new,1y,
+2021-07-01,cmo,B,47,names only,1.0,new,1y,
+2021-07-01,cmo,B,47,name vote,1.0,new,1y,
+2021-07-01,cmo,B,47,structural vote,105.5,new,1y,
+2021-07-01,cmo,B,47,hybrid,1.0,new,1y,
+2021-07-01,cmo,B,48,names only,1.0,new,1y,
+2021-07-01,cmo,B,48,name vote,7.0,new,1y,
+2021-07-01,cmo,B,48,structural vote,1413.0,new,1y,
+2021-07-01,cmo,B,48,hybrid,7.0,new,1y,
+2021-07-01,cmo,B,49,names only,1.0,new,1y,
+2021-07-01,cmo,B,49,name vote,5.0,new,1y,
+2021-07-01,cmo,B,49,structural vote,1413.0,new,1y,
+2021-07-01,cmo,B,49,hybrid,5.0,new,1y,
+2021-07-01,cmo,B,50,names only,1.0,new,1y,
+2021-07-01,cmo,B,50,name vote,1.0,new,1y,
+2021-07-01,cmo,B,50,structural vote,229.5,new,1y,
+2021-07-01,cmo,B,50,hybrid,1.0,new,1y,
+2021-07-01,cmo,B,51,names only,109.0,new,1y,
+2021-07-01,cmo,B,51,name vote,112.0,new,1y,
+2021-07-01,cmo,B,51,structural vote,15.0,new,1y,
+2021-07-01,cmo,B,51,hybrid,112.0,new,1y,
+2021-07-01,cmo,B,52,names only,115.0,new,1y,
+2021-07-01,cmo,B,52,name vote,118.0,new,1y,
+2021-07-01,cmo,B,52,structural vote,15.0,new,1y,
+2021-07-01,cmo,B,52,hybrid,118.0,new,1y,
+2021-07-01,cmo,B,53,names only,1.0,new,1y,
+2021-07-01,cmo,B,53,name vote,4.0,new,1y,
+2021-07-01,cmo,B,53,structural vote,396.0,new,1y,
+2021-07-01,cmo,B,53,hybrid,4.0,new,1y,
+2021-07-01,cmo,B,54,names only,197.0,new,1y,
+2021-07-01,cmo,B,54,name vote,201.0,new,1y,
+2021-07-01,cmo,B,54,structural vote,15.0,new,1y,
+2021-07-01,cmo,B,54,hybrid,201.0,new,1y,
+2021-07-01,cmo,B,55,names only,154.0,new,1y,
+2021-07-01,cmo,B,55,name vote,158.0,new,1y,
+2021-07-01,cmo,B,55,structural vote,15.0,new,1y,
+2021-07-01,cmo,B,55,hybrid,158.0,new,1y,
+2021-07-01,cmo,B,56,names only,318.0,new,1y,
+2021-07-01,cmo,B,56,name vote,322.0,new,1y,
+2021-07-01,cmo,B,56,structural vote,22.0,new,1y,
+2021-07-01,cmo,B,56,hybrid,322.0,new,1y,
+2021-07-01,cmo,B,57,names only,1.0,new,1y,
+2021-07-01,cmo,B,57,name vote,10.0,new,1y,
+2021-07-01,cmo,B,57,structural vote,2726.5,new,1y,
+2021-07-01,cmo,B,57,hybrid,10.0,new,1y,
+2021-07-01,cmo,B,58,names only,1.0,new,1y,
+2021-07-01,cmo,B,58,name vote,13.0,new,1y,
+2021-07-01,cmo,B,58,structural vote,229.5,new,1y,
+2021-07-01,cmo,B,58,hybrid,13.0,new,1y,
+2021-07-01,cmo,B,59,names only,1.0,new,1y,
+2021-07-01,cmo,B,59,name vote,4.0,new,1y,
+2021-07-01,cmo,B,59,structural vote,1413.0,new,1y,
+2021-07-01,cmo,B,59,hybrid,4.0,new,1y,
+2021-07-01,cmo,B,60,names only,20.0,new,1y,
+2021-07-01,cmo,B,60,name vote,25.0,new,1y,
+2021-07-01,cmo,B,60,structural vote,783.0,new,1y,
+2021-07-01,cmo,B,60,hybrid,25.0,new,1y,
+2021-07-01,cmo,B,61,names only,19.0,new,1y,
+2021-07-01,cmo,B,61,name vote,1.0,new,1y,
+2021-07-01,cmo,B,61,structural vote,105.5,new,1y,
+2021-07-01,cmo,B,61,hybrid,1.0,new,1y,
+2021-07-01,cmo,B,62,names only,2.0,new,1y,
+2021-07-01,cmo,B,62,name vote,1.0,new,1y,
+2021-07-01,cmo,B,62,structural vote,105.5,new,1y,
+2021-07-01,cmo,B,62,hybrid,1.0,new,1y,
+2021-07-01,cmo,B,63,names only,42.0,new,1y,
+2021-07-01,cmo,B,63,name vote,1.0,new,1y,
+2021-07-01,cmo,B,63,structural vote,11.5,new,1y,
+2021-07-01,cmo,B,63,hybrid,1.0,new,1y,
+2021-07-01,cmo,B,64,names only,453.0,new,1y,
+2021-07-01,cmo,B,64,name vote,458.0,new,1y,
+2021-07-01,cmo,B,64,structural vote,229.5,new,1y,
+2021-07-01,cmo,B,64,hybrid,458.0,new,1y,
+2021-07-01,cmo,B,65,names only,4.0,new,1y,
+2021-07-01,cmo,B,65,name vote,1.0,new,1y,
+2021-07-01,cmo,B,65,structural vote,783.0,new,1y,
+2021-07-01,cmo,B,65,hybrid,1.0,new,1y,
+2021-07-01,cmo,B,66,names only,24.0,new,1y,
+2021-07-01,cmo,B,66,name vote,29.0,new,1y,
+2021-07-01,cmo,B,66,structural vote,1413.0,new,1y,
+2021-07-01,cmo,B,66,hybrid,29.0,new,1y,
+2021-07-01,cmo,B,67,names only,47.0,new,1y,
+2021-07-01,cmo,B,67,name vote,49.0,new,1y,
+2021-07-01,cmo,B,67,structural vote,1413.0,new,1y,
+2021-07-01,cmo,B,67,hybrid,49.0,new,1y,
+2021-07-01,cmo,B,68,names only,5.0,new,1y,
+2021-07-01,cmo,B,68,name vote,5.0,new,1y,
+2021-07-01,cmo,B,68,structural vote,229.5,new,1y,
+2021-07-01,cmo,B,68,hybrid,5.0,new,1y,
+2021-07-01,cmo,B,69,names only,2.0,new,1y,
+2021-07-01,cmo,B,69,name vote,3.0,new,1y,
+2021-07-01,cmo,B,69,structural vote,1413.0,new,1y,
+2021-07-01,cmo,B,69,hybrid,3.0,new,1y,
+2021-07-01,cmo,B,70,names only,1.0,new,1y,
+2021-07-01,cmo,B,70,name vote,9.0,new,1y,
+2021-07-01,cmo,B,70,structural vote,2726.5,new,1y,
+2021-07-01,cmo,B,70,hybrid,9.0,new,1y,
+2021-07-01,cmo,B,71,names only,12.0,new,1y,
+2021-07-01,cmo,B,71,name vote,18.0,new,1y,
+2021-07-01,cmo,B,71,structural vote,783.0,new,1y,
+2021-07-01,cmo,B,71,hybrid,18.0,new,1y,
+2021-07-01,cmo,B,72,names only,213.0,new,1y,
+2021-07-01,cmo,B,72,name vote,215.0,new,1y,
+2021-07-01,cmo,B,72,structural vote,1413.0,new,1y,
+2021-07-01,cmo,B,72,hybrid,215.0,new,1y,
+2021-07-01,cmo,B,73,names only,5.0,new,1y,
+2021-07-01,cmo,B,73,name vote,1.0,new,1y,
+2021-07-01,cmo,B,73,structural vote,7.5,new,1y,
+2021-07-01,cmo,B,73,hybrid,1.0,new,1y,
+2021-07-01,cmo,B,74,names only,3.0,new,1y,
+2021-07-01,cmo,B,74,name vote,1.0,new,1y,
+2021-07-01,cmo,B,74,structural vote,152.5,new,1y,
+2021-07-01,cmo,B,74,hybrid,1.0,new,1y,
+2021-07-01,cmo,B,75,names only,1.0,new,1y,
+2021-07-01,cmo,B,75,name vote,2.0,new,1y,
+2021-07-01,cmo,B,75,structural vote,229.5,new,1y,
+2021-07-01,cmo,B,75,hybrid,2.0,new,1y,
+2021-07-01,cmo,B,76,names only,1.0,new,1y,
+2021-07-01,cmo,B,76,name vote,12.0,new,1y,
+2021-07-01,cmo,B,76,structural vote,1413.0,new,1y,
+2021-07-01,cmo,B,76,hybrid,12.0,new,1y,
+2021-07-01,cmo,B,77,names only,1.0,new,1y,
+2021-07-01,cmo,B,77,name vote,11.0,new,1y,
+2021-07-01,cmo,B,77,structural vote,2726.5,new,1y,
+2021-07-01,cmo,B,77,hybrid,11.0,new,1y,
+2021-07-01,cmo,B,78,names only,1.0,new,1y,
+2021-07-01,cmo,B,78,name vote,10.0,new,1y,
+2021-07-01,cmo,B,78,structural vote,2726.5,new,1y,
+2021-07-01,cmo,B,78,hybrid,10.0,new,1y,
+2021-07-01,cmo,B,79,names only,275.0,new,1y,
+2021-07-01,cmo,B,79,name vote,1.0,new,1y,
+2021-07-01,cmo,B,79,structural vote,3.0,new,1y,
+2021-07-01,cmo,B,79,hybrid,1.0,new,1y,
+2021-07-01,cmo,B,80,names only,1.0,new,1y,
+2021-07-01,cmo,B,80,name vote,2.0,new,1y,
+2021-07-01,cmo,B,80,structural vote,1413.0,new,1y,
+2021-07-01,cmo,B,80,hybrid,2.0,new,1y,
+2021-07-01,cmo,B,81,names only,7.0,new,1y,
+2021-07-01,cmo,B,81,name vote,16.0,new,1y,
+2021-07-01,cmo,B,81,structural vote,1413.0,new,1y,
+2021-07-01,cmo,B,81,hybrid,16.0,new,1y,
+2021-07-01,cmo,B,82,names only,1.0,new,1y,
+2021-07-01,cmo,B,82,name vote,9.0,new,1y,
+2021-07-01,cmo,B,82,structural vote,2726.5,new,1y,
+2021-07-01,cmo,B,82,hybrid,9.0,new,1y,
+2021-07-01,cmo,B,83,names only,1.0,new,1y,
+2021-07-01,cmo,B,83,name vote,10.0,new,1y,
+2021-07-01,cmo,B,83,structural vote,2726.5,new,1y,
+2021-07-01,cmo,B,83,hybrid,10.0,new,1y,
+2021-07-01,cmo,B,84,names only,1.0,new,1y,
+2021-07-01,cmo,B,84,name vote,2.0,new,1y,
+2021-07-01,cmo,B,84,structural vote,783.0,new,1y,
+2021-07-01,cmo,B,84,hybrid,2.0,new,1y,
+2021-07-01,cmo,B,85,names only,1.0,new,1y,
+2021-07-01,cmo,B,85,name vote,3.0,new,1y,
+2021-07-01,cmo,B,85,structural vote,1413.0,new,1y,
+2021-07-01,cmo,B,85,hybrid,3.0,new,1y,
+2021-07-01,cmo,B,86,names only,30.0,new,1y,
+2021-07-01,cmo,B,86,name vote,33.0,new,1y,
+2021-07-01,cmo,B,86,structural vote,783.0,new,1y,
+2021-07-01,cmo,B,86,hybrid,33.0,new,1y,
+2021-07-01,cmo,B,87,names only,29.0,new,1y,
+2021-07-01,cmo,B,87,name vote,2.0,new,1y,
+2021-07-01,cmo,B,87,structural vote,17.5,new,1y,
+2021-07-01,cmo,B,87,hybrid,2.0,new,1y,
+2021-07-01,cmo,B,88,names only,2.0,new,1y,
+2021-07-01,cmo,B,88,name vote,8.0,new,1y,
+2021-07-01,cmo,B,88,structural vote,2726.5,new,1y,
+2021-07-01,cmo,B,88,hybrid,8.0,new,1y,
+2021-07-01,cmo,B,89,names only,47.0,new,2y,
+2021-07-01,cmo,B,89,name vote,54.0,new,2y,
+2021-07-01,cmo,B,89,structural vote,2726.5,new,2y,
+2021-07-01,cmo,B,89,hybrid,54.0,new,2y,
+2021-07-01,cmo,B,90,names only,44.0,new,2y,
+2021-07-01,cmo,B,90,name vote,49.0,new,2y,
+2021-07-01,cmo,B,90,structural vote,2726.5,new,2y,
+2021-07-01,cmo,B,90,hybrid,49.0,new,2y,
+2021-07-01,cmo,B,91,names only,1.0,new,2y,
+2021-07-01,cmo,B,91,name vote,1.0,new,2y,
+2021-07-01,cmo,B,91,structural vote,40.0,new,2y,
+2021-07-01,cmo,B,91,hybrid,1.0,new,2y,
+2021-07-01,cmo,B,92,names only,50.0,new,2y,
+2021-07-01,cmo,B,92,name vote,3.0,new,2y,
+2021-07-01,cmo,B,92,structural vote,70.0,new,2y,
+2021-07-01,cmo,B,92,hybrid,3.0,new,2y,
+2021-07-01,cmo,B,93,names only,6.0,new,2y,
+2021-07-01,cmo,B,93,name vote,1.0,new,2y,
+2021-07-01,cmo,B,93,structural vote,783.0,new,2y,
+2021-07-01,cmo,B,93,hybrid,1.0,new,2y,
+2021-07-01,cmo,B,94,names only,1.0,new,2y,
+2021-07-01,cmo,B,94,name vote,12.0,new,2y,
+2021-07-01,cmo,B,94,structural vote,2726.5,new,2y,
+2021-07-01,cmo,B,94,hybrid,12.0,new,2y,
+2021-07-01,cmo,B,95,names only,2.0,new,2y,
+2021-07-01,cmo,B,95,name vote,12.0,new,2y,
+2021-07-01,cmo,B,95,structural vote,2726.5,new,2y,
+2021-07-01,cmo,B,95,hybrid,12.0,new,2y,
+2021-07-01,cmo,B,96,names only,1.0,new,2y,
+2021-07-01,cmo,B,96,name vote,13.0,new,2y,
+2021-07-01,cmo,B,96,structural vote,2726.5,new,2y,
+2021-07-01,cmo,B,96,hybrid,13.0,new,2y,
+2021-07-01,cmo,B,97,names only,12.0,new,2y,
+2021-07-01,cmo,B,97,name vote,19.0,new,2y,
+2021-07-01,cmo,B,97,structural vote,2726.5,new,2y,
+2021-07-01,cmo,B,97,hybrid,19.0,new,2y,
+2021-07-01,cmo,B,98,names only,24.0,new,2y,
+2021-07-01,cmo,B,98,name vote,1.0,new,2y,
+2021-07-01,cmo,B,98,structural vote,70.0,new,2y,
+2021-07-01,cmo,B,98,hybrid,1.0,new,2y,
+2021-07-01,cmo,B,99,names only,12.0,new,2y,
+2021-07-01,cmo,B,99,name vote,1.0,new,2y,
+2021-07-01,cmo,B,99,structural vote,229.5,new,2y,
+2021-07-01,cmo,B,99,hybrid,1.0,new,2y,
+2021-07-01,cmo,B,100,names only,12.0,new,2y,
+2021-07-01,cmo,B,100,name vote,4.0,new,2y,
+2021-07-01,cmo,B,100,structural vote,32.0,new,2y,
+2021-07-01,cmo,B,100,hybrid,4.0,new,2y,
+2021-07-01,cmo,B,101,names only,2.0,new,2y,
+2021-07-01,cmo,B,101,name vote,2.0,new,2y,
+2021-07-01,cmo,B,101,structural vote,396.0,new,2y,
+2021-07-01,cmo,B,101,hybrid,2.0,new,2y,
+2021-07-01,cmo,B,102,names only,52.0,new,2y,
+2021-07-01,cmo,B,102,name vote,10.0,new,2y,
+2021-07-01,cmo,B,102,structural vote,1413.0,new,2y,
+2021-07-01,cmo,B,102,hybrid,10.0,new,2y,
+2021-07-01,cmo,B,103,names only,102.0,new,2y,
+2021-07-01,cmo,B,103,name vote,102.0,new,2y,
+2021-07-01,cmo,B,103,structural vote,2.0,new,2y,
+2021-07-01,cmo,B,103,hybrid,102.0,new,2y,
+2021-07-01,cmo,B,104,names only,50.0,new,2y,
+2021-07-01,cmo,B,104,name vote,55.0,new,2y,
+2021-07-01,cmo,B,104,structural vote,70.0,new,2y,
+2021-07-01,cmo,B,104,hybrid,55.0,new,2y,
+2021-07-01,cmo,B,105,names only,10.0,new,2y,
+2021-07-01,cmo,B,105,name vote,18.0,new,2y,
+2021-07-01,cmo,B,105,structural vote,105.5,new,2y,
+2021-07-01,cmo,B,105,hybrid,18.0,new,2y,
+2021-07-01,cmo,B,106,names only,6.0,new,2y,
+2021-07-01,cmo,B,106,name vote,1.0,new,2y,
+2021-07-01,cmo,B,106,structural vote,1.0,new,2y,
+2021-07-01,cmo,B,106,hybrid,1.0,new,2y,
+2021-07-01,cmo,B,107,names only,2.0,new,2y,
+2021-07-01,cmo,B,107,name vote,11.0,new,2y,
+2021-07-01,cmo,B,107,structural vote,5.0,new,2y,
+2021-07-01,cmo,B,107,hybrid,11.0,new,2y,
+2021-07-01,cmo,B,108,names only,1.0,new,2y,
+2021-07-01,cmo,B,108,name vote,1.0,new,2y,
+2021-07-01,cmo,B,108,structural vote,105.5,new,2y,
+2021-07-01,cmo,B,108,hybrid,1.0,new,2y,
+2021-07-01,cmo,B,109,names only,6.0,new,2y,
+2021-07-01,cmo,B,109,name vote,1.0,new,2y,
+2021-07-01,cmo,B,109,structural vote,17.5,new,2y,
+2021-07-01,cmo,B,109,hybrid,1.0,new,2y,
+2021-07-01,cmo,B,110,names only,7.0,new,2y,
+2021-07-01,cmo,B,110,name vote,1.0,new,2y,
+2021-07-01,cmo,B,110,structural vote,1.0,new,2y,
+2021-07-01,cmo,B,110,hybrid,1.0,new,2y,
+2021-07-01,cmo,B,111,names only,6.0,new,3y+,
+2021-07-01,cmo,B,111,name vote,1.0,new,3y+,
+2021-07-01,cmo,B,111,structural vote,229.5,new,3y+,
+2021-07-01,cmo,B,111,hybrid,1.0,new,3y+,
+2021-07-01,cmo,B,112,names only,3.0,new,3y+,
+2021-07-01,cmo,B,112,name vote,6.0,new,3y+,
+2021-07-01,cmo,B,112,structural vote,2726.5,new,3y+,
+2021-07-01,cmo,B,112,hybrid,6.0,new,3y+,
+2021-07-01,cmo,B,113,names only,40.0,new,3y+,
+2021-07-01,cmo,B,113,name vote,43.0,new,3y+,
+2021-07-01,cmo,B,113,structural vote,2726.5,new,3y+,
+2021-07-01,cmo,B,113,hybrid,43.0,new,3y+,
+2021-07-01,cmo,B,114,names only,1.0,new,3y+,
+2021-07-01,cmo,B,114,name vote,5.0,new,3y+,
+2021-07-01,cmo,B,114,structural vote,2726.5,new,3y+,
+2021-07-01,cmo,B,114,hybrid,5.0,new,3y+,
+2021-07-01,cmo,B,115,names only,2.0,new,3y+,
+2021-07-01,cmo,B,115,name vote,5.0,new,3y+,
+2021-07-01,cmo,B,115,structural vote,2726.5,new,3y+,
+2021-07-01,cmo,B,115,hybrid,5.0,new,3y+,
+2021-07-01,cmo,B,116,names only,11.0,new,3y+,
+2021-07-01,cmo,B,116,name vote,1.0,new,3y+,
+2021-07-01,cmo,B,116,structural vote,40.0,new,3y+,
+2021-07-01,cmo,B,116,hybrid,1.0,new,3y+,
+2021-07-01,cmo,B,117,names only,2.0,new,3y+,
+2021-07-01,cmo,B,117,name vote,1.0,new,3y+,
+2021-07-01,cmo,B,117,structural vote,229.5,new,3y+,
+2021-07-01,cmo,B,117,hybrid,1.0,new,3y+,
+2021-07-01,cmo,B,118,names only,211.0,new,3y+,
+2021-07-01,cmo,B,118,name vote,211.0,new,3y+,
+2021-07-01,cmo,B,118,structural vote,1413.0,new,3y+,
+2021-07-01,cmo,B,118,hybrid,211.0,new,3y+,
+2021-07-01,cmo,B,119,names only,31.0,new,3y+,
+2021-07-01,cmo,B,119,name vote,38.0,new,3y+,
+2021-07-01,cmo,B,119,structural vote,2726.5,new,3y+,
+2021-07-01,cmo,B,119,hybrid,38.0,new,3y+,
+2021-07-01,cmo,B,120,names only,1.0,new,3y+,
+2021-07-01,cmo,B,120,name vote,11.0,new,3y+,
+2021-07-01,cmo,B,120,structural vote,2726.5,new,3y+,
+2021-07-01,cmo,B,120,hybrid,11.0,new,3y+,
+2021-07-01,cmo,B,121,names only,37.0,new,3y+,
+2021-07-01,cmo,B,121,name vote,5.0,new,3y+,
+2021-07-01,cmo,B,121,structural vote,52.0,new,3y+,
+2021-07-01,cmo,B,121,hybrid,5.0,new,3y+,
+2021-07-01,cmo,B,122,names only,31.0,new,3y+,
+2021-07-01,cmo,B,122,name vote,4.0,new,3y+,
+2021-07-01,cmo,B,122,structural vote,105.5,new,3y+,
+2021-07-01,cmo,B,122,hybrid,4.0,new,3y+,
+2021-07-01,cmo,B,123,names only,1.0,new,3y+,
+2021-07-01,cmo,B,123,name vote,1.0,new,3y+,
+2021-07-01,cmo,B,123,structural vote,11.5,new,3y+,
+2021-07-01,cmo,B,123,hybrid,1.0,new,3y+,
+2021-07-01,cmo,B,124,names only,19.0,new,3y+,
+2021-07-01,cmo,B,124,name vote,6.0,new,3y+,
+2021-07-01,cmo,B,124,structural vote,1413.0,new,3y+,
+2021-07-01,cmo,B,124,hybrid,6.0,new,3y+,
+2021-07-01,cmo,B,125,names only,1.0,new,3y+,
+2021-07-01,cmo,B,125,name vote,2.0,new,3y+,
+2021-07-01,cmo,B,125,structural vote,1413.0,new,3y+,
+2021-07-01,cmo,B,125,hybrid,2.0,new,3y+,
+2021-07-01,cmo,B,126,names only,34.0,new,3y+,
+2021-07-01,cmo,B,126,name vote,2.0,new,3y+,
+2021-07-01,cmo,B,126,structural vote,52.0,new,3y+,
+2021-07-01,cmo,B,126,hybrid,2.0,new,3y+,
+2021-07-01,cmo,B,127,names only,1.0,new,3y+,
+2021-07-01,cmo,B,127,name vote,15.0,new,3y+,
+2021-07-01,cmo,B,127,structural vote,2726.5,new,3y+,
+2021-07-01,cmo,B,127,hybrid,15.0,new,3y+,
+2021-07-01,cmo,B,128,names only,42.0,new,3y+,
+2021-07-01,cmo,B,128,name vote,10.0,new,3y+,
+2021-07-01,cmo,B,128,structural vote,4.0,new,3y+,
+2021-07-01,cmo,B,128,hybrid,10.0,new,3y+,
+2021-07-01,cmo,B,129,names only,6.0,new,3y+,
+2021-07-01,cmo,B,129,name vote,2.0,new,3y+,
+2021-07-01,cmo,B,129,structural vote,70.0,new,3y+,
+2021-07-01,cmo,B,129,hybrid,2.0,new,3y+,
+2021-07-01,cmo,B,130,names only,42.0,new,3y+,
+2021-07-01,cmo,B,130,name vote,48.0,new,3y+,
+2021-07-01,cmo,B,130,structural vote,1413.0,new,3y+,
+2021-07-01,cmo,B,130,hybrid,48.0,new,3y+,
+2021-07-01,cmo,B,131,names only,41.0,new,3y+,
+2021-07-01,cmo,B,131,name vote,45.0,new,3y+,
+2021-07-01,cmo,B,131,structural vote,1413.0,new,3y+,
+2021-07-01,cmo,B,131,hybrid,45.0,new,3y+,
+2021-07-01,cmo,B,132,names only,13.0,new,3y+,
+2021-07-01,cmo,B,132,name vote,16.0,new,3y+,
+2021-07-01,cmo,B,132,structural vote,2726.5,new,3y+,
+2021-07-01,cmo,B,132,hybrid,16.0,new,3y+,
+2021-07-01,cmo,B,133,names only,5.0,new,3y+,
+2021-07-01,cmo,B,133,name vote,1.0,new,3y+,
+2021-07-01,cmo,B,133,structural vote,52.0,new,3y+,
+2021-07-01,cmo,B,133,hybrid,1.0,new,3y+,
+2021-07-01,cmo,B,134,names only,6.0,new,3y+,
+2021-07-01,cmo,B,134,name vote,1.0,new,3y+,
+2021-07-01,cmo,B,134,structural vote,152.5,new,3y+,
+2021-07-01,cmo,B,134,hybrid,1.0,new,3y+,
+2021-07-01,cmo,B,135,names only,1.0,new,3y+,
+2021-07-01,cmo,B,135,name vote,6.0,new,3y+,
+2021-07-01,cmo,B,135,structural vote,2726.5,new,3y+,
+2021-07-01,cmo,B,135,hybrid,6.0,new,3y+,
+2021-07-01,cmo,B,136,names only,12.0,new,3y+,
+2021-07-01,cmo,B,136,name vote,1.0,new,3y+,
+2021-07-01,cmo,B,136,structural vote,1.0,new,3y+,
+2021-07-01,cmo,B,136,hybrid,1.0,new,3y+,
+2021-07-01,cmo,B,137,names only,3.0,new,3y+,
+2021-07-01,cmo,B,137,name vote,13.0,new,3y+,
+2021-07-01,cmo,B,137,structural vote,2726.5,new,3y+,
+2021-07-01,cmo,B,137,hybrid,13.0,new,3y+,
+2021-07-01,cmo,B,138,names only,8.0,new,3y+,
+2021-07-01,cmo,B,138,name vote,1.0,new,3y+,
+2021-07-01,cmo,B,138,structural vote,1.0,new,3y+,
+2021-07-01,cmo,B,138,hybrid,1.0,new,3y+,
+2021-07-01,cmo,B,139,names only,100.0,new,3y+,
+2021-07-01,cmo,B,139,name vote,101.0,new,3y+,
+2021-07-01,cmo,B,139,structural vote,2726.5,new,3y+,
+2021-07-01,cmo,B,139,hybrid,101.0,new,3y+,
+2021-07-01,cmo,B,140,names only,39.0,new,3y+,
+2021-07-01,cmo,B,140,name vote,42.0,new,3y+,
+2021-07-01,cmo,B,140,structural vote,2726.5,new,3y+,
+2021-07-01,cmo,B,140,hybrid,42.0,new,3y+,
+2021-07-01,cmo,B,141,names only,5.0,new,3y+,
+2021-07-01,cmo,B,141,name vote,1.0,new,3y+,
+2021-07-01,cmo,B,141,structural vote,1.0,new,3y+,
+2021-07-01,cmo,B,141,hybrid,1.0,new,3y+,
+2021-07-01,cmo,B,142,names only,5.0,new,3y+,
+2021-07-01,cmo,B,142,name vote,1.0,new,3y+,
+2021-07-01,cmo,B,142,structural vote,1.0,new,3y+,
+2021-07-01,cmo,B,142,hybrid,1.0,new,3y+,
+2021-07-01,cmo,B,143,names only,16.0,new,3y+,
+2021-07-01,cmo,B,143,name vote,22.0,new,3y+,
+2021-07-01,cmo,B,143,structural vote,152.5,new,3y+,
+2021-07-01,cmo,B,143,hybrid,22.0,new,3y+,
+2021-07-01,cmo,B,144,names only,2.0,new,3y+,
+2021-07-01,cmo,B,144,name vote,6.0,new,3y+,
+2021-07-01,cmo,B,144,structural vote,2726.5,new,3y+,
+2021-07-01,cmo,B,144,hybrid,6.0,new,3y+,
+2021-07-01,cmo,B,145,names only,1.0,new,3y+,
+2021-07-01,cmo,B,145,name vote,8.0,new,3y+,
+2021-07-01,cmo,B,145,structural vote,2726.5,new,3y+,
+2021-07-01,cmo,B,145,hybrid,8.0,new,3y+,
+2021-07-01,cmo,B,146,names only,7.5,new,3y+,
+2021-07-01,cmo,B,146,name vote,2.0,new,3y+,
+2021-07-01,cmo,B,146,structural vote,229.5,new,3y+,
+2021-07-01,cmo,B,146,hybrid,2.0,new,3y+,
+2021-07-01,cmo,B,147,names only,1.0,new,3y+,
+2021-07-01,cmo,B,147,name vote,1.0,new,3y+,
+2021-07-01,cmo,B,147,structural vote,1.0,new,3y+,
+2021-07-01,cmo,B,147,hybrid,1.0,new,3y+,
+2021-07-01,cmo,B,148,names only,21.0,new,3y+,
+2021-07-01,cmo,B,148,name vote,31.0,new,3y+,
+2021-07-01,cmo,B,148,structural vote,1413.0,new,3y+,
+2021-07-01,cmo,B,148,hybrid,31.0,new,3y+,
+2021-07-01,cmo,B,149,names only,1.0,new,3y+,
+2021-07-01,cmo,B,149,name vote,3.0,new,3y+,
+2021-07-01,cmo,B,149,structural vote,1413.0,new,3y+,
+2021-07-01,cmo,B,149,hybrid,3.0,new,3y+,
+2021-07-01,cmo,B,150,names only,1.0,new,3y+,
+2021-07-01,cmo,B,150,name vote,2.0,new,3y+,
+2021-07-01,cmo,B,150,structural vote,1413.0,new,3y+,
+2021-07-01,cmo,B,150,hybrid,2.0,new,3y+,
+2021-07-01,cmo,B,151,names only,8.0,new,3y+,
+2021-07-01,cmo,B,151,name vote,1.0,new,3y+,
+2021-07-01,cmo,B,151,structural vote,1.0,new,3y+,
+2021-07-01,cmo,B,151,hybrid,1.0,new,3y+,
+2021-07-01,cmo,B,152,names only,1.0,new,3y+,
+2021-07-01,cmo,B,152,name vote,1.0,new,3y+,
+2021-07-01,cmo,B,152,structural vote,1.0,new,3y+,
+2021-07-01,cmo,B,152,hybrid,1.0,new,3y+,
+2021-07-01,cmo,B,153,names only,1.0,new,3y+,
+2021-07-01,cmo,B,153,name vote,5.0,new,3y+,
+2021-07-01,cmo,B,153,structural vote,2726.5,new,3y+,
+2021-07-01,cmo,B,153,hybrid,5.0,new,3y+,
+2021-07-01,cmo,B,154,names only,2.0,new,3y+,
+2021-07-01,cmo,B,154,name vote,4.0,new,3y+,
+2021-07-01,cmo,B,154,structural vote,1413.0,new,3y+,
+2021-07-01,cmo,B,154,hybrid,4.0,new,3y+,
+2021-07-01,cmo,B,155,names only,1.0,new,3y+,
+2021-07-01,cmo,B,155,name vote,3.0,new,3y+,
+2021-07-01,cmo,B,155,structural vote,2726.5,new,3y+,
+2021-07-01,cmo,B,155,hybrid,3.0,new,3y+,
+2021-07-01,cmo,B,156,names only,1.0,new,3y+,
+2021-07-01,cmo,B,156,name vote,2.0,new,3y+,
+2021-07-01,cmo,B,156,structural vote,2726.5,new,3y+,
+2021-07-01,cmo,B,156,hybrid,2.0,new,3y+,
+2021-07-01,cmo,B,157,names only,1.0,new,3y+,
+2021-07-01,cmo,B,157,name vote,11.0,new,3y+,
+2021-07-01,cmo,B,157,structural vote,2726.5,new,3y+,
+2021-07-01,cmo,B,157,hybrid,11.0,new,3y+,
+2021-07-01,cmo,B,158,names only,1.0,new,3y+,
+2021-07-01,cmo,B,158,name vote,2.0,new,3y+,
+2021-07-01,cmo,B,158,structural vote,229.5,new,3y+,
+2021-07-01,cmo,B,158,hybrid,2.0,new,3y+,
+2021-07-01,cmo,B,159,names only,2.0,new,3y+,
+2021-07-01,cmo,B,159,name vote,2.0,new,3y+,
+2021-07-01,cmo,B,159,structural vote,229.5,new,3y+,
+2021-07-01,cmo,B,159,hybrid,2.0,new,3y+,
+2021-07-01,cmo,B,160,names only,1.0,new,3y+,
+2021-07-01,cmo,B,160,name vote,3.0,new,3y+,
+2021-07-01,cmo,B,160,structural vote,2726.5,new,3y+,
+2021-07-01,cmo,B,160,hybrid,3.0,new,3y+,
+2021-07-01,cmo,B,161,names only,49.0,new,3y+,
+2021-07-01,cmo,B,161,name vote,57.0,new,3y+,
+2021-07-01,cmo,B,161,structural vote,1413.0,new,3y+,
+2021-07-01,cmo,B,161,hybrid,57.0,new,3y+,
+2021-07-01,cmo,B,162,names only,1.0,new,3y+,
+2021-07-01,cmo,B,162,name vote,4.0,new,3y+,
+2021-07-01,cmo,B,162,structural vote,2726.5,new,3y+,
+2021-07-01,cmo,B,162,hybrid,4.0,new,3y+,
+2021-07-01,cmo,B,163,names only,1.0,new,3y+,
+2021-07-01,cmo,B,163,name vote,7.0,new,3y+,
+2021-07-01,cmo,B,163,structural vote,2726.5,new,3y+,
+2021-07-01,cmo,B,163,hybrid,7.0,new,3y+,
+2021-07-01,cmo,B,164,names only,6.0,new,3y+,
+2021-07-01,cmo,B,164,name vote,1.0,new,3y+,
+2021-07-01,cmo,B,164,structural vote,1.0,new,3y+,
+2021-07-01,cmo,B,164,hybrid,1.0,new,3y+,
+2021-07-01,cmo,B,165,names only,1.0,new,3y+,
+2021-07-01,cmo,B,165,name vote,11.0,new,3y+,
+2021-07-01,cmo,B,165,structural vote,152.5,new,3y+,
+2021-07-01,cmo,B,165,hybrid,11.0,new,3y+,
+2021-07-01,cmo,B,166,names only,6.0,new,3y+,
+2021-07-01,cmo,B,166,name vote,1.0,new,3y+,
+2021-07-01,cmo,B,166,structural vote,1.0,new,3y+,
+2021-07-01,cmo,B,166,hybrid,1.0,new,3y+,
+2021-07-01,cmo,B,167,names only,4.0,new,3y+,
+2021-07-01,cmo,B,167,name vote,1.0,new,3y+,
+2021-07-01,cmo,B,167,structural vote,1.0,new,3y+,
+2021-07-01,cmo,B,167,hybrid,1.0,new,3y+,
+2021-07-01,cmo,B,168,names only,1.0,new,3y+,
+2021-07-01,cmo,B,168,name vote,2.0,new,3y+,
+2021-07-01,cmo,B,168,structural vote,2726.0,new,3y+,
+2021-07-01,cmo,B,168,hybrid,2.0,new,3y+,
+2021-07-01,cmo,B,169,names only,3.0,new,3y+,
+2021-07-01,cmo,B,169,name vote,2.0,new,3y+,
+2021-07-01,cmo,B,169,structural vote,11.5,new,3y+,
+2021-07-01,cmo,B,169,hybrid,2.0,new,3y+,
+2021-07-01,cmo,B,170,names only,2.0,new,3y+,
+2021-07-01,cmo,B,170,name vote,1.0,new,3y+,
+2021-07-01,cmo,B,170,structural vote,17.5,new,3y+,
+2021-07-01,cmo,B,170,hybrid,1.0,new,3y+,
+2021-07-01,cmo,B,171,names only,8.0,new,3y+,
+2021-07-01,cmo,B,171,name vote,1.0,new,3y+,
+2021-07-01,cmo,B,171,structural vote,1.0,new,3y+,
+2021-07-01,cmo,B,171,hybrid,1.0,new,3y+,
+2021-07-01,cmo,B,172,names only,18.0,new,3y+,
+2021-07-01,cmo,B,172,name vote,27.0,new,3y+,
+2021-07-01,cmo,B,172,structural vote,152.5,new,3y+,
+2021-07-01,cmo,B,172,hybrid,27.0,new,3y+,
+2021-07-01,cmo,B,173,names only,1.0,new,3y+,
+2021-07-01,cmo,B,173,name vote,3.0,new,3y+,
+2021-07-01,cmo,B,173,structural vote,783.0,new,3y+,
+2021-07-01,cmo,B,173,hybrid,3.0,new,3y+,
+2021-07-01,cmo,B,174,names only,4.0,new,3y+,
+2021-07-01,cmo,B,174,name vote,1.0,new,3y+,
+2021-07-01,cmo,B,174,structural vote,1.0,new,3y+,
+2021-07-01,cmo,B,174,hybrid,1.0,new,3y+,
+2021-07-01,cmo,B,175,names only,3.0,new,3y+,
+2021-07-01,cmo,B,175,name vote,15.0,new,3y+,
+2021-07-01,cmo,B,175,structural vote,1413.0,new,3y+,
+2021-07-01,cmo,B,175,hybrid,15.0,new,3y+,
+2021-07-01,cmo,B,176,names only,67.0,new,3y+,
+2021-07-01,cmo,B,176,name vote,70.0,new,3y+,
+2021-07-01,cmo,B,176,structural vote,2726.5,new,3y+,
+2021-07-01,cmo,B,176,hybrid,70.0,new,3y+,
+2021-07-01,cmo,B,177,names only,1.0,new,3y+,
+2021-07-01,cmo,B,177,name vote,8.0,new,3y+,
+2021-07-01,cmo,B,177,structural vote,2726.5,new,3y+,
+2021-07-01,cmo,B,177,hybrid,8.0,new,3y+,
+2021-07-01,cmo,B,178,names only,1.0,new,3y+,
+2021-07-01,cmo,B,178,name vote,7.0,new,3y+,
+2021-07-01,cmo,B,178,structural vote,2726.5,new,3y+,
+2021-07-01,cmo,B,178,hybrid,7.0,new,3y+,
+2021-07-01,cmo,B,179,names only,1.0,new,3y+,
+2021-07-01,cmo,B,179,name vote,9.0,new,3y+,
+2021-07-01,cmo,B,179,structural vote,2726.5,new,3y+,
+2021-07-01,cmo,B,179,hybrid,9.0,new,3y+,
+2021-07-01,cmo,B,180,names only,1.0,new,3y+,
+2021-07-01,cmo,B,180,name vote,8.0,new,3y+,
+2021-07-01,cmo,B,180,structural vote,2726.5,new,3y+,
+2021-07-01,cmo,B,180,hybrid,8.0,new,3y+,
+2021-07-01,cmo,B,181,names only,2.0,new,3y+,
+2021-07-01,cmo,B,181,name vote,10.0,new,3y+,
+2021-07-01,cmo,B,181,structural vote,2726.5,new,3y+,
+2021-07-01,cmo,B,181,hybrid,10.0,new,3y+,
+2021-07-01,cmo,B,182,names only,1.0,new,3y+,
+2021-07-01,cmo,B,182,name vote,7.0,new,3y+,
+2021-07-01,cmo,B,182,structural vote,2726.5,new,3y+,
+2021-07-01,cmo,B,182,hybrid,7.0,new,3y+,
+2021-07-01,cmo,B,183,names only,1.0,new,3y+,
+2021-07-01,cmo,B,183,name vote,4.0,new,3y+,
+2021-07-01,cmo,B,183,structural vote,1413.0,new,3y+,
+2021-07-01,cmo,B,183,hybrid,4.0,new,3y+,
+2021-07-01,cmo,B,184,names only,1.0,new,3y+,
+2021-07-01,cmo,B,184,name vote,4.0,new,3y+,
+2021-07-01,cmo,B,184,structural vote,1413.0,new,3y+,
+2021-07-01,cmo,B,184,hybrid,4.0,new,3y+,
+2021-07-01,cmo,B,185,names only,1.0,new,3y+,
+2021-07-01,cmo,B,185,name vote,6.0,new,3y+,
+2021-07-01,cmo,B,185,structural vote,2726.5,new,3y+,
+2021-07-01,cmo,B,185,hybrid,6.0,new,3y+,
+2021-07-01,cmo,B,186,names only,1.0,new,3y+,
+2021-07-01,cmo,B,186,name vote,4.0,new,3y+,
+2021-07-01,cmo,B,186,structural vote,1413.0,new,3y+,
+2021-07-01,cmo,B,186,hybrid,4.0,new,3y+,
+2021-07-01,cmo,B,187,names only,2.0,new,3y+,
+2021-07-01,cmo,B,187,name vote,9.0,new,3y+,
+2021-07-01,cmo,B,187,structural vote,2726.5,new,3y+,
+2021-07-01,cmo,B,187,hybrid,9.0,new,3y+,
+2021-07-01,cmo,B,188,names only,1.0,new,3y+,
+2021-07-01,cmo,B,188,name vote,9.0,new,3y+,
+2021-07-01,cmo,B,188,structural vote,2726.5,new,3y+,
+2021-07-01,cmo,B,188,hybrid,9.0,new,3y+,
+2021-07-01,cmo,B,189,names only,37.0,new,3y+,
+2021-07-01,cmo,B,189,name vote,40.0,new,3y+,
+2021-07-01,cmo,B,189,structural vote,2726.0,new,3y+,
+2021-07-01,cmo,B,189,hybrid,40.0,new,3y+,
+2021-07-01,cmo,B,190,names only,1.0,new,3y+,
+2021-07-01,cmo,B,190,name vote,7.0,new,3y+,
+2021-07-01,cmo,B,190,structural vote,2726.5,new,3y+,
+2021-07-01,cmo,B,190,hybrid,7.0,new,3y+,
+2021-07-01,cmo,B,191,names only,1.0,new,3y+,
+2021-07-01,cmo,B,191,name vote,2.0,new,3y+,
+2021-07-01,cmo,B,191,structural vote,1413.0,new,3y+,
+2021-07-01,cmo,B,191,hybrid,2.0,new,3y+,
+2021-07-01,cmo,B,192,names only,1.0,new,3y+,
+2021-07-01,cmo,B,192,name vote,8.0,new,3y+,
+2021-07-01,cmo,B,192,structural vote,2726.5,new,3y+,
+2021-07-01,cmo,B,192,hybrid,8.0,new,3y+,
+2021-07-01,cmo,B,193,names only,1.0,new,3y+,
+2021-07-01,cmo,B,193,name vote,3.0,new,3y+,
+2021-07-01,cmo,B,193,structural vote,52.0,new,3y+,
+2021-07-01,cmo,B,193,hybrid,3.0,new,3y+,
+2021-07-01,cmo,B,194,names only,2.0,new,3y+,
+2021-07-01,cmo,B,194,name vote,10.0,new,3y+,
+2021-07-01,cmo,B,194,structural vote,2726.5,new,3y+,
+2021-07-01,cmo,B,194,hybrid,10.0,new,3y+,
+2021-07-01,cmo,B,195,names only,26.0,new,3y+,
+2021-07-01,cmo,B,195,name vote,1.0,new,3y+,
+2021-07-01,cmo,B,195,structural vote,1.0,new,3y+,
+2021-07-01,cmo,B,195,hybrid,1.0,new,3y+,
+2021-07-01,cmo,B,196,names only,2.0,new,3y+,
+2021-07-01,cmo,B,196,name vote,7.0,new,3y+,
+2021-07-01,cmo,B,196,structural vote,2726.5,new,3y+,
+2021-07-01,cmo,B,196,hybrid,7.0,new,3y+,
+2021-07-01,cmo,B,197,names only,1.0,new,3y+,
+2021-07-01,cmo,B,197,name vote,1.0,new,3y+,
+2021-07-01,cmo,B,197,structural vote,783.0,new,3y+,
+2021-07-01,cmo,B,197,hybrid,1.0,new,3y+,
+2021-07-01,cmo,B,198,names only,1.0,new,3y+,
+2021-07-01,cmo,B,198,name vote,10.0,new,3y+,
+2021-07-01,cmo,B,198,structural vote,2726.5,new,3y+,
+2021-07-01,cmo,B,198,hybrid,10.0,new,3y+,
+2021-07-01,cmo,B,199,names only,1.0,new,3y+,
+2021-07-01,cmo,B,199,name vote,1.0,new,3y+,
+2021-07-01,cmo,B,199,structural vote,32.0,new,3y+,
+2021-07-01,cmo,B,199,hybrid,1.0,new,3y+,
+2021-07-01,cmo,B,200,names only,1.0,new,3y+,
+2021-07-01,cmo,B,200,name vote,2.0,new,3y+,
+2021-07-01,cmo,B,200,structural vote,2726.5,new,3y+,
+2021-07-01,cmo,B,200,hybrid,2.0,new,3y+,
+2021-07-01,cmo,B,201,names only,1.0,new,3y+,
+2021-07-01,cmo,B,201,name vote,7.0,new,3y+,
+2021-07-01,cmo,B,201,structural vote,2726.5,new,3y+,
+2021-07-01,cmo,B,201,hybrid,7.0,new,3y+,
+2021-07-01,cmo,B,202,names only,38.0,new,3y+,
+2021-07-01,cmo,B,202,name vote,40.0,new,3y+,
+2021-07-01,cmo,B,202,structural vote,2726.5,new,3y+,
+2021-07-01,cmo,B,202,hybrid,40.0,new,3y+,
+2021-07-01,cmo,B,203,names only,2.0,new,3y+,
+2021-07-01,cmo,B,203,name vote,2.0,new,3y+,
+2021-07-01,cmo,B,203,structural vote,1413.0,new,3y+,
+2021-07-01,cmo,B,203,hybrid,2.0,new,3y+,
+2021-07-01,cmo,B,204,names only,3.0,new,3y+,
+2021-07-01,cmo,B,204,name vote,2.0,new,3y+,
+2021-07-01,cmo,B,204,structural vote,783.0,new,3y+,
+2021-07-01,cmo,B,204,hybrid,2.0,new,3y+,
+2021-07-01,cmo,B,205,names only,3.0,new,3y+,
+2021-07-01,cmo,B,205,name vote,4.0,new,3y+,
+2021-07-01,cmo,B,205,structural vote,1413.0,new,3y+,
+2021-07-01,cmo,B,205,hybrid,4.0,new,3y+,
+2021-07-01,cmo,B,206,names only,1.0,new,3y+,
+2021-07-01,cmo,B,206,name vote,8.0,new,3y+,
+2021-07-01,cmo,B,206,structural vote,2726.5,new,3y+,
+2021-07-01,cmo,B,206,hybrid,8.0,new,3y+,
+2021-07-01,cmo,B,207,names only,1.0,new,3y+,
+2021-07-01,cmo,B,207,name vote,3.0,new,3y+,
+2021-07-01,cmo,B,207,structural vote,2726.0,new,3y+,
+2021-07-01,cmo,B,207,hybrid,3.0,new,3y+,
+2021-07-01,cmo,B,208,names only,9.0,new,3y+,
+2021-07-01,cmo,B,208,name vote,13.0,new,3y+,
+2021-07-01,cmo,B,208,structural vote,2726.5,new,3y+,
+2021-07-01,cmo,B,208,hybrid,13.0,new,3y+,
+2021-07-01,cmo,B,209,names only,1.0,new,3y+,
+2021-07-01,cmo,B,209,name vote,7.0,new,3y+,
+2021-07-01,cmo,B,209,structural vote,2726.5,new,3y+,
+2021-07-01,cmo,B,209,hybrid,7.0,new,3y+,
+2021-07-01,cmo,B,210,names only,2.0,new,3y+,
+2021-07-01,cmo,B,210,name vote,9.0,new,3y+,
+2021-07-01,cmo,B,210,structural vote,2726.5,new,3y+,
+2021-07-01,cmo,B,210,hybrid,9.0,new,3y+,
+2021-07-01,cmo,B,211,names only,56.0,new,3y+,
+2021-07-01,cmo,B,211,name vote,58.0,new,3y+,
+2021-07-01,cmo,B,211,structural vote,2726.0,new,3y+,
+2021-07-01,cmo,B,211,hybrid,58.0,new,3y+,
+2021-07-01,cmo,B,212,names only,1.0,new,3y+,
+2021-07-01,cmo,B,212,name vote,4.0,new,3y+,
+2021-07-01,cmo,B,212,structural vote,2726.0,new,3y+,
+2021-07-01,cmo,B,212,hybrid,4.0,new,3y+,
+2021-07-01,cmo,B,213,names only,2.0,new,3y+,
+2021-07-01,cmo,B,213,name vote,3.0,new,3y+,
+2021-07-01,cmo,B,213,structural vote,2726.5,new,3y+,
+2021-07-01,cmo,B,213,hybrid,3.0,new,3y+,
+2021-07-01,cmo,B,214,names only,1.0,new,3y+,
+2021-07-01,cmo,B,214,name vote,5.0,new,3y+,
+2021-07-01,cmo,B,214,structural vote,2726.5,new,3y+,
+2021-07-01,cmo,B,214,hybrid,5.0,new,3y+,
+2021-07-01,cmo,B,215,names only,40.0,new,3y+,
+2021-07-01,cmo,B,215,name vote,44.0,new,3y+,
+2021-07-01,cmo,B,215,structural vote,2726.5,new,3y+,
+2021-07-01,cmo,B,215,hybrid,44.0,new,3y+,
+2021-07-01,cmo,B,216,names only,6.0,new,3y+,
+2021-07-01,cmo,B,216,name vote,6.0,new,3y+,
+2021-07-01,cmo,B,216,structural vote,783.0,new,3y+,
+2021-07-01,cmo,B,216,hybrid,6.0,new,3y+,
+2021-07-01,cmo,B,217,names only,1.0,new,3y+,
+2021-07-01,cmo,B,217,name vote,8.0,new,3y+,
+2021-07-01,cmo,B,217,structural vote,2726.5,new,3y+,
+2021-07-01,cmo,B,217,hybrid,8.0,new,3y+,
+2021-07-01,cmo,B,218,names only,1.0,new,3y+,
+2021-07-01,cmo,B,218,name vote,5.0,new,3y+,
+2021-07-01,cmo,B,218,structural vote,2726.5,new,3y+,
+2021-07-01,cmo,B,218,hybrid,5.0,new,3y+,
+2021-07-01,cmo,B,219,names only,1.0,new,3y+,
+2021-07-01,cmo,B,219,name vote,8.0,new,3y+,
+2021-07-01,cmo,B,219,structural vote,2726.5,new,3y+,
+2021-07-01,cmo,B,219,hybrid,8.0,new,3y+,
+2021-07-01,cmo,B,220,names only,1.0,new,3y+,
+2021-07-01,cmo,B,220,name vote,2.0,new,3y+,
+2021-07-01,cmo,B,220,structural vote,2726.5,new,3y+,
+2021-07-01,cmo,B,220,hybrid,2.0,new,3y+,
+2021-07-01,cmo,B,221,names only,1.0,new,3y+,
+2021-07-01,cmo,B,221,name vote,7.0,new,3y+,
+2021-07-01,cmo,B,221,structural vote,2726.5,new,3y+,
+2021-07-01,cmo,B,221,hybrid,7.0,new,3y+,
+2021-07-01,cmo,B,222,names only,1.0,new,3y+,
+2021-07-01,cmo,B,222,name vote,2.0,new,3y+,
+2021-07-01,cmo,B,222,structural vote,2726.5,new,3y+,
+2021-07-01,cmo,B,222,hybrid,2.0,new,3y+,
+2021-07-01,cmo,B,223,names only,2.0,new,3y+,
+2021-07-01,cmo,B,223,name vote,7.0,new,3y+,
+2021-07-01,cmo,B,223,structural vote,2726.5,new,3y+,
+2021-07-01,cmo,B,223,hybrid,7.0,new,3y+,
+2021-07-01,cmo,B,224,names only,7.0,new,3y+,
+2021-07-01,cmo,B,224,name vote,10.0,new,3y+,
+2021-07-01,cmo,B,224,structural vote,2726.5,new,3y+,
+2021-07-01,cmo,B,224,hybrid,10.0,new,3y+,
+2021-07-01,cmo,B,225,names only,6.0,new,3y+,
+2021-07-01,cmo,B,225,name vote,12.0,new,3y+,
+2021-07-01,cmo,B,225,structural vote,2726.5,new,3y+,
+2021-07-01,cmo,B,225,hybrid,12.0,new,3y+,
+2021-07-01,cmo,B,226,names only,4.0,new,3y+,
+2021-07-01,cmo,B,226,name vote,1.0,new,3y+,
+2021-07-01,cmo,B,226,structural vote,2.0,new,3y+,
+2021-07-01,cmo,B,226,hybrid,1.0,new,3y+,
+2021-07-01,cmo,B,227,names only,4.5,new,3y+,
+2021-07-01,cmo,B,227,name vote,2.0,new,3y+,
+2021-07-01,cmo,B,227,structural vote,229.5,new,3y+,
+2021-07-01,cmo,B,227,hybrid,2.0,new,3y+,
+2021-07-01,cmo,B,228,names only,1.0,new,3y+,
+2021-07-01,cmo,B,228,name vote,14.0,new,3y+,
+2021-07-01,cmo,B,228,structural vote,783.0,new,3y+,
+2021-07-01,cmo,B,228,hybrid,14.0,new,3y+,
+2021-07-01,cmo,B,229,names only,1.0,new,3y+,
+2021-07-01,cmo,B,229,name vote,2.0,new,3y+,
+2021-07-01,cmo,B,229,structural vote,2726.5,new,3y+,
+2021-07-01,cmo,B,229,hybrid,2.0,new,3y+,
+2021-07-01,cmo,B,230,names only,2.0,new,3y+,
+2021-07-01,cmo,B,230,name vote,6.0,new,3y+,
+2021-07-01,cmo,B,230,structural vote,2726.5,new,3y+,
+2021-07-01,cmo,B,230,hybrid,6.0,new,3y+,
+2021-07-01,cmo,B,231,names only,4.0,new,3y+,
+2021-07-01,cmo,B,231,name vote,7.0,new,3y+,
+2021-07-01,cmo,B,231,structural vote,2726.5,new,3y+,
+2021-07-01,cmo,B,231,hybrid,7.0,new,3y+,
+2021-07-01,cmo,B,232,names only,6.0,new,3y+,
+2021-07-01,cmo,B,232,name vote,10.0,new,3y+,
+2021-07-01,cmo,B,232,structural vote,2726.5,new,3y+,
+2021-07-01,cmo,B,232,hybrid,10.0,new,3y+,
+2021-07-01,cmo,B,233,names only,1.0,new,3y+,
+2021-07-01,cmo,B,233,name vote,5.0,new,3y+,
+2021-07-01,cmo,B,233,structural vote,2726.5,new,3y+,
+2021-07-01,cmo,B,233,hybrid,5.0,new,3y+,
+2021-07-01,cmo,B,234,names only,1.0,new,3y+,
+2021-07-01,cmo,B,234,name vote,1.0,new,3y+,
+2021-07-01,cmo,B,234,structural vote,783.0,new,3y+,
+2021-07-01,cmo,B,234,hybrid,1.0,new,3y+,
+2021-07-01,cmo,B,235,names only,4.0,new,3y+,
+2021-07-01,cmo,B,235,name vote,5.0,new,3y+,
+2021-07-01,cmo,B,235,structural vote,396.0,new,3y+,
+2021-07-01,cmo,B,235,hybrid,5.0,new,3y+,
+2021-07-01,cmo,B,236,names only,3.0,new,3y+,
+2021-07-01,cmo,B,236,name vote,4.0,new,3y+,
+2021-07-01,cmo,B,236,structural vote,2726.5,new,3y+,
+2021-07-01,cmo,B,236,hybrid,4.0,new,3y+,
+2021-07-01,cmo,B,237,names only,61.0,new,3y+,
+2021-07-01,cmo,B,237,name vote,61.0,new,3y+,
+2021-07-01,cmo,B,237,structural vote,2726.5,new,3y+,
+2021-07-01,cmo,B,237,hybrid,61.0,new,3y+,
+2021-07-01,cmo,B,238,names only,3.0,new,3y+,
+2021-07-01,cmo,B,238,name vote,2.0,new,3y+,
+2021-07-01,cmo,B,238,structural vote,7.5,new,3y+,
+2021-07-01,cmo,B,238,hybrid,2.0,new,3y+,
+2021-07-01,cmo,B,239,names only,6.0,new,3y+,
+2021-07-01,cmo,B,239,name vote,12.0,new,3y+,
+2021-07-01,cmo,B,239,structural vote,1413.0,new,3y+,
+2021-07-01,cmo,B,239,hybrid,12.0,new,3y+,
+2021-07-01,cmo,B,240,names only,1.0,new,3y+,
+2021-07-01,cmo,B,240,name vote,10.0,new,3y+,
+2021-07-01,cmo,B,240,structural vote,1413.0,new,3y+,
+2021-07-01,cmo,B,240,hybrid,10.0,new,3y+,
+2021-07-01,cmo,B,241,names only,1.0,new,3y+,
+2021-07-01,cmo,B,241,name vote,2.0,new,3y+,
+2021-07-01,cmo,B,241,structural vote,1413.0,new,3y+,
+2021-07-01,cmo,B,241,hybrid,2.0,new,3y+,
+2021-07-01,cmo,B,242,names only,8.0,new,3y+,
+2021-07-01,cmo,B,242,name vote,16.0,new,3y+,
+2021-07-01,cmo,B,242,structural vote,783.0,new,3y+,
+2021-07-01,cmo,B,242,hybrid,16.0,new,3y+,
+2021-07-01,cmo,B,243,names only,2.0,new,3y+,
+2021-07-01,cmo,B,243,name vote,2.0,new,3y+,
+2021-07-01,cmo,B,243,structural vote,783.0,new,3y+,
+2021-07-01,cmo,B,243,hybrid,2.0,new,3y+,
+2021-07-01,cmo,B,244,names only,1.0,new,3y+,
+2021-07-01,cmo,B,244,name vote,2.0,new,3y+,
+2021-07-01,cmo,B,244,structural vote,783.0,new,3y+,
+2021-07-01,cmo,B,244,hybrid,2.0,new,3y+,
+2021-07-01,cmo,B,245,names only,16.0,new,3y+,
+2021-07-01,cmo,B,245,name vote,3.0,new,3y+,
+2021-07-01,cmo,B,245,structural vote,783.0,new,3y+,
+2021-07-01,cmo,B,245,hybrid,3.0,new,3y+,
+2021-07-01,cmo,B,246,names only,1.0,new,3y+,
+2021-07-01,cmo,B,246,name vote,2.0,new,3y+,
+2021-07-01,cmo,B,246,structural vote,229.5,new,3y+,
+2021-07-01,cmo,B,246,hybrid,2.0,new,3y+,
+2021-07-01,cmo,B,247,names only,1.0,new,3y+,
+2021-07-01,cmo,B,247,name vote,2.0,new,3y+,
+2021-07-01,cmo,B,247,structural vote,229.5,new,3y+,
+2021-07-01,cmo,B,247,hybrid,2.0,new,3y+,
+2021-07-01,cmo,B,248,names only,1.0,new,3y+,
+2021-07-01,cmo,B,248,name vote,1.0,new,3y+,
+2021-07-01,cmo,B,248,structural vote,229.5,new,3y+,
+2021-07-01,cmo,B,248,hybrid,1.0,new,3y+,
+2021-07-01,cmo,B,249,names only,1.0,new,3y+,
+2021-07-01,cmo,B,249,name vote,1.0,new,3y+,
+2021-07-01,cmo,B,249,structural vote,229.5,new,3y+,
+2021-07-01,cmo,B,249,hybrid,1.0,new,3y+,
+2021-07-01,cmo,B,250,names only,1.0,new,3y+,
+2021-07-01,cmo,B,250,name vote,1.0,new,3y+,
+2021-07-01,cmo,B,250,structural vote,396.0,new,3y+,
+2021-07-01,cmo,B,250,hybrid,1.0,new,3y+,
+2021-07-01,cmo,B,251,names only,15.0,new,3y+,
+2021-07-01,cmo,B,251,name vote,4.0,new,3y+,
+2021-07-01,cmo,B,251,structural vote,70.0,new,3y+,
+2021-07-01,cmo,B,251,hybrid,4.0,new,3y+,
+2021-07-01,cmo,B,252,names only,156.0,new,3y+,
+2021-07-01,cmo,B,252,name vote,4.0,new,3y+,
+2021-07-01,cmo,B,252,structural vote,2.0,new,3y+,
+2021-07-01,cmo,B,252,hybrid,4.0,new,3y+,
+2021-07-01,cmo,B,253,names only,9.0,new,3y+,
+2021-07-01,cmo,B,253,name vote,1.0,new,3y+,
+2021-07-01,cmo,B,253,structural vote,52.0,new,3y+,
+2021-07-01,cmo,B,253,hybrid,1.0,new,3y+,
+2021-07-01,cmo,B,254,names only,1.0,new,3y+,
+2021-07-01,cmo,B,254,name vote,1.0,new,3y+,
+2021-07-01,cmo,B,254,structural vote,70.0,new,3y+,
+2021-07-01,cmo,B,254,hybrid,1.0,new,3y+,
+2021-07-01,cmo,B,255,names only,20.0,new,3y+,
+2021-07-01,cmo,B,255,name vote,1.0,new,3y+,
+2021-07-01,cmo,B,255,structural vote,70.0,new,3y+,
+2021-07-01,cmo,B,255,hybrid,1.0,new,3y+,
+2021-07-01,cmo,B,256,names only,1.0,new,3y+,
+2021-07-01,cmo,B,256,name vote,1.0,new,3y+,
+2021-07-01,cmo,B,256,structural vote,70.0,new,3y+,
+2021-07-01,cmo,B,256,hybrid,1.0,new,3y+,
+2021-07-01,cmo,B,257,names only,4.0,new,3y+,
+2021-07-01,cmo,B,257,name vote,1.0,new,3y+,
+2021-07-01,cmo,B,257,structural vote,396.0,new,3y+,
+2021-07-01,cmo,B,257,hybrid,1.0,new,3y+,
+2021-07-01,cmo,B,258,names only,5.0,new,3y+,
+2021-07-01,cmo,B,258,name vote,1.0,new,3y+,
+2021-07-01,cmo,B,258,structural vote,396.0,new,3y+,
+2021-07-01,cmo,B,258,hybrid,1.0,new,3y+,
+2021-07-01,cmo,B,259,names only,5.0,new,3y+,
+2021-07-01,cmo,B,259,name vote,1.0,new,3y+,
+2021-07-01,cmo,B,259,structural vote,396.0,new,3y+,
+2021-07-01,cmo,B,259,hybrid,1.0,new,3y+,
+2021-07-01,cmo,B,260,names only,4.0,new,3y+,
+2021-07-01,cmo,B,260,name vote,1.0,new,3y+,
+2021-07-01,cmo,B,260,structural vote,396.0,new,3y+,
+2021-07-01,cmo,B,260,hybrid,1.0,new,3y+,

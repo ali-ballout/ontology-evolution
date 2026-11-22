@@ -1,0 +1,2701 @@
+ontology,model,i,rank
+envo,GNN + names (seed 0),0,1.0
+envo,GNN + names (seed 0),1,1.0
+envo,GNN + names (seed 0),2,1.0
+envo,GNN + names (seed 0),3,2.0
+envo,GNN + names (seed 0),4,1.0
+envo,GNN + names (seed 0),5,1.0
+envo,GNN + names (seed 0),6,1.0
+envo,GNN + names (seed 0),7,1.0
+envo,GNN + names (seed 0),8,1.0
+envo,GNN + names (seed 0),9,1.0
+envo,GNN + names (seed 0),10,1.0
+envo,GNN + names (seed 0),11,2.0
+envo,GNN + names (seed 0),12,1.0
+envo,GNN + names (seed 0),13,17.0
+envo,GNN + names (seed 0),14,6.0
+envo,GNN + names (seed 0),15,1.0
+envo,GNN + names (seed 0),16,1.0
+envo,GNN + names (seed 0),17,1.0
+envo,GNN + names (seed 0),18,1.0
+envo,GNN + names (seed 0),19,3.0
+envo,GNN + names (seed 0),20,1.0
+envo,GNN + names (seed 0),21,1.0
+envo,GNN + names (seed 0),22,1.0
+envo,GNN + names (seed 0),23,1.0
+envo,GNN + names (seed 0),24,1.0
+envo,GNN + names (seed 0),25,1.0
+envo,GNN + names (seed 0),26,1.0
+envo,GNN + names (seed 0),27,2.0
+envo,GNN + names (seed 0),28,1.0
+envo,GNN + names (seed 0),29,1.0
+envo,GNN + names (seed 0),30,1.0
+envo,GNN + names (seed 0),31,1.0
+envo,GNN + names (seed 0),32,1.0
+envo,GNN + names (seed 0),33,1.0
+envo,GNN + names (seed 0),34,1.0
+envo,GNN + names (seed 0),35,1.0
+envo,GNN + names (seed 0),36,1.0
+envo,GNN + names (seed 0),37,1.0
+envo,GNN + names (seed 0),38,2.0
+envo,GNN + names (seed 0),39,1.0
+envo,GNN + names (seed 0),40,1.0
+envo,GNN + names (seed 0),41,1.0
+envo,GNN + names (seed 0),42,1.0
+envo,GNN + names (seed 0),43,2.0
+envo,GNN + names (seed 0),44,1.0
+envo,GNN + names (seed 0),45,1.0
+envo,GNN + names (seed 0),46,24.0
+envo,GNN + names (seed 0),47,1.0
+envo,GNN + names (seed 0),48,1.0
+envo,GNN + names (seed 0),49,3.0
+envo,GNN + names (seed 0),50,1.0
+envo,GNN + names (seed 0),51,1.0
+envo,GNN + names (seed 0),52,1.0
+envo,GNN + names (seed 0),53,2.0
+envo,GNN + names (seed 0),54,1.0
+envo,GNN + names (seed 0),55,1.0
+envo,GNN + names (seed 0),56,1.0
+envo,GNN + names (seed 0),57,1.0
+envo,GNN + names (seed 0),58,1.0
+envo,GNN + names (seed 0),59,1.0
+envo,GNN + names (seed 0),60,2.0
+envo,GNN + names (seed 0),61,11.0
+envo,GNN + names (seed 0),62,1.0
+envo,GNN + names (seed 0),63,1.0
+envo,GNN + names (seed 0),64,1.0
+envo,GNN + names (seed 0),65,2.0
+envo,GNN + names (seed 0),66,1.0
+envo,GNN + names (seed 0),67,1.0
+envo,GNN + names (seed 0),68,1.0
+envo,GNN + names (seed 0),69,1.0
+envo,GNN + names (seed 0),70,1.0
+envo,GNN + names (seed 0),71,33.0
+envo,GNN + names (seed 0),72,1.0
+envo,GNN + names (seed 0),73,1.0
+envo,GNN + names (seed 0),74,1.0
+envo,GNN + names (seed 0),75,1.0
+envo,GNN + names (seed 0),76,1.0
+envo,GNN + names (seed 0),77,1.0
+envo,GNN + names (seed 0),78,1.0
+envo,GNN + names (seed 0),79,1.0
+envo,GNN + names (seed 0),80,1.0
+envo,GNN + names (seed 0),81,1.0
+envo,GNN + names (seed 0),82,1.0
+envo,GNN + names (seed 0),83,1.0
+envo,GNN + names (seed 0),84,1.0
+envo,GNN + names (seed 0),85,1.0
+envo,GNN + names (seed 0),86,1.0
+envo,GNN + names (seed 0),87,84.0
+envo,GNN + names (seed 0),88,1.0
+envo,GNN + names (seed 0),89,1.0
+envo,GNN + names (seed 0),90,1.0
+envo,GNN + names (seed 0),91,1.0
+envo,GNN + names (seed 0),92,1.0
+envo,GNN + names (seed 0),93,1.0
+envo,GNN + names (seed 0),94,1.0
+envo,GNN + names (seed 0),95,1.0
+envo,GNN + names (seed 0),96,1.0
+envo,GNN + names (seed 0),97,1.0
+envo,GNN + names (seed 0),98,1.0
+envo,GNN + names (seed 0),99,9.0
+envo,GNN + names (seed 0),100,1.0
+envo,GNN + names (seed 0),101,2.0
+envo,GNN + names (seed 0),102,1.0
+envo,GNN + names (seed 0),103,1.0
+envo,GNN + names (seed 0),104,1.0
+envo,GNN + names (seed 0),105,1.0
+envo,GNN + names (seed 0),106,1.0
+envo,GNN + names (seed 0),107,1.0
+envo,GNN + names (seed 0),108,1.0
+envo,GNN + names (seed 0),109,1.0
+envo,GNN + names (seed 0),110,3.0
+envo,GNN + names (seed 0),111,1.0
+envo,GNN + names (seed 0),112,42.0
+envo,GNN + names (seed 0),113,1.0
+envo,GNN + names (seed 0),114,15.0
+envo,GNN + names (seed 0),115,1.0
+envo,GNN + names (seed 0),116,1.0
+envo,GNN + names (seed 0),117,1.0
+envo,GNN + names (seed 0),118,1.0
+envo,GNN + names (seed 0),119,1.0
+envo,GNN + names (seed 0),120,1.0
+envo,GNN + names (seed 0),121,1.0
+envo,GNN + names (seed 0),122,1.0
+envo,GNN + names (seed 0),123,1.0
+envo,GNN + names (seed 0),124,2.0
+envo,GNN + names (seed 0),125,1.0
+envo,GNN + names (seed 0),126,6.0
+envo,GNN + names (seed 0),127,21.0
+envo,GNN + names (seed 0),128,2.0
+envo,GNN + names (seed 0),129,1.0
+envo,GNN + names (seed 0),130,1.0
+envo,GNN + names (seed 0),131,1.0
+envo,GNN + names (seed 0),132,1.0
+envo,GNN + names (seed 0),133,1.0
+envo,GNN + names (seed 0),134,1.0
+envo,GNN + names (seed 0),135,1.0
+envo,GNN + names (seed 0),136,1.0
+envo,GNN + names (seed 0),137,1.0
+envo,GNN + names (seed 0),138,1.0
+envo,GNN + names (seed 0),139,1.0
+envo,GNN + names (seed 0),140,1.0
+envo,GNN + names (seed 0),141,1.0
+envo,GNN + names (seed 0),142,1.0
+envo,GNN + names (seed 0),143,3.0
+envo,GNN + names (seed 0),144,1.0
+envo,GNN + names (seed 0),145,2.0
+envo,GNN + names (seed 0),146,1.0
+envo,GNN + names (seed 0),147,1.0
+envo,GNN + names (seed 0),148,1.0
+envo,GNN + names (seed 0),149,1.0
+envo,GNN + names (seed 0),150,1.0
+envo,GNN + names (seed 0),151,1.0
+envo,GNN + names (seed 0),152,1.0
+envo,GNN + names (seed 0),153,1.0
+envo,GNN + names (seed 0),154,3.0
+envo,GNN + names (seed 0),155,17.0
+envo,GNN + names (seed 0),156,1.0
+envo,GNN + names (seed 0),157,1.0
+envo,GNN + names (seed 0),158,2.0
+envo,GNN + names (seed 0),159,1.0
+envo,GNN + names (seed 0),160,1.0
+envo,GNN + names (seed 0),161,1.0
+envo,GNN + names (seed 0),162,1.0
+envo,GNN + names (seed 0),163,1.0
+envo,GNN + names (seed 0),164,1.0
+envo,GNN + names (seed 0),165,1.0
+envo,GNN + names (seed 0),166,1.0
+envo,GNN + names (seed 0),167,1.0
+envo,GNN + names (seed 0),168,1.0
+envo,GNN + names (seed 0),169,1.0
+envo,GNN + names (seed 0),170,1.0
+envo,GNN + names (seed 0),171,1.0
+envo,GNN + names (seed 0),172,1.0
+envo,GNN + names (seed 0),173,1.0
+envo,GNN + names (seed 0),174,1.0
+envo,GNN + names (seed 0),175,1.0
+envo,GNN + names (seed 0),176,1.0
+envo,GNN + names (seed 0),177,1.0
+envo,GNN + names (seed 0),178,1.0
+envo,GNN + names (seed 0),179,1.0
+envo,GNN + names (seed 0),180,2.0
+envo,GNN + names (seed 0),181,1.0
+envo,GNN + names (seed 0),182,1.0
+envo,GNN + names (seed 0),183,4.0
+envo,GNN + names (seed 0),184,1.0
+envo,GNN + names (seed 0),185,1.0
+envo,GNN + names (seed 0),186,1.0
+envo,GNN + names (seed 0),187,1.0
+envo,GNN + names (seed 0),188,1.0
+envo,GNN + names (seed 0),189,1.0
+envo,GNN + names (seed 0),190,5.0
+envo,GNN + names (seed 0),191,2.0
+envo,GNN + names (seed 0),192,18.0
+envo,GNN + names (seed 0),193,1.0
+envo,GNN + names (seed 0),194,2.0
+envo,GNN + names (seed 0),195,1.0
+envo,GNN + names (seed 0),196,28.0
+envo,GNN + names (seed 0),197,1.0
+envo,GNN + names (seed 0),198,1.0
+envo,GNN + names (seed 0),199,1.0
+envo,GNN + names (seed 0),200,1.0
+envo,GNN + names (seed 0),201,1.0
+envo,GNN + names (seed 0),202,1.0
+envo,GNN + names (seed 0),203,1.0
+envo,GNN + names (seed 0),204,2.0
+envo,GNN + names (seed 0),205,1.0
+envo,GNN + names (seed 0),206,3.0
+envo,GNN + names (seed 0),207,2.0
+envo,GNN + names (seed 0),208,7.0
+envo,GNN + names (seed 0),209,3.0
+envo,GNN + names (seed 0),210,1.0
+envo,GNN + names (seed 0),211,1.0
+envo,GNN + names (seed 0),212,1.0
+envo,GNN + names (seed 0),213,11.0
+envo,GNN + names (seed 0),214,1.0
+envo,GNN + names (seed 0),215,1.0
+envo,GNN + names (seed 0),216,1.0
+envo,GNN + names (seed 0),217,4.0
+envo,GNN + names (seed 0),218,2.0
+envo,GNN + names (seed 0),219,1.0
+envo,GNN + names (seed 0),220,3.0
+envo,GNN + names (seed 0),221,1.0
+envo,GNN + names (seed 0),222,3.0
+envo,GNN + names (seed 0),223,1.0
+envo,GNN + names (seed 0),224,1.0
+envo,GNN + names (seed 0),225,1.0
+envo,GNN + names (seed 0),226,1.0
+envo,GNN + names (seed 0),227,1.0
+envo,GNN + names (seed 0),228,1.0
+envo,GNN + names (seed 0),229,1.0
+envo,GNN + names (seed 0),230,1.0
+envo,GNN + names (seed 0),231,3.0
+envo,GNN + names (seed 0),232,1.0
+envo,GNN + names (seed 0),233,1.0
+envo,GNN + names (seed 0),234,1.0
+envo,GNN + names (seed 0),235,1.0
+envo,GNN + names (seed 0),236,1.0
+envo,GNN + names (seed 0),237,1.0
+envo,GNN + names (seed 0),238,1.0
+envo,GNN + names (seed 0),239,1.0
+envo,GNN + names (seed 0),240,2.0
+envo,GNN + names (seed 0),241,1.0
+envo,GNN + names (seed 0),242,1.0
+envo,GNN + names (seed 0),243,1.0
+envo,GNN + names (seed 0),244,3.0
+envo,GNN + names (seed 0),245,1.0
+envo,GNN + names (seed 0),246,1.0
+envo,GNN + names (seed 0),247,1.0
+envo,GNN + names (seed 0),248,1.0
+envo,GNN + names (seed 0),249,1.0
+envo,GNN + names (seed 0),250,1.0
+envo,GNN + names (seed 0),251,1.0
+envo,GNN + names (seed 0),252,1.0
+envo,GNN + names (seed 0),253,1.0
+envo,GNN + names (seed 0),254,1.0
+envo,GNN + names (seed 0),255,1.0
+envo,GNN + names (seed 0),256,1.0
+envo,GNN + names (seed 0),257,19.0
+envo,GNN + names (seed 0),258,1.0
+envo,GNN + names (seed 0),259,1.0
+envo,GNN + names (seed 0),260,3.0
+envo,GNN + names (seed 0),261,1.0
+envo,GNN + names (seed 0),262,1.0
+envo,GNN + names (seed 0),263,1.0
+envo,GNN + names (seed 0),264,1.0
+envo,GNN + names (seed 0),265,1.0
+envo,GNN + names (seed 0),266,1.0
+envo,GNN + names (seed 0),267,1.0
+envo,GNN + names (seed 0),268,1.0
+envo,GNN + names (seed 0),269,2.0
+envo,GNN + names (seed 0),270,1.0
+envo,GNN + names (seed 0),271,1.0
+envo,GNN + names (seed 0),272,1.0
+envo,GNN + names (seed 0),273,1.0
+envo,GNN + names (seed 0),274,1.0
+envo,GNN + names (seed 0),275,1.0
+envo,GNN + names (seed 0),276,2.0
+envo,GNN + names (seed 0),277,1.0
+envo,GNN + names (seed 0),278,1.0
+envo,GNN + names (seed 0),279,56.0
+envo,GNN + names (seed 0),280,7.0
+envo,GNN + names (seed 0),281,1.0
+envo,GNN + names (seed 0),282,1.0
+envo,GNN + names (seed 0),283,1.0
+envo,GNN + names (seed 0),284,1.0
+envo,GNN + names (seed 0),285,1.0
+envo,GNN + names (seed 0),286,1.0
+envo,GNN + names (seed 0),287,1.0
+envo,GNN + names (seed 0),288,1.0
+envo,GNN + names (seed 0),289,1.0
+envo,GNN + names (seed 0),290,1.0
+envo,GNN + names (seed 0),291,1.0
+envo,GNN + names (seed 0),292,1.0
+envo,GNN + names (seed 0),293,1.0
+envo,GNN + names (seed 0),294,1.0
+envo,GNN + names (seed 0),295,2.0
+envo,GNN + names (seed 0),296,1.0
+envo,GNN + names (seed 0),297,40.0
+envo,GNN + names (seed 0),298,1.0
+envo,GNN + names (seed 0),299,1.0
+envo,GNN + names (seed 1),0,1.0
+envo,GNN + names (seed 1),1,1.0
+envo,GNN + names (seed 1),2,1.0
+envo,GNN + names (seed 1),3,2.0
+envo,GNN + names (seed 1),4,1.0
+envo,GNN + names (seed 1),5,1.0
+envo,GNN + names (seed 1),6,1.0
+envo,GNN + names (seed 1),7,1.0
+envo,GNN + names (seed 1),8,2.0
+envo,GNN + names (seed 1),9,1.0
+envo,GNN + names (seed 1),10,1.0
+envo,GNN + names (seed 1),11,2.0
+envo,GNN + names (seed 1),12,1.0
+envo,GNN + names (seed 1),13,11.0
+envo,GNN + names (seed 1),14,2.0
+envo,GNN + names (seed 1),15,1.0
+envo,GNN + names (seed 1),16,1.0
+envo,GNN + names (seed 1),17,1.0
+envo,GNN + names (seed 1),18,1.0
+envo,GNN + names (seed 1),19,1.0
+envo,GNN + names (seed 1),20,1.0
+envo,GNN + names (seed 1),21,1.0
+envo,GNN + names (seed 1),22,1.0
+envo,GNN + names (seed 1),23,1.0
+envo,GNN + names (seed 1),24,2.0
+envo,GNN + names (seed 1),25,1.0
+envo,GNN + names (seed 1),26,1.0
+envo,GNN + names (seed 1),27,1.0
+envo,GNN + names (seed 1),28,1.0
+envo,GNN + names (seed 1),29,1.0
+envo,GNN + names (seed 1),30,1.0
+envo,GNN + names (seed 1),31,1.0
+envo,GNN + names (seed 1),32,1.0
+envo,GNN + names (seed 1),33,1.0
+envo,GNN + names (seed 1),34,1.0
+envo,GNN + names (seed 1),35,1.0
+envo,GNN + names (seed 1),36,1.0
+envo,GNN + names (seed 1),37,1.0
+envo,GNN + names (seed 1),38,1.0
+envo,GNN + names (seed 1),39,1.0
+envo,GNN + names (seed 1),40,1.0
+envo,GNN + names (seed 1),41,1.0
+envo,GNN + names (seed 1),42,1.0
+envo,GNN + names (seed 1),43,2.0
+envo,GNN + names (seed 1),44,1.0
+envo,GNN + names (seed 1),45,1.0
+envo,GNN + names (seed 1),46,27.0
+envo,GNN + names (seed 1),47,1.0
+envo,GNN + names (seed 1),48,1.0
+envo,GNN + names (seed 1),49,1.0
+envo,GNN + names (seed 1),50,1.0
+envo,GNN + names (seed 1),51,1.0
+envo,GNN + names (seed 1),52,1.0
+envo,GNN + names (seed 1),53,1.0
+envo,GNN + names (seed 1),54,1.0
+envo,GNN + names (seed 1),55,1.0
+envo,GNN + names (seed 1),56,1.0
+envo,GNN + names (seed 1),57,1.0
+envo,GNN + names (seed 1),58,1.0
+envo,GNN + names (seed 1),59,1.0
+envo,GNN + names (seed 1),60,1.0
+envo,GNN + names (seed 1),61,11.0
+envo,GNN + names (seed 1),62,1.0
+envo,GNN + names (seed 1),63,1.0
+envo,GNN + names (seed 1),64,1.0
+envo,GNN + names (seed 1),65,1.0
+envo,GNN + names (seed 1),66,1.0
+envo,GNN + names (seed 1),67,1.0
+envo,GNN + names (seed 1),68,1.0
+envo,GNN + names (seed 1),69,1.0
+envo,GNN + names (seed 1),70,1.0
+envo,GNN + names (seed 1),71,32.0
+envo,GNN + names (seed 1),72,1.0
+envo,GNN + names (seed 1),73,1.0
+envo,GNN + names (seed 1),74,5.0
+envo,GNN + names (seed 1),75,1.0
+envo,GNN + names (seed 1),76,1.0
+envo,GNN + names (seed 1),77,1.0
+envo,GNN + names (seed 1),78,1.0
+envo,GNN + names (seed 1),79,1.0
+envo,GNN + names (seed 1),80,1.0
+envo,GNN + names (seed 1),81,1.0
+envo,GNN + names (seed 1),82,2.0
+envo,GNN + names (seed 1),83,1.0
+envo,GNN + names (seed 1),84,1.0
+envo,GNN + names (seed 1),85,1.0
+envo,GNN + names (seed 1),86,1.0
+envo,GNN + names (seed 1),87,55.0
+envo,GNN + names (seed 1),88,1.0
+envo,GNN + names (seed 1),89,1.0
+envo,GNN + names (seed 1),90,1.0
+envo,GNN + names (seed 1),91,1.0
+envo,GNN + names (seed 1),92,1.0
+envo,GNN + names (seed 1),93,1.0
+envo,GNN + names (seed 1),94,1.0
+envo,GNN + names (seed 1),95,1.0
+envo,GNN + names (seed 1),96,1.0
+envo,GNN + names (seed 1),97,1.0
+envo,GNN + names (seed 1),98,4.0
+envo,GNN + names (seed 1),99,1.0
+envo,GNN + names (seed 1),100,1.0
+envo,GNN + names (seed 1),101,1.0
+envo,GNN + names (seed 1),102,1.0
+envo,GNN + names (seed 1),103,1.0
+envo,GNN + names (seed 1),104,1.0
+envo,GNN + names (seed 1),105,1.0
+envo,GNN + names (seed 1),106,1.0
+envo,GNN + names (seed 1),107,1.0
+envo,GNN + names (seed 1),108,1.0
+envo,GNN + names (seed 1),109,1.0
+envo,GNN + names (seed 1),110,2.0
+envo,GNN + names (seed 1),111,1.0
+envo,GNN + names (seed 1),112,50.0
+envo,GNN + names (seed 1),113,1.0
+envo,GNN + names (seed 1),114,6.0
+envo,GNN + names (seed 1),115,1.0
+envo,GNN + names (seed 1),116,2.0
+envo,GNN + names (seed 1),117,1.0
+envo,GNN + names (seed 1),118,1.0
+envo,GNN + names (seed 1),119,1.0
+envo,GNN + names (seed 1),120,1.0
+envo,GNN + names (seed 1),121,1.0
+envo,GNN + names (seed 1),122,1.0
+envo,GNN + names (seed 1),123,1.0
+envo,GNN + names (seed 1),124,2.0
+envo,GNN + names (seed 1),125,1.0
+envo,GNN + names (seed 1),126,8.0
+envo,GNN + names (seed 1),127,16.0
+envo,GNN + names (seed 1),128,2.0
+envo,GNN + names (seed 1),129,1.0
+envo,GNN + names (seed 1),130,1.0
+envo,GNN + names (seed 1),131,1.0
+envo,GNN + names (seed 1),132,2.0
+envo,GNN + names (seed 1),133,1.0
+envo,GNN + names (seed 1),134,1.0
+envo,GNN + names (seed 1),135,1.0
+envo,GNN + names (seed 1),136,1.0
+envo,GNN + names (seed 1),137,1.0
+envo,GNN + names (seed 1),138,1.0
+envo,GNN + names (seed 1),139,1.0
+envo,GNN + names (seed 1),140,1.0
+envo,GNN + names (seed 1),141,1.0
+envo,GNN + names (seed 1),142,1.0
+envo,GNN + names (seed 1),143,5.0
+envo,GNN + names (seed 1),144,1.0
+envo,GNN + names (seed 1),145,2.0
+envo,GNN + names (seed 1),146,1.0
+envo,GNN + names (seed 1),147,1.0
+envo,GNN + names (seed 1),148,1.0
+envo,GNN + names (seed 1),149,1.0
+envo,GNN + names (seed 1),150,1.0
+envo,GNN + names (seed 1),151,1.0
+envo,GNN + names (seed 1),152,1.0
+envo,GNN + names (seed 1),153,2.0
+envo,GNN + names (seed 1),154,4.0
+envo,GNN + names (seed 1),155,30.0
+envo,GNN + names (seed 1),156,1.0
+envo,GNN + names (seed 1),157,1.0
+envo,GNN + names (seed 1),158,2.0
+envo,GNN + names (seed 1),159,1.0
+envo,GNN + names (seed 1),160,1.0
+envo,GNN + names (seed 1),161,1.0
+envo,GNN + names (seed 1),162,1.0
+envo,GNN + names (seed 1),163,1.0
+envo,GNN + names (seed 1),164,1.0
+envo,GNN + names (seed 1),165,1.0
+envo,GNN + names (seed 1),166,1.0
+envo,GNN + names (seed 1),167,1.0
+envo,GNN + names (seed 1),168,1.0
+envo,GNN + names (seed 1),169,1.0
+envo,GNN + names (seed 1),170,1.0
+envo,GNN + names (seed 1),171,1.0
+envo,GNN + names (seed 1),172,1.0
+envo,GNN + names (seed 1),173,1.0
+envo,GNN + names (seed 1),174,1.0
+envo,GNN + names (seed 1),175,1.0
+envo,GNN + names (seed 1),176,1.0
+envo,GNN + names (seed 1),177,1.0
+envo,GNN + names (seed 1),178,1.0
+envo,GNN + names (seed 1),179,1.0
+envo,GNN + names (seed 1),180,3.0
+envo,GNN + names (seed 1),181,1.0
+envo,GNN + names (seed 1),182,1.0
+envo,GNN + names (seed 1),183,3.0
+envo,GNN + names (seed 1),184,1.0
+envo,GNN + names (seed 1),185,1.0
+envo,GNN + names (seed 1),186,1.0
+envo,GNN + names (seed 1),187,1.0
+envo,GNN + names (seed 1),188,1.0
+envo,GNN + names (seed 1),189,1.0
+envo,GNN + names (seed 1),190,6.0
+envo,GNN + names (seed 1),191,2.0
+envo,GNN + names (seed 1),192,7.0
+envo,GNN + names (seed 1),193,1.0
+envo,GNN + names (seed 1),194,2.0
+envo,GNN + names (seed 1),195,1.0
+envo,GNN + names (seed 1),196,36.0
+envo,GNN + names (seed 1),197,1.0
+envo,GNN + names (seed 1),198,1.0
+envo,GNN + names (seed 1),199,1.0
+envo,GNN + names (seed 1),200,1.0
+envo,GNN + names (seed 1),201,1.0
+envo,GNN + names (seed 1),202,1.0
+envo,GNN + names (seed 1),203,1.0
+envo,GNN + names (seed 1),204,2.0
+envo,GNN + names (seed 1),205,1.0
+envo,GNN + names (seed 1),206,2.0
+envo,GNN + names (seed 1),207,2.0
+envo,GNN + names (seed 1),208,2.0
+envo,GNN + names (seed 1),209,3.0
+envo,GNN + names (seed 1),210,1.0
+envo,GNN + names (seed 1),211,1.0
+envo,GNN + names (seed 1),212,1.0
+envo,GNN + names (seed 1),213,6.0
+envo,GNN + names (seed 1),214,1.0
+envo,GNN + names (seed 1),215,1.0
+envo,GNN + names (seed 1),216,1.0
+envo,GNN + names (seed 1),217,2.0
+envo,GNN + names (seed 1),218,2.0
+envo,GNN + names (seed 1),219,1.0
+envo,GNN + names (seed 1),220,3.0
+envo,GNN + names (seed 1),221,1.0
+envo,GNN + names (seed 1),222,3.0
+envo,GNN + names (seed 1),223,1.0
+envo,GNN + names (seed 1),224,1.0
+envo,GNN + names (seed 1),225,1.0
+envo,GNN + names (seed 1),226,1.0
+envo,GNN + names (seed 1),227,1.0
+envo,GNN + names (seed 1),228,1.0
+envo,GNN + names (seed 1),229,2.0
+envo,GNN + names (seed 1),230,1.0
+envo,GNN + names (seed 1),231,1.0
+envo,GNN + names (seed 1),232,1.0
+envo,GNN + names (seed 1),233,1.0
+envo,GNN + names (seed 1),234,1.0
+envo,GNN + names (seed 1),235,1.0
+envo,GNN + names (seed 1),236,1.0
+envo,GNN + names (seed 1),237,1.0
+envo,GNN + names (seed 1),238,1.0
+envo,GNN + names (seed 1),239,1.0
+envo,GNN + names (seed 1),240,3.0
+envo,GNN + names (seed 1),241,1.0
+envo,GNN + names (seed 1),242,1.0
+envo,GNN + names (seed 1),243,1.0
+envo,GNN + names (seed 1),244,3.0
+envo,GNN + names (seed 1),245,1.0
+envo,GNN + names (seed 1),246,1.0
+envo,GNN + names (seed 1),247,1.0
+envo,GNN + names (seed 1),248,1.0
+envo,GNN + names (seed 1),249,1.0
+envo,GNN + names (seed 1),250,1.0
+envo,GNN + names (seed 1),251,1.0
+envo,GNN + names (seed 1),252,1.0
+envo,GNN + names (seed 1),253,1.0
+envo,GNN + names (seed 1),254,1.0
+envo,GNN + names (seed 1),255,1.0
+envo,GNN + names (seed 1),256,1.0
+envo,GNN + names (seed 1),257,38.0
+envo,GNN + names (seed 1),258,1.0
+envo,GNN + names (seed 1),259,1.0
+envo,GNN + names (seed 1),260,3.0
+envo,GNN + names (seed 1),261,1.0
+envo,GNN + names (seed 1),262,1.0
+envo,GNN + names (seed 1),263,1.0
+envo,GNN + names (seed 1),264,1.0
+envo,GNN + names (seed 1),265,1.0
+envo,GNN + names (seed 1),266,1.0
+envo,GNN + names (seed 1),267,1.0
+envo,GNN + names (seed 1),268,1.0
+envo,GNN + names (seed 1),269,4.0
+envo,GNN + names (seed 1),270,2.0
+envo,GNN + names (seed 1),271,1.0
+envo,GNN + names (seed 1),272,1.0
+envo,GNN + names (seed 1),273,1.0
+envo,GNN + names (seed 1),274,1.0
+envo,GNN + names (seed 1),275,1.0
+envo,GNN + names (seed 1),276,2.0
+envo,GNN + names (seed 1),277,1.0
+envo,GNN + names (seed 1),278,1.0
+envo,GNN + names (seed 1),279,81.0
+envo,GNN + names (seed 1),280,7.0
+envo,GNN + names (seed 1),281,1.0
+envo,GNN + names (seed 1),282,1.0
+envo,GNN + names (seed 1),283,1.0
+envo,GNN + names (seed 1),284,1.0
+envo,GNN + names (seed 1),285,1.0
+envo,GNN + names (seed 1),286,1.0
+envo,GNN + names (seed 1),287,1.0
+envo,GNN + names (seed 1),288,1.0
+envo,GNN + names (seed 1),289,1.0
+envo,GNN + names (seed 1),290,1.0
+envo,GNN + names (seed 1),291,1.0
+envo,GNN + names (seed 1),292,1.0
+envo,GNN + names (seed 1),293,1.0
+envo,GNN + names (seed 1),294,1.0
+envo,GNN + names (seed 1),295,2.0
+envo,GNN + names (seed 1),296,1.0
+envo,GNN + names (seed 1),297,70.0
+envo,GNN + names (seed 1),298,1.0
+envo,GNN + names (seed 1),299,1.0
+envo,GNN + names (seed 2),0,1.0
+envo,GNN + names (seed 2),1,1.0
+envo,GNN + names (seed 2),2,1.0
+envo,GNN + names (seed 2),3,2.0
+envo,GNN + names (seed 2),4,1.0
+envo,GNN + names (seed 2),5,1.0
+envo,GNN + names (seed 2),6,1.0
+envo,GNN + names (seed 2),7,1.0
+envo,GNN + names (seed 2),8,1.0
+envo,GNN + names (seed 2),9,1.0
+envo,GNN + names (seed 2),10,1.0
+envo,GNN + names (seed 2),11,2.0
+envo,GNN + names (seed 2),12,1.0
+envo,GNN + names (seed 2),13,18.0
+envo,GNN + names (seed 2),14,3.0
+envo,GNN + names (seed 2),15,1.0
+envo,GNN + names (seed 2),16,1.0
+envo,GNN + names (seed 2),17,1.0
+envo,GNN + names (seed 2),18,1.0
+envo,GNN + names (seed 2),19,9.0
+envo,GNN + names (seed 2),20,1.0
+envo,GNN + names (seed 2),21,1.0
+envo,GNN + names (seed 2),22,1.0
+envo,GNN + names (seed 2),23,1.0
+envo,GNN + names (seed 2),24,2.0
+envo,GNN + names (seed 2),25,1.0
+envo,GNN + names (seed 2),26,1.0
+envo,GNN + names (seed 2),27,1.0
+envo,GNN + names (seed 2),28,2.0
+envo,GNN + names (seed 2),29,1.0
+envo,GNN + names (seed 2),30,1.0
+envo,GNN + names (seed 2),31,1.0
+envo,GNN + names (seed 2),32,1.0
+envo,GNN + names (seed 2),33,1.0
+envo,GNN + names (seed 2),34,1.0
+envo,GNN + names (seed 2),35,1.0
+envo,GNN + names (seed 2),36,1.0
+envo,GNN + names (seed 2),37,2.0
+envo,GNN + names (seed 2),38,2.0
+envo,GNN + names (seed 2),39,1.0
+envo,GNN + names (seed 2),40,1.0
+envo,GNN + names (seed 2),41,1.0
+envo,GNN + names (seed 2),42,1.0
+envo,GNN + names (seed 2),43,2.0
+envo,GNN + names (seed 2),44,1.0
+envo,GNN + names (seed 2),45,1.0
+envo,GNN + names (seed 2),46,28.0
+envo,GNN + names (seed 2),47,1.0
+envo,GNN + names (seed 2),48,1.0
+envo,GNN + names (seed 2),49,1.0
+envo,GNN + names (seed 2),50,1.0
+envo,GNN + names (seed 2),51,1.0
+envo,GNN + names (seed 2),52,1.0
+envo,GNN + names (seed 2),53,3.0
+envo,GNN + names (seed 2),54,1.0
+envo,GNN + names (seed 2),55,1.0
+envo,GNN + names (seed 2),56,1.0
+envo,GNN + names (seed 2),57,1.0
+envo,GNN + names (seed 2),58,1.0
+envo,GNN + names (seed 2),59,1.0
+envo,GNN + names (seed 2),60,1.0
+envo,GNN + names (seed 2),61,2.0
+envo,GNN + names (seed 2),62,1.0
+envo,GNN + names (seed 2),63,1.0
+envo,GNN + names (seed 2),64,1.0
+envo,GNN + names (seed 2),65,1.0
+envo,GNN + names (seed 2),66,1.0
+envo,GNN + names (seed 2),67,1.0
+envo,GNN + names (seed 2),68,1.0
+envo,GNN + names (seed 2),69,1.0
+envo,GNN + names (seed 2),70,1.0
+envo,GNN + names (seed 2),71,27.0
+envo,GNN + names (seed 2),72,1.0
+envo,GNN + names (seed 2),73,1.0
+envo,GNN + names (seed 2),74,2.0
+envo,GNN + names (seed 2),75,1.0
+envo,GNN + names (seed 2),76,1.0
+envo,GNN + names (seed 2),77,1.0
+envo,GNN + names (seed 2),78,1.0
+envo,GNN + names (seed 2),79,1.0
+envo,GNN + names (seed 2),80,1.0
+envo,GNN + names (seed 2),81,1.0
+envo,GNN + names (seed 2),82,2.0
+envo,GNN + names (seed 2),83,1.0
+envo,GNN + names (seed 2),84,1.0
+envo,GNN + names (seed 2),85,1.0
+envo,GNN + names (seed 2),86,3.0
+envo,GNN + names (seed 2),87,35.0
+envo,GNN + names (seed 2),88,1.0
+envo,GNN + names (seed 2),89,1.0
+envo,GNN + names (seed 2),90,1.0
+envo,GNN + names (seed 2),91,1.0
+envo,GNN + names (seed 2),92,1.0
+envo,GNN + names (seed 2),93,1.0
+envo,GNN + names (seed 2),94,1.0
+envo,GNN + names (seed 2),95,1.0
+envo,GNN + names (seed 2),96,1.0
+envo,GNN + names (seed 2),97,1.0
+envo,GNN + names (seed 2),98,5.0
+envo,GNN + names (seed 2),99,8.0
+envo,GNN + names (seed 2),100,1.0
+envo,GNN + names (seed 2),101,2.0
+envo,GNN + names (seed 2),102,1.0
+envo,GNN + names (seed 2),103,1.0
+envo,GNN + names (seed 2),104,1.0
+envo,GNN + names (seed 2),105,1.0
+envo,GNN + names (seed 2),106,1.0
+envo,GNN + names (seed 2),107,1.0
+envo,GNN + names (seed 2),108,1.0
+envo,GNN + names (seed 2),109,1.0
+envo,GNN + names (seed 2),110,1.0
+envo,GNN + names (seed 2),111,1.0
+envo,GNN + names (seed 2),112,28.0
+envo,GNN + names (seed 2),113,1.0
+envo,GNN + names (seed 2),114,15.0
+envo,GNN + names (seed 2),115,1.0
+envo,GNN + names (seed 2),116,4.0
+envo,GNN + names (seed 2),117,1.0
+envo,GNN + names (seed 2),118,1.0
+envo,GNN + names (seed 2),119,1.0
+envo,GNN + names (seed 2),120,1.0
+envo,GNN + names (seed 2),121,1.0
+envo,GNN + names (seed 2),122,1.0
+envo,GNN + names (seed 2),123,1.0
+envo,GNN + names (seed 2),124,1.0
+envo,GNN + names (seed 2),125,1.0
+envo,GNN + names (seed 2),126,4.0
+envo,GNN + names (seed 2),127,14.0
+envo,GNN + names (seed 2),128,2.0
+envo,GNN + names (seed 2),129,1.0
+envo,GNN + names (seed 2),130,1.0
+envo,GNN + names (seed 2),131,1.0
+envo,GNN + names (seed 2),132,1.0
+envo,GNN + names (seed 2),133,2.0
+envo,GNN + names (seed 2),134,1.0
+envo,GNN + names (seed 2),135,1.0
+envo,GNN + names (seed 2),136,1.0
+envo,GNN + names (seed 2),137,1.0
+envo,GNN + names (seed 2),138,1.0
+envo,GNN + names (seed 2),139,1.0
+envo,GNN + names (seed 2),140,1.0
+envo,GNN + names (seed 2),141,1.0
+envo,GNN + names (seed 2),142,1.0
+envo,GNN + names (seed 2),143,4.0
+envo,GNN + names (seed 2),144,1.0
+envo,GNN + names (seed 2),145,2.0
+envo,GNN + names (seed 2),146,1.0
+envo,GNN + names (seed 2),147,1.0
+envo,GNN + names (seed 2),148,1.0
+envo,GNN + names (seed 2),149,1.0
+envo,GNN + names (seed 2),150,1.0
+envo,GNN + names (seed 2),151,1.0
+envo,GNN + names (seed 2),152,1.0
+envo,GNN + names (seed 2),153,1.0
+envo,GNN + names (seed 2),154,2.0
+envo,GNN + names (seed 2),155,28.0
+envo,GNN + names (seed 2),156,2.0
+envo,GNN + names (seed 2),157,1.0
+envo,GNN + names (seed 2),158,3.0
+envo,GNN + names (seed 2),159,1.0
+envo,GNN + names (seed 2),160,1.0
+envo,GNN + names (seed 2),161,1.0
+envo,GNN + names (seed 2),162,1.0
+envo,GNN + names (seed 2),163,1.0
+envo,GNN + names (seed 2),164,1.0
+envo,GNN + names (seed 2),165,1.0
+envo,GNN + names (seed 2),166,1.0
+envo,GNN + names (seed 2),167,1.0
+envo,GNN + names (seed 2),168,1.0
+envo,GNN + names (seed 2),169,1.0
+envo,GNN + names (seed 2),170,1.0
+envo,GNN + names (seed 2),171,1.0
+envo,GNN + names (seed 2),172,1.0
+envo,GNN + names (seed 2),173,1.0
+envo,GNN + names (seed 2),174,1.0
+envo,GNN + names (seed 2),175,1.0
+envo,GNN + names (seed 2),176,1.0
+envo,GNN + names (seed 2),177,1.0
+envo,GNN + names (seed 2),178,1.0
+envo,GNN + names (seed 2),179,1.0
+envo,GNN + names (seed 2),180,4.0
+envo,GNN + names (seed 2),181,1.0
+envo,GNN + names (seed 2),182,1.0
+envo,GNN + names (seed 2),183,6.0
+envo,GNN + names (seed 2),184,1.0
+envo,GNN + names (seed 2),185,1.0
+envo,GNN + names (seed 2),186,1.0
+envo,GNN + names (seed 2),187,1.0
+envo,GNN + names (seed 2),188,1.0
+envo,GNN + names (seed 2),189,1.0
+envo,GNN + names (seed 2),190,4.0
+envo,GNN + names (seed 2),191,2.0
+envo,GNN + names (seed 2),192,7.0
+envo,GNN + names (seed 2),193,1.0
+envo,GNN + names (seed 2),194,4.0
+envo,GNN + names (seed 2),195,1.0
+envo,GNN + names (seed 2),196,48.0
+envo,GNN + names (seed 2),197,1.0
+envo,GNN + names (seed 2),198,1.0
+envo,GNN + names (seed 2),199,1.0
+envo,GNN + names (seed 2),200,1.0
+envo,GNN + names (seed 2),201,1.0
+envo,GNN + names (seed 2),202,1.0
+envo,GNN + names (seed 2),203,1.0
+envo,GNN + names (seed 2),204,2.0
+envo,GNN + names (seed 2),205,1.0
+envo,GNN + names (seed 2),206,2.0
+envo,GNN + names (seed 2),207,2.0
+envo,GNN + names (seed 2),208,4.0
+envo,GNN + names (seed 2),209,3.0
+envo,GNN + names (seed 2),210,1.0
+envo,GNN + names (seed 2),211,1.0
+envo,GNN + names (seed 2),212,1.0
+envo,GNN + names (seed 2),213,10.0
+envo,GNN + names (seed 2),214,1.0
+envo,GNN + names (seed 2),215,1.0
+envo,GNN + names (seed 2),216,1.0
+envo,GNN + names (seed 2),217,2.0
+envo,GNN + names (seed 2),218,2.0
+envo,GNN + names (seed 2),219,1.0
+envo,GNN + names (seed 2),220,1.0
+envo,GNN + names (seed 2),221,1.0
+envo,GNN + names (seed 2),222,3.0
+envo,GNN + names (seed 2),223,1.0
+envo,GNN + names (seed 2),224,1.0
+envo,GNN + names (seed 2),225,1.0
+envo,GNN + names (seed 2),226,1.0
+envo,GNN + names (seed 2),227,1.0
+envo,GNN + names (seed 2),228,1.0
+envo,GNN + names (seed 2),229,1.0
+envo,GNN + names (seed 2),230,1.0
+envo,GNN + names (seed 2),231,1.0
+envo,GNN + names (seed 2),232,1.0
+envo,GNN + names (seed 2),233,1.0
+envo,GNN + names (seed 2),234,1.0
+envo,GNN + names (seed 2),235,1.0
+envo,GNN + names (seed 2),236,1.0
+envo,GNN + names (seed 2),237,1.0
+envo,GNN + names (seed 2),238,1.0
+envo,GNN + names (seed 2),239,1.0
+envo,GNN + names (seed 2),240,2.0
+envo,GNN + names (seed 2),241,1.0
+envo,GNN + names (seed 2),242,1.0
+envo,GNN + names (seed 2),243,1.0
+envo,GNN + names (seed 2),244,3.0
+envo,GNN + names (seed 2),245,1.0
+envo,GNN + names (seed 2),246,1.0
+envo,GNN + names (seed 2),247,1.0
+envo,GNN + names (seed 2),248,1.0
+envo,GNN + names (seed 2),249,1.0
+envo,GNN + names (seed 2),250,1.0
+envo,GNN + names (seed 2),251,1.0
+envo,GNN + names (seed 2),252,1.0
+envo,GNN + names (seed 2),253,1.0
+envo,GNN + names (seed 2),254,1.0
+envo,GNN + names (seed 2),255,1.0
+envo,GNN + names (seed 2),256,1.0
+envo,GNN + names (seed 2),257,25.0
+envo,GNN + names (seed 2),258,1.0
+envo,GNN + names (seed 2),259,1.0
+envo,GNN + names (seed 2),260,5.0
+envo,GNN + names (seed 2),261,1.0
+envo,GNN + names (seed 2),262,1.0
+envo,GNN + names (seed 2),263,1.0
+envo,GNN + names (seed 2),264,1.0
+envo,GNN + names (seed 2),265,1.0
+envo,GNN + names (seed 2),266,1.0
+envo,GNN + names (seed 2),267,1.0
+envo,GNN + names (seed 2),268,1.0
+envo,GNN + names (seed 2),269,3.0
+envo,GNN + names (seed 2),270,1.0
+envo,GNN + names (seed 2),271,1.0
+envo,GNN + names (seed 2),272,1.0
+envo,GNN + names (seed 2),273,1.0
+envo,GNN + names (seed 2),274,1.0
+envo,GNN + names (seed 2),275,1.0
+envo,GNN + names (seed 2),276,2.0
+envo,GNN + names (seed 2),277,1.0
+envo,GNN + names (seed 2),278,1.0
+envo,GNN + names (seed 2),279,66.0
+envo,GNN + names (seed 2),280,2.0
+envo,GNN + names (seed 2),281,1.0
+envo,GNN + names (seed 2),282,1.0
+envo,GNN + names (seed 2),283,1.0
+envo,GNN + names (seed 2),284,1.0
+envo,GNN + names (seed 2),285,1.0
+envo,GNN + names (seed 2),286,1.0
+envo,GNN + names (seed 2),287,1.0
+envo,GNN + names (seed 2),288,1.0
+envo,GNN + names (seed 2),289,1.0
+envo,GNN + names (seed 2),290,1.0
+envo,GNN + names (seed 2),291,1.0
+envo,GNN + names (seed 2),292,1.0
+envo,GNN + names (seed 2),293,1.0
+envo,GNN + names (seed 2),294,1.0
+envo,GNN + names (seed 2),295,2.0
+envo,GNN + names (seed 2),296,1.0
+envo,GNN + names (seed 2),297,37.0
+envo,GNN + names (seed 2),298,1.0
+envo,GNN + names (seed 2),299,1.0
+envo,names only (TF-IDF),0,1.0
+envo,names only (TF-IDF),1,1.0
+envo,names only (TF-IDF),2,7.0
+envo,names only (TF-IDF),3,88.5
+envo,names only (TF-IDF),4,1.0
+envo,names only (TF-IDF),5,68.0
+envo,names only (TF-IDF),6,1.0
+envo,names only (TF-IDF),7,2.0
+envo,names only (TF-IDF),8,37.0
+envo,names only (TF-IDF),9,1.0
+envo,names only (TF-IDF),10,1.0
+envo,names only (TF-IDF),11,1.0
+envo,names only (TF-IDF),12,2.0
+envo,names only (TF-IDF),13,3.0
+envo,names only (TF-IDF),14,1.0
+envo,names only (TF-IDF),15,1.0
+envo,names only (TF-IDF),16,70.0
+envo,names only (TF-IDF),17,1.0
+envo,names only (TF-IDF),18,60.0
+envo,names only (TF-IDF),19,67.0
+envo,names only (TF-IDF),20,1.0
+envo,names only (TF-IDF),21,1.0
+envo,names only (TF-IDF),22,2.0
+envo,names only (TF-IDF),23,38.0
+envo,names only (TF-IDF),24,1.0
+envo,names only (TF-IDF),25,1.0
+envo,names only (TF-IDF),26,2.0
+envo,names only (TF-IDF),27,1.0
+envo,names only (TF-IDF),28,1.0
+envo,names only (TF-IDF),29,1.0
+envo,names only (TF-IDF),30,91.0
+envo,names only (TF-IDF),31,1.0
+envo,names only (TF-IDF),32,27.0
+envo,names only (TF-IDF),33,1.0
+envo,names only (TF-IDF),34,1.0
+envo,names only (TF-IDF),35,3.0
+envo,names only (TF-IDF),36,1.0
+envo,names only (TF-IDF),37,5.0
+envo,names only (TF-IDF),38,78.5
+envo,names only (TF-IDF),39,82.0
+envo,names only (TF-IDF),40,1.0
+envo,names only (TF-IDF),41,1.0
+envo,names only (TF-IDF),42,1.0
+envo,names only (TF-IDF),43,1.0
+envo,names only (TF-IDF),44,1.0
+envo,names only (TF-IDF),45,88.5
+envo,names only (TF-IDF),46,38.0
+envo,names only (TF-IDF),47,1.0
+envo,names only (TF-IDF),48,1.0
+envo,names only (TF-IDF),49,35.0
+envo,names only (TF-IDF),50,1.0
+envo,names only (TF-IDF),51,1.0
+envo,names only (TF-IDF),52,2.0
+envo,names only (TF-IDF),53,38.0
+envo,names only (TF-IDF),54,48.0
+envo,names only (TF-IDF),55,70.0
+envo,names only (TF-IDF),56,1.0
+envo,names only (TF-IDF),57,1.0
+envo,names only (TF-IDF),58,1.0
+envo,names only (TF-IDF),59,62.5
+envo,names only (TF-IDF),60,5.0
+envo,names only (TF-IDF),61,49.0
+envo,names only (TF-IDF),62,32.0
+envo,names only (TF-IDF),63,1.0
+envo,names only (TF-IDF),64,3.0
+envo,names only (TF-IDF),65,1.0
+envo,names only (TF-IDF),66,1.0
+envo,names only (TF-IDF),67,1.0
+envo,names only (TF-IDF),68,26.0
+envo,names only (TF-IDF),69,1.0
+envo,names only (TF-IDF),70,1.0
+envo,names only (TF-IDF),71,89.5
+envo,names only (TF-IDF),72,1.0
+envo,names only (TF-IDF),73,1.0
+envo,names only (TF-IDF),74,50.0
+envo,names only (TF-IDF),75,1.0
+envo,names only (TF-IDF),76,1.0
+envo,names only (TF-IDF),77,1.0
+envo,names only (TF-IDF),78,1.0
+envo,names only (TF-IDF),79,1.0
+envo,names only (TF-IDF),80,1.0
+envo,names only (TF-IDF),81,1.0
+envo,names only (TF-IDF),82,75.0
+envo,names only (TF-IDF),83,1.0
+envo,names only (TF-IDF),84,1.0
+envo,names only (TF-IDF),85,1.0
+envo,names only (TF-IDF),86,66.0
+envo,names only (TF-IDF),87,79.0
+envo,names only (TF-IDF),88,61.0
+envo,names only (TF-IDF),89,1.0
+envo,names only (TF-IDF),90,1.0
+envo,names only (TF-IDF),91,1.0
+envo,names only (TF-IDF),92,54.0
+envo,names only (TF-IDF),93,1.0
+envo,names only (TF-IDF),94,2.0
+envo,names only (TF-IDF),95,1.0
+envo,names only (TF-IDF),96,1.0
+envo,names only (TF-IDF),97,1.0
+envo,names only (TF-IDF),98,49.0
+envo,names only (TF-IDF),99,26.0
+envo,names only (TF-IDF),100,1.0
+envo,names only (TF-IDF),101,60.0
+envo,names only (TF-IDF),102,36.0
+envo,names only (TF-IDF),103,1.0
+envo,names only (TF-IDF),104,1.0
+envo,names only (TF-IDF),105,1.0
+envo,names only (TF-IDF),106,1.0
+envo,names only (TF-IDF),107,1.0
+envo,names only (TF-IDF),108,1.0
+envo,names only (TF-IDF),109,22.0
+envo,names only (TF-IDF),110,72.5
+envo,names only (TF-IDF),111,1.0
+envo,names only (TF-IDF),112,24.0
+envo,names only (TF-IDF),113,1.0
+envo,names only (TF-IDF),114,9.0
+envo,names only (TF-IDF),115,82.0
+envo,names only (TF-IDF),116,17.0
+envo,names only (TF-IDF),117,78.0
+envo,names only (TF-IDF),118,1.0
+envo,names only (TF-IDF),119,1.0
+envo,names only (TF-IDF),120,75.5
+envo,names only (TF-IDF),121,1.0
+envo,names only (TF-IDF),122,13.0
+envo,names only (TF-IDF),123,1.0
+envo,names only (TF-IDF),124,29.0
+envo,names only (TF-IDF),125,1.0
+envo,names only (TF-IDF),126,63.5
+envo,names only (TF-IDF),127,79.5
+envo,names only (TF-IDF),128,14.0
+envo,names only (TF-IDF),129,13.0
+envo,names only (TF-IDF),130,1.0
+envo,names only (TF-IDF),131,76.5
+envo,names only (TF-IDF),132,2.0
+envo,names only (TF-IDF),133,7.0
+envo,names only (TF-IDF),134,1.0
+envo,names only (TF-IDF),135,1.0
+envo,names only (TF-IDF),136,2.0
+envo,names only (TF-IDF),137,1.0
+envo,names only (TF-IDF),138,1.0
+envo,names only (TF-IDF),139,79.0
+envo,names only (TF-IDF),140,1.0
+envo,names only (TF-IDF),141,12.0
+envo,names only (TF-IDF),142,1.0
+envo,names only (TF-IDF),143,9.0
+envo,names only (TF-IDF),144,13.0
+envo,names only (TF-IDF),145,33.0
+envo,names only (TF-IDF),146,1.0
+envo,names only (TF-IDF),147,1.0
+envo,names only (TF-IDF),148,24.0
+envo,names only (TF-IDF),149,81.0
+envo,names only (TF-IDF),150,53.0
+envo,names only (TF-IDF),151,1.0
+envo,names only (TF-IDF),152,89.0
+envo,names only (TF-IDF),153,71.5
+envo,names only (TF-IDF),154,5.0
+envo,names only (TF-IDF),155,84.0
+envo,names only (TF-IDF),156,23.0
+envo,names only (TF-IDF),157,1.0
+envo,names only (TF-IDF),158,2.0
+envo,names only (TF-IDF),159,1.0
+envo,names only (TF-IDF),160,94.0
+envo,names only (TF-IDF),161,1.0
+envo,names only (TF-IDF),162,21.0
+envo,names only (TF-IDF),163,1.0
+envo,names only (TF-IDF),164,1.0
+envo,names only (TF-IDF),165,1.0
+envo,names only (TF-IDF),166,1.0
+envo,names only (TF-IDF),167,1.0
+envo,names only (TF-IDF),168,1.0
+envo,names only (TF-IDF),169,1.0
+envo,names only (TF-IDF),170,1.0
+envo,names only (TF-IDF),171,1.0
+envo,names only (TF-IDF),172,1.0
+envo,names only (TF-IDF),173,1.0
+envo,names only (TF-IDF),174,80.0
+envo,names only (TF-IDF),175,1.0
+envo,names only (TF-IDF),176,9.0
+envo,names only (TF-IDF),177,1.0
+envo,names only (TF-IDF),178,89.5
+envo,names only (TF-IDF),179,1.0
+envo,names only (TF-IDF),180,6.0
+envo,names only (TF-IDF),181,2.0
+envo,names only (TF-IDF),182,1.0
+envo,names only (TF-IDF),183,1.0
+envo,names only (TF-IDF),184,22.0
+envo,names only (TF-IDF),185,2.0
+envo,names only (TF-IDF),186,2.0
+envo,names only (TF-IDF),187,2.0
+envo,names only (TF-IDF),188,1.0
+envo,names only (TF-IDF),189,1.0
+envo,names only (TF-IDF),190,40.0
+envo,names only (TF-IDF),191,56.0
+envo,names only (TF-IDF),192,3.0
+envo,names only (TF-IDF),193,1.0
+envo,names only (TF-IDF),194,35.0
+envo,names only (TF-IDF),195,1.0
+envo,names only (TF-IDF),196,2.0
+envo,names only (TF-IDF),197,1.0
+envo,names only (TF-IDF),198,1.0
+envo,names only (TF-IDF),199,1.0
+envo,names only (TF-IDF),200,1.0
+envo,names only (TF-IDF),201,1.0
+envo,names only (TF-IDF),202,19.0
+envo,names only (TF-IDF),203,1.0
+envo,names only (TF-IDF),204,71.5
+envo,names only (TF-IDF),205,1.0
+envo,names only (TF-IDF),206,61.0
+envo,names only (TF-IDF),207,46.0
+envo,names only (TF-IDF),208,1.0
+envo,names only (TF-IDF),209,1.0
+envo,names only (TF-IDF),210,1.0
+envo,names only (TF-IDF),211,32.0
+envo,names only (TF-IDF),212,11.0
+envo,names only (TF-IDF),213,11.0
+envo,names only (TF-IDF),214,1.0
+envo,names only (TF-IDF),215,1.0
+envo,names only (TF-IDF),216,2.0
+envo,names only (TF-IDF),217,1.0
+envo,names only (TF-IDF),218,2.0
+envo,names only (TF-IDF),219,62.0
+envo,names only (TF-IDF),220,1.0
+envo,names only (TF-IDF),221,80.5
+envo,names only (TF-IDF),222,61.0
+envo,names only (TF-IDF),223,1.0
+envo,names only (TF-IDF),224,1.0
+envo,names only (TF-IDF),225,1.0
+envo,names only (TF-IDF),226,7.0
+envo,names only (TF-IDF),227,1.0
+envo,names only (TF-IDF),228,1.0
+envo,names only (TF-IDF),229,62.0
+envo,names only (TF-IDF),230,1.0
+envo,names only (TF-IDF),231,78.0
+envo,names only (TF-IDF),232,3.0
+envo,names only (TF-IDF),233,1.0
+envo,names only (TF-IDF),234,1.0
+envo,names only (TF-IDF),235,1.0
+envo,names only (TF-IDF),236,1.0
+envo,names only (TF-IDF),237,28.0
+envo,names only (TF-IDF),238,1.0
+envo,names only (TF-IDF),239,1.0
+envo,names only (TF-IDF),240,14.0
+envo,names only (TF-IDF),241,1.0
+envo,names only (TF-IDF),242,1.0
+envo,names only (TF-IDF),243,2.0
+envo,names only (TF-IDF),244,64.0
+envo,names only (TF-IDF),245,3.0
+envo,names only (TF-IDF),246,51.0
+envo,names only (TF-IDF),247,1.0
+envo,names only (TF-IDF),248,40.0
+envo,names only (TF-IDF),249,1.0
+envo,names only (TF-IDF),250,1.0
+envo,names only (TF-IDF),251,1.0
+envo,names only (TF-IDF),252,23.0
+envo,names only (TF-IDF),253,1.0
+envo,names only (TF-IDF),254,1.0
+envo,names only (TF-IDF),255,1.0
+envo,names only (TF-IDF),256,1.0
+envo,names only (TF-IDF),257,64.5
+envo,names only (TF-IDF),258,1.0
+envo,names only (TF-IDF),259,2.0
+envo,names only (TF-IDF),260,47.0
+envo,names only (TF-IDF),261,1.0
+envo,names only (TF-IDF),262,1.0
+envo,names only (TF-IDF),263,1.0
+envo,names only (TF-IDF),264,38.0
+envo,names only (TF-IDF),265,1.0
+envo,names only (TF-IDF),266,1.0
+envo,names only (TF-IDF),267,1.0
+envo,names only (TF-IDF),268,1.0
+envo,names only (TF-IDF),269,37.0
+envo,names only (TF-IDF),270,28.0
+envo,names only (TF-IDF),271,1.0
+envo,names only (TF-IDF),272,1.0
+envo,names only (TF-IDF),273,3.0
+envo,names only (TF-IDF),274,1.0
+envo,names only (TF-IDF),275,18.0
+envo,names only (TF-IDF),276,23.0
+envo,names only (TF-IDF),277,1.0
+envo,names only (TF-IDF),278,1.0
+envo,names only (TF-IDF),279,45.0
+envo,names only (TF-IDF),280,75.5
+envo,names only (TF-IDF),281,1.0
+envo,names only (TF-IDF),282,64.0
+envo,names only (TF-IDF),283,1.0
+envo,names only (TF-IDF),284,19.0
+envo,names only (TF-IDF),285,1.0
+envo,names only (TF-IDF),286,1.0
+envo,names only (TF-IDF),287,24.0
+envo,names only (TF-IDF),288,14.0
+envo,names only (TF-IDF),289,1.0
+envo,names only (TF-IDF),290,1.0
+envo,names only (TF-IDF),291,1.0
+envo,names only (TF-IDF),292,1.0
+envo,names only (TF-IDF),293,2.0
+envo,names only (TF-IDF),294,1.0
+envo,names only (TF-IDF),295,89.5
+envo,names only (TF-IDF),296,1.0
+envo,names only (TF-IDF),297,69.5
+envo,names only (TF-IDF),298,1.0
+envo,names only (TF-IDF),299,1.0
+envo,look-alike vote + names,0,1.0
+envo,look-alike vote + names,1,1.0
+envo,look-alike vote + names,2,1.0
+envo,look-alike vote + names,3,4.0
+envo,look-alike vote + names,4,1.0
+envo,look-alike vote + names,5,5.0
+envo,look-alike vote + names,6,1.0
+envo,look-alike vote + names,7,1.0
+envo,look-alike vote + names,8,1.0
+envo,look-alike vote + names,9,1.0
+envo,look-alike vote + names,10,1.0
+envo,look-alike vote + names,11,2.0
+envo,look-alike vote + names,12,3.0
+envo,look-alike vote + names,13,9.0
+envo,look-alike vote + names,14,1.0
+envo,look-alike vote + names,15,1.0
+envo,look-alike vote + names,16,1.0
+envo,look-alike vote + names,17,1.0
+envo,look-alike vote + names,18,1.0
+envo,look-alike vote + names,19,10.0
+envo,look-alike vote + names,20,1.0
+envo,look-alike vote + names,21,1.0
+envo,look-alike vote + names,22,1.0
+envo,look-alike vote + names,23,1.0
+envo,look-alike vote + names,24,2.0
+envo,look-alike vote + names,25,1.0
+envo,look-alike vote + names,26,2.0
+envo,look-alike vote + names,27,1.0
+envo,look-alike vote + names,28,1.0
+envo,look-alike vote + names,29,2.0
+envo,look-alike vote + names,30,6.0
+envo,look-alike vote + names,31,1.0
+envo,look-alike vote + names,32,1.0
+envo,look-alike vote + names,33,1.0
+envo,look-alike vote + names,34,1.0
+envo,look-alike vote + names,35,1.0
+envo,look-alike vote + names,36,1.0
+envo,look-alike vote + names,37,2.0
+envo,look-alike vote + names,38,4.0
+envo,look-alike vote + names,39,1.0
+envo,look-alike vote + names,40,1.0
+envo,look-alike vote + names,41,1.0
+envo,look-alike vote + names,42,1.0
+envo,look-alike vote + names,43,2.0
+envo,look-alike vote + names,44,1.0
+envo,look-alike vote + names,45,1.0
+envo,look-alike vote + names,46,15.0
+envo,look-alike vote + names,47,1.0
+envo,look-alike vote + names,48,1.0
+envo,look-alike vote + names,49,1.0
+envo,look-alike vote + names,50,1.0
+envo,look-alike vote + names,51,1.0
+envo,look-alike vote + names,52,2.0
+envo,look-alike vote + names,53,1.0
+envo,look-alike vote + names,54,20.0
+envo,look-alike vote + names,55,41.0
+envo,look-alike vote + names,56,1.0
+envo,look-alike vote + names,57,1.0
+envo,look-alike vote + names,58,1.0
+envo,look-alike vote + names,59,2.0
+envo,look-alike vote + names,60,3.0
+envo,look-alike vote + names,61,46.0
+envo,look-alike vote + names,62,1.0
+envo,look-alike vote + names,63,1.0
+envo,look-alike vote + names,64,1.0
+envo,look-alike vote + names,65,1.0
+envo,look-alike vote + names,66,1.0
+envo,look-alike vote + names,67,1.0
+envo,look-alike vote + names,68,46.0
+envo,look-alike vote + names,69,1.0
+envo,look-alike vote + names,70,1.0
+envo,look-alike vote + names,71,5.0
+envo,look-alike vote + names,72,1.0
+envo,look-alike vote + names,73,1.0
+envo,look-alike vote + names,74,99.0
+envo,look-alike vote + names,75,1.0
+envo,look-alike vote + names,76,1.0
+envo,look-alike vote + names,77,1.0
+envo,look-alike vote + names,78,1.0
+envo,look-alike vote + names,79,1.0
+envo,look-alike vote + names,80,1.0
+envo,look-alike vote + names,81,1.0
+envo,look-alike vote + names,82,50.0
+envo,look-alike vote + names,83,1.0
+envo,look-alike vote + names,84,1.0
+envo,look-alike vote + names,85,1.0
+envo,look-alike vote + names,86,61.0
+envo,look-alike vote + names,87,1.0
+envo,look-alike vote + names,88,5.0
+envo,look-alike vote + names,89,1.0
+envo,look-alike vote + names,90,1.0
+envo,look-alike vote + names,91,1.0
+envo,look-alike vote + names,92,1.0
+envo,look-alike vote + names,93,1.0
+envo,look-alike vote + names,94,2.0
+envo,look-alike vote + names,95,1.0
+envo,look-alike vote + names,96,1.0
+envo,look-alike vote + names,97,1.0
+envo,look-alike vote + names,98,11.0
+envo,look-alike vote + names,99,1.0
+envo,look-alike vote + names,100,1.0
+envo,look-alike vote + names,101,1.0
+envo,look-alike vote + names,102,1.0
+envo,look-alike vote + names,103,1.0
+envo,look-alike vote + names,104,2.0
+envo,look-alike vote + names,105,1.0
+envo,look-alike vote + names,106,1.0
+envo,look-alike vote + names,107,1.0
+envo,look-alike vote + names,108,1.0
+envo,look-alike vote + names,109,8.0
+envo,look-alike vote + names,110,1.0
+envo,look-alike vote + names,111,1.0
+envo,look-alike vote + names,112,20.0
+envo,look-alike vote + names,113,1.0
+envo,look-alike vote + names,114,16.0
+envo,look-alike vote + names,115,1.0
+envo,look-alike vote + names,116,2.0
+envo,look-alike vote + names,117,1.0
+envo,look-alike vote + names,118,1.0
+envo,look-alike vote + names,119,1.0
+envo,look-alike vote + names,120,1.0
+envo,look-alike vote + names,121,1.0
+envo,look-alike vote + names,122,1.0
+envo,look-alike vote + names,123,1.0
+envo,look-alike vote + names,124,34.0
+envo,look-alike vote + names,125,1.0
+envo,look-alike vote + names,126,89.0
+envo,look-alike vote + names,127,78.0
+envo,look-alike vote + names,128,1.0
+envo,look-alike vote + names,129,1.0
+envo,look-alike vote + names,130,1.0
+envo,look-alike vote + names,131,68.0
+envo,look-alike vote + names,132,5.0
+envo,look-alike vote + names,133,1.0
+envo,look-alike vote + names,134,1.0
+envo,look-alike vote + names,135,1.0
+envo,look-alike vote + names,136,2.0
+envo,look-alike vote + names,137,1.0
+envo,look-alike vote + names,138,1.0
+envo,look-alike vote + names,139,1.0
+envo,look-alike vote + names,140,1.0
+envo,look-alike vote + names,141,1.0
+envo,look-alike vote + names,142,1.0
+envo,look-alike vote + names,143,32.0
+envo,look-alike vote + names,144,8.0
+envo,look-alike vote + names,145,4.0
+envo,look-alike vote + names,146,1.0
+envo,look-alike vote + names,147,1.0
+envo,look-alike vote + names,148,1.0
+envo,look-alike vote + names,149,12.0
+envo,look-alike vote + names,150,21.0
+envo,look-alike vote + names,151,1.0
+envo,look-alike vote + names,152,1.0
+envo,look-alike vote + names,153,7.0
+envo,look-alike vote + names,154,2.0
+envo,look-alike vote + names,155,4.0
+envo,look-alike vote + names,156,1.0
+envo,look-alike vote + names,157,1.0
+envo,look-alike vote + names,158,3.0
+envo,look-alike vote + names,159,1.0
+envo,look-alike vote + names,160,1.0
+envo,look-alike vote + names,161,1.0
+envo,look-alike vote + names,162,47.0
+envo,look-alike vote + names,163,1.0
+envo,look-alike vote + names,164,1.0
+envo,look-alike vote + names,165,1.0
+envo,look-alike vote + names,166,1.0
+envo,look-alike vote + names,167,1.0
+envo,look-alike vote + names,168,1.0
+envo,look-alike vote + names,169,1.0
+envo,look-alike vote + names,170,1.0
+envo,look-alike vote + names,171,1.0
+envo,look-alike vote + names,172,1.0
+envo,look-alike vote + names,173,1.0
+envo,look-alike vote + names,174,3.0
+envo,look-alike vote + names,175,1.0
+envo,look-alike vote + names,176,1.0
+envo,look-alike vote + names,177,2.0
+envo,look-alike vote + names,178,1.0
+envo,look-alike vote + names,179,1.0
+envo,look-alike vote + names,180,2.0
+envo,look-alike vote + names,181,1.0
+envo,look-alike vote + names,182,1.0
+envo,look-alike vote + names,183,1.0
+envo,look-alike vote + names,184,6.0
+envo,look-alike vote + names,185,1.0
+envo,look-alike vote + names,186,1.0
+envo,look-alike vote + names,187,1.0
+envo,look-alike vote + names,188,2.0
+envo,look-alike vote + names,189,1.0
+envo,look-alike vote + names,190,9.0
+envo,look-alike vote + names,191,75.0
+envo,look-alike vote + names,192,11.0
+envo,look-alike vote + names,193,1.0
+envo,look-alike vote + names,194,15.0
+envo,look-alike vote + names,195,1.0
+envo,look-alike vote + names,196,51.0
+envo,look-alike vote + names,197,1.0
+envo,look-alike vote + names,198,3.0
+envo,look-alike vote + names,199,1.0
+envo,look-alike vote + names,200,1.0
+envo,look-alike vote + names,201,1.0
+envo,look-alike vote + names,202,3.0
+envo,look-alike vote + names,203,1.0
+envo,look-alike vote + names,204,29.0
+envo,look-alike vote + names,205,1.0
+envo,look-alike vote + names,206,22.0
+envo,look-alike vote + names,207,1.0
+envo,look-alike vote + names,208,1.0
+envo,look-alike vote + names,209,2.0
+envo,look-alike vote + names,210,1.0
+envo,look-alike vote + names,211,1.0
+envo,look-alike vote + names,212,4.0
+envo,look-alike vote + names,213,3.0
+envo,look-alike vote + names,214,1.0
+envo,look-alike vote + names,215,1.0
+envo,look-alike vote + names,216,1.0
+envo,look-alike vote + names,217,1.0
+envo,look-alike vote + names,218,2.0
+envo,look-alike vote + names,219,1.0
+envo,look-alike vote + names,220,1.0
+envo,look-alike vote + names,221,1.0
+envo,look-alike vote + names,222,1.0
+envo,look-alike vote + names,223,1.0
+envo,look-alike vote + names,224,1.0
+envo,look-alike vote + names,225,1.0
+envo,look-alike vote + names,226,36.0
+envo,look-alike vote + names,227,1.0
+envo,look-alike vote + names,228,1.0
+envo,look-alike vote + names,229,1.0
+envo,look-alike vote + names,230,1.0
+envo,look-alike vote + names,231,1.0
+envo,look-alike vote + names,232,1.0
+envo,look-alike vote + names,233,3.0
+envo,look-alike vote + names,234,1.0
+envo,look-alike vote + names,235,1.0
+envo,look-alike vote + names,236,1.0
+envo,look-alike vote + names,237,33.0
+envo,look-alike vote + names,238,1.0
+envo,look-alike vote + names,239,1.0
+envo,look-alike vote + names,240,28.0
+envo,look-alike vote + names,241,1.0
+envo,look-alike vote + names,242,1.0
+envo,look-alike vote + names,243,1.0
+envo,look-alike vote + names,244,5.0
+envo,look-alike vote + names,245,2.0
+envo,look-alike vote + names,246,2.0
+envo,look-alike vote + names,247,1.0
+envo,look-alike vote + names,248,1.0
+envo,look-alike vote + names,249,1.0
+envo,look-alike vote + names,250,1.0
+envo,look-alike vote + names,251,1.0
+envo,look-alike vote + names,252,12.0
+envo,look-alike vote + names,253,1.0
+envo,look-alike vote + names,254,1.0
+envo,look-alike vote + names,255,1.0
+envo,look-alike vote + names,256,1.0
+envo,look-alike vote + names,257,78.0
+envo,look-alike vote + names,258,1.0
+envo,look-alike vote + names,259,1.0
+envo,look-alike vote + names,260,56.0
+envo,look-alike vote + names,261,1.0
+envo,look-alike vote + names,262,1.0
+envo,look-alike vote + names,263,1.0
+envo,look-alike vote + names,264,1.0
+envo,look-alike vote + names,265,1.0
+envo,look-alike vote + names,266,1.0
+envo,look-alike vote + names,267,1.0
+envo,look-alike vote + names,268,1.0
+envo,look-alike vote + names,269,1.0
+envo,look-alike vote + names,270,1.0
+envo,look-alike vote + names,271,1.0
+envo,look-alike vote + names,272,1.0
+envo,look-alike vote + names,273,1.0
+envo,look-alike vote + names,274,1.0
+envo,look-alike vote + names,275,9.0
+envo,look-alike vote + names,276,34.0
+envo,look-alike vote + names,277,2.0
+envo,look-alike vote + names,278,1.0
+envo,look-alike vote + names,279,49.0
+envo,look-alike vote + names,280,77.0
+envo,look-alike vote + names,281,1.0
+envo,look-alike vote + names,282,1.0
+envo,look-alike vote + names,283,2.0
+envo,look-alike vote + names,284,49.0
+envo,look-alike vote + names,285,1.0
+envo,look-alike vote + names,286,1.0
+envo,look-alike vote + names,287,1.0
+envo,look-alike vote + names,288,5.0
+envo,look-alike vote + names,289,1.0
+envo,look-alike vote + names,290,1.0
+envo,look-alike vote + names,291,1.0
+envo,look-alike vote + names,292,1.0
+envo,look-alike vote + names,293,1.0
+envo,look-alike vote + names,294,1.0
+envo,look-alike vote + names,295,7.0
+envo,look-alike vote + names,296,1.0
+envo,look-alike vote + names,297,39.0
+envo,look-alike vote + names,298,1.0
+envo,look-alike vote + names,299,1.0
+envo,"BERTSubs-style, isolated class, zero-shot",0,6.0
+envo,"BERTSubs-style, isolated class, zero-shot",1,11.0
+envo,"BERTSubs-style, isolated class, zero-shot",2,1.0
+envo,"BERTSubs-style, isolated class, zero-shot",3,5.0
+envo,"BERTSubs-style, isolated class, zero-shot",4,4.0
+envo,"BERTSubs-style, isolated class, zero-shot",5,8.0
+envo,"BERTSubs-style, isolated class, zero-shot",6,1.0
+envo,"BERTSubs-style, isolated class, zero-shot",7,5.0
+envo,"BERTSubs-style, isolated class, zero-shot",8,4.0
+envo,"BERTSubs-style, isolated class, zero-shot",9,1.0
+envo,"BERTSubs-style, isolated class, zero-shot",10,89.0
+envo,"BERTSubs-style, isolated class, zero-shot",11,1.0
+envo,"BERTSubs-style, isolated class, zero-shot",12,2.0
+envo,"BERTSubs-style, isolated class, zero-shot",13,51.0
+envo,"BERTSubs-style, isolated class, zero-shot",14,54.0
+envo,"BERTSubs-style, isolated class, zero-shot",15,2.0
+envo,"BERTSubs-style, isolated class, zero-shot",16,3.0
+envo,"BERTSubs-style, isolated class, zero-shot",17,32.0
+envo,"BERTSubs-style, isolated class, zero-shot",18,28.0
+envo,"BERTSubs-style, isolated class, zero-shot",19,87.0
+envo,"BERTSubs-style, isolated class, zero-shot",20,90.0
+envo,"BERTSubs-style, isolated class, zero-shot",21,1.0
+envo,"BERTSubs-style, isolated class, zero-shot",22,7.0
+envo,"BERTSubs-style, isolated class, zero-shot",23,14.0
+envo,"BERTSubs-style, isolated class, zero-shot",24,6.0
+envo,"BERTSubs-style, isolated class, zero-shot",25,2.0
+envo,"BERTSubs-style, isolated class, zero-shot",26,4.0
+envo,"BERTSubs-style, isolated class, zero-shot",27,3.0
+envo,"BERTSubs-style, isolated class, zero-shot",28,40.0
+envo,"BERTSubs-style, isolated class, zero-shot",29,11.0
+envo,"BERTSubs-style, isolated class, zero-shot",30,74.0
+envo,"BERTSubs-style, isolated class, zero-shot",31,28.0
+envo,"BERTSubs-style, isolated class, zero-shot",32,2.0
+envo,"BERTSubs-style, isolated class, zero-shot",33,4.0
+envo,"BERTSubs-style, isolated class, zero-shot",34,10.0
+envo,"BERTSubs-style, isolated class, zero-shot",35,3.0
+envo,"BERTSubs-style, isolated class, zero-shot",36,2.0
+envo,"BERTSubs-style, isolated class, zero-shot",37,7.0
+envo,"BERTSubs-style, isolated class, zero-shot",38,5.0
+envo,"BERTSubs-style, isolated class, zero-shot",39,2.0
+envo,"BERTSubs-style, isolated class, zero-shot",40,5.0
+envo,"BERTSubs-style, isolated class, zero-shot",41,7.0
+envo,"BERTSubs-style, isolated class, zero-shot",42,3.0
+envo,"BERTSubs-style, isolated class, zero-shot",43,3.0
+envo,"BERTSubs-style, isolated class, zero-shot",44,17.0
+envo,"BERTSubs-style, isolated class, zero-shot",45,46.0
+envo,"BERTSubs-style, isolated class, zero-shot",46,66.0
+envo,"BERTSubs-style, isolated class, zero-shot",47,1.0
+envo,"BERTSubs-style, isolated class, zero-shot",48,7.0
+envo,"BERTSubs-style, isolated class, zero-shot",49,8.0
+envo,"BERTSubs-style, isolated class, zero-shot",50,1.0
+envo,"BERTSubs-style, isolated class, zero-shot",51,2.0
+envo,"BERTSubs-style, isolated class, zero-shot",52,6.0
+envo,"BERTSubs-style, isolated class, zero-shot",53,1.0
+envo,"BERTSubs-style, isolated class, zero-shot",54,13.0
+envo,"BERTSubs-style, isolated class, zero-shot",55,14.0
+envo,"BERTSubs-style, isolated class, zero-shot",56,16.0
+envo,"BERTSubs-style, isolated class, zero-shot",57,32.0
+envo,"BERTSubs-style, isolated class, zero-shot",58,4.0
+envo,"BERTSubs-style, isolated class, zero-shot",59,5.0
+envo,"BERTSubs-style, isolated class, zero-shot",60,21.0
+envo,"BERTSubs-style, isolated class, zero-shot",61,2.0
+envo,"BERTSubs-style, isolated class, zero-shot",62,40.0
+envo,"BERTSubs-style, isolated class, zero-shot",63,30.0
+envo,"BERTSubs-style, isolated class, zero-shot",64,48.0
+envo,"BERTSubs-style, isolated class, zero-shot",65,43.0
+envo,"BERTSubs-style, isolated class, zero-shot",66,54.0
+envo,"BERTSubs-style, isolated class, zero-shot",67,9.0
+envo,"BERTSubs-style, isolated class, zero-shot",68,5.0
+envo,"BERTSubs-style, isolated class, zero-shot",69,4.0
+envo,"BERTSubs-style, isolated class, zero-shot",70,9.0
+envo,"BERTSubs-style, isolated class, zero-shot",71,6.0
+envo,"BERTSubs-style, isolated class, zero-shot",72,7.0
+envo,"BERTSubs-style, isolated class, zero-shot",73,8.0
+envo,"BERTSubs-style, isolated class, zero-shot",74,1.0
+envo,"BERTSubs-style, isolated class, zero-shot",75,100.0
+envo,"BERTSubs-style, isolated class, zero-shot",76,10.0
+envo,"BERTSubs-style, isolated class, zero-shot",77,58.0
+envo,"BERTSubs-style, isolated class, zero-shot",78,1.0
+envo,"BERTSubs-style, isolated class, zero-shot",79,14.0
+envo,"BERTSubs-style, isolated class, zero-shot",80,3.0
+envo,"BERTSubs-style, isolated class, zero-shot",81,2.0
+envo,"BERTSubs-style, isolated class, zero-shot",82,1.0
+envo,"BERTSubs-style, isolated class, zero-shot",83,3.0
+envo,"BERTSubs-style, isolated class, zero-shot",84,1.0
+envo,"BERTSubs-style, isolated class, zero-shot",85,8.0
+envo,"BERTSubs-style, isolated class, zero-shot",86,6.0
+envo,"BERTSubs-style, isolated class, zero-shot",87,47.0
+envo,"BERTSubs-style, isolated class, zero-shot",88,7.0
+envo,"BERTSubs-style, isolated class, zero-shot",89,2.0
+envo,"BERTSubs-style, isolated class, zero-shot",90,11.0
+envo,"BERTSubs-style, isolated class, zero-shot",91,1.0
+envo,"BERTSubs-style, isolated class, zero-shot",92,14.0
+envo,"BERTSubs-style, isolated class, zero-shot",93,2.0
+envo,"BERTSubs-style, isolated class, zero-shot",94,2.0
+envo,"BERTSubs-style, isolated class, zero-shot",95,84.0
+envo,"BERTSubs-style, isolated class, zero-shot",96,1.0
+envo,"BERTSubs-style, isolated class, zero-shot",97,2.0
+envo,"BERTSubs-style, isolated class, zero-shot",98,3.0
+envo,"BERTSubs-style, isolated class, zero-shot",99,58.0
+envo,"BERTSubs-style, isolated class, zero-shot",100,2.0
+envo,"BERTSubs-style, isolated class, zero-shot",101,4.0
+envo,"BERTSubs-style, isolated class, zero-shot",102,1.0
+envo,"BERTSubs-style, isolated class, zero-shot",103,2.0
+envo,"BERTSubs-style, isolated class, zero-shot",104,55.0
+envo,"BERTSubs-style, isolated class, zero-shot",105,2.0
+envo,"BERTSubs-style, isolated class, zero-shot",106,1.0
+envo,"BERTSubs-style, isolated class, zero-shot",107,2.0
+envo,"BERTSubs-style, isolated class, zero-shot",108,15.0
+envo,"BERTSubs-style, isolated class, zero-shot",109,14.0
+envo,"BERTSubs-style, isolated class, zero-shot",110,2.0
+envo,"BERTSubs-style, isolated class, zero-shot",111,13.0
+envo,"BERTSubs-style, isolated class, zero-shot",112,8.0
+envo,"BERTSubs-style, isolated class, zero-shot",113,16.0
+envo,"BERTSubs-style, isolated class, zero-shot",114,15.0
+envo,"BERTSubs-style, isolated class, zero-shot",115,3.0
+envo,"BERTSubs-style, isolated class, zero-shot",116,15.0
+envo,"BERTSubs-style, isolated class, zero-shot",117,1.0
+envo,"BERTSubs-style, isolated class, zero-shot",118,2.0
+envo,"BERTSubs-style, isolated class, zero-shot",119,18.0
+envo,"BERTSubs-style, isolated class, zero-shot",120,7.0
+envo,"BERTSubs-style, isolated class, zero-shot",121,1.0
+envo,"BERTSubs-style, isolated class, zero-shot",122,5.0
+envo,"BERTSubs-style, isolated class, zero-shot",123,7.0
+envo,"BERTSubs-style, isolated class, zero-shot",124,4.0
+envo,"BERTSubs-style, isolated class, zero-shot",125,30.0
+envo,"BERTSubs-style, isolated class, zero-shot",126,6.0
+envo,"BERTSubs-style, isolated class, zero-shot",127,7.0
+envo,"BERTSubs-style, isolated class, zero-shot",128,3.0
+envo,"BERTSubs-style, isolated class, zero-shot",129,1.0
+envo,"BERTSubs-style, isolated class, zero-shot",130,4.0
+envo,"BERTSubs-style, isolated class, zero-shot",131,2.0
+envo,"BERTSubs-style, isolated class, zero-shot",132,1.0
+envo,"BERTSubs-style, isolated class, zero-shot",133,1.0
+envo,"BERTSubs-style, isolated class, zero-shot",134,7.0
+envo,"BERTSubs-style, isolated class, zero-shot",135,1.0
+envo,"BERTSubs-style, isolated class, zero-shot",136,1.0
+envo,"BERTSubs-style, isolated class, zero-shot",137,5.0
+envo,"BERTSubs-style, isolated class, zero-shot",138,17.0
+envo,"BERTSubs-style, isolated class, zero-shot",139,41.0
+envo,"BERTSubs-style, isolated class, zero-shot",140,78.0
+envo,"BERTSubs-style, isolated class, zero-shot",141,2.0
+envo,"BERTSubs-style, isolated class, zero-shot",142,1.0
+envo,"BERTSubs-style, isolated class, zero-shot",143,1.0
+envo,"BERTSubs-style, isolated class, zero-shot",144,1.0
+envo,"BERTSubs-style, isolated class, zero-shot",145,8.0
+envo,"BERTSubs-style, isolated class, zero-shot",146,2.0
+envo,"BERTSubs-style, isolated class, zero-shot",147,1.0
+envo,"BERTSubs-style, isolated class, zero-shot",148,4.0
+envo,"BERTSubs-style, isolated class, zero-shot",149,1.0
+envo,"BERTSubs-style, isolated class, zero-shot",150,22.0
+envo,"BERTSubs-style, isolated class, zero-shot",151,1.0
+envo,"BERTSubs-style, isolated class, zero-shot",152,1.0
+envo,"BERTSubs-style, isolated class, zero-shot",153,1.0
+envo,"BERTSubs-style, isolated class, zero-shot",154,49.0
+envo,"BERTSubs-style, isolated class, zero-shot",155,10.0
+envo,"BERTSubs-style, isolated class, zero-shot",156,2.0
+envo,"BERTSubs-style, isolated class, zero-shot",157,47.0
+envo,"BERTSubs-style, isolated class, zero-shot",158,29.0
+envo,"BERTSubs-style, isolated class, zero-shot",159,5.0
+envo,"BERTSubs-style, isolated class, zero-shot",160,27.0
+envo,"BERTSubs-style, isolated class, zero-shot",161,3.0
+envo,"BERTSubs-style, isolated class, zero-shot",162,65.0
+envo,"BERTSubs-style, isolated class, zero-shot",163,17.0
+envo,"BERTSubs-style, isolated class, zero-shot",164,1.0
+envo,"BERTSubs-style, isolated class, zero-shot",165,4.0
+envo,"BERTSubs-style, isolated class, zero-shot",166,1.0
+envo,"BERTSubs-style, isolated class, zero-shot",167,75.0
+envo,"BERTSubs-style, isolated class, zero-shot",168,81.0
+envo,"BERTSubs-style, isolated class, zero-shot",169,19.0
+envo,"BERTSubs-style, isolated class, zero-shot",170,26.0
+envo,"BERTSubs-style, isolated class, zero-shot",171,9.0
+envo,"BERTSubs-style, isolated class, zero-shot",172,5.0
+envo,"BERTSubs-style, isolated class, zero-shot",173,2.0
+envo,"BERTSubs-style, isolated class, zero-shot",174,1.0
+envo,"BERTSubs-style, isolated class, zero-shot",175,3.0
+envo,"BERTSubs-style, isolated class, zero-shot",176,8.0
+envo,"BERTSubs-style, isolated class, zero-shot",177,40.0
+envo,"BERTSubs-style, isolated class, zero-shot",178,10.0
+envo,"BERTSubs-style, isolated class, zero-shot",179,8.0
+envo,"BERTSubs-style, isolated class, zero-shot",180,1.0
+envo,"BERTSubs-style, isolated class, zero-shot",181,10.0
+envo,"BERTSubs-style, isolated class, zero-shot",182,1.0
+envo,"BERTSubs-style, isolated class, zero-shot",183,10.0
+envo,"BERTSubs-style, isolated class, zero-shot",184,22.0
+envo,"BERTSubs-style, isolated class, zero-shot",185,3.0
+envo,"BERTSubs-style, isolated class, zero-shot",186,4.0
+envo,"BERTSubs-style, isolated class, zero-shot",187,4.0
+envo,"BERTSubs-style, isolated class, zero-shot",188,6.0
+envo,"BERTSubs-style, isolated class, zero-shot",189,1.0
+envo,"BERTSubs-style, isolated class, zero-shot",190,21.0
+envo,"BERTSubs-style, isolated class, zero-shot",191,12.0
+envo,"BERTSubs-style, isolated class, zero-shot",192,8.0
+envo,"BERTSubs-style, isolated class, zero-shot",193,78.0
+envo,"BERTSubs-style, isolated class, zero-shot",194,53.0
+envo,"BERTSubs-style, isolated class, zero-shot",195,36.0
+envo,"BERTSubs-style, isolated class, zero-shot",196,36.0
+envo,"BERTSubs-style, isolated class, zero-shot",197,6.0
+envo,"BERTSubs-style, isolated class, zero-shot",198,1.0
+envo,"BERTSubs-style, isolated class, zero-shot",199,2.0
+envo,"BERTSubs-style, isolated class, zero-shot",200,3.0
+envo,"BERTSubs-style, isolated class, zero-shot",201,4.0
+envo,"BERTSubs-style, isolated class, zero-shot",202,10.0
+envo,"BERTSubs-style, isolated class, zero-shot",203,1.0
+envo,"BERTSubs-style, isolated class, zero-shot",204,34.0
+envo,"BERTSubs-style, isolated class, zero-shot",205,4.0
+envo,"BERTSubs-style, isolated class, zero-shot",206,20.0
+envo,"BERTSubs-style, isolated class, zero-shot",207,1.0
+envo,"BERTSubs-style, isolated class, zero-shot",208,33.0
+envo,"BERTSubs-style, isolated class, zero-shot",209,27.0
+envo,"BERTSubs-style, isolated class, zero-shot",210,100.0
+envo,"BERTSubs-style, isolated class, zero-shot",211,1.0
+envo,"BERTSubs-style, isolated class, zero-shot",212,88.0
+envo,"BERTSubs-style, isolated class, zero-shot",213,4.0
+envo,"BERTSubs-style, isolated class, zero-shot",214,16.0
+envo,"BERTSubs-style, isolated class, zero-shot",215,17.0
+envo,"BERTSubs-style, isolated class, zero-shot",216,12.0
+envo,"BERTSubs-style, isolated class, zero-shot",217,18.0
+envo,"BERTSubs-style, isolated class, zero-shot",218,16.0
+envo,"BERTSubs-style, isolated class, zero-shot",219,15.0
+envo,"BERTSubs-style, isolated class, zero-shot",220,49.0
+envo,"BERTSubs-style, isolated class, zero-shot",221,1.0
+envo,"BERTSubs-style, isolated class, zero-shot",222,2.0
+envo,"BERTSubs-style, isolated class, zero-shot",223,2.0
+envo,"BERTSubs-style, isolated class, zero-shot",224,82.0
+envo,"BERTSubs-style, isolated class, zero-shot",225,5.0
+envo,"BERTSubs-style, isolated class, zero-shot",226,3.0
+envo,"BERTSubs-style, isolated class, zero-shot",227,4.0
+envo,"BERTSubs-style, isolated class, zero-shot",228,3.0
+envo,"BERTSubs-style, isolated class, zero-shot",229,5.0
+envo,"BERTSubs-style, isolated class, zero-shot",230,46.0
+envo,"BERTSubs-style, isolated class, zero-shot",231,38.0
+envo,"BERTSubs-style, isolated class, zero-shot",232,10.0
+envo,"BERTSubs-style, isolated class, zero-shot",233,8.0
+envo,"BERTSubs-style, isolated class, zero-shot",234,53.0
+envo,"BERTSubs-style, isolated class, zero-shot",235,21.0
+envo,"BERTSubs-style, isolated class, zero-shot",236,2.0
+envo,"BERTSubs-style, isolated class, zero-shot",237,7.0
+envo,"BERTSubs-style, isolated class, zero-shot",238,1.0
+envo,"BERTSubs-style, isolated class, zero-shot",239,100.0
+envo,"BERTSubs-style, isolated class, zero-shot",240,1.0
+envo,"BERTSubs-style, isolated class, zero-shot",241,3.0
+envo,"BERTSubs-style, isolated class, zero-shot",242,13.0
+envo,"BERTSubs-style, isolated class, zero-shot",243,23.0
+envo,"BERTSubs-style, isolated class, zero-shot",244,3.0
+envo,"BERTSubs-style, isolated class, zero-shot",245,3.0
+envo,"BERTSubs-style, isolated class, zero-shot",246,3.0
+envo,"BERTSubs-style, isolated class, zero-shot",247,7.0
+envo,"BERTSubs-style, isolated class, zero-shot",248,17.0
+envo,"BERTSubs-style, isolated class, zero-shot",249,3.0
+envo,"BERTSubs-style, isolated class, zero-shot",250,5.0
+envo,"BERTSubs-style, isolated class, zero-shot",251,5.0
+envo,"BERTSubs-style, isolated class, zero-shot",252,1.0
+envo,"BERTSubs-style, isolated class, zero-shot",253,2.0
+envo,"BERTSubs-style, isolated class, zero-shot",254,8.0
+envo,"BERTSubs-style, isolated class, zero-shot",255,28.0
+envo,"BERTSubs-style, isolated class, zero-shot",256,41.0
+envo,"BERTSubs-style, isolated class, zero-shot",257,27.0
+envo,"BERTSubs-style, isolated class, zero-shot",258,11.0
+envo,"BERTSubs-style, isolated class, zero-shot",259,1.0
+envo,"BERTSubs-style, isolated class, zero-shot",260,8.0
+envo,"BERTSubs-style, isolated class, zero-shot",261,3.0
+envo,"BERTSubs-style, isolated class, zero-shot",262,46.0
+envo,"BERTSubs-style, isolated class, zero-shot",263,2.0
+envo,"BERTSubs-style, isolated class, zero-shot",264,1.0
+envo,"BERTSubs-style, isolated class, zero-shot",265,83.0
+envo,"BERTSubs-style, isolated class, zero-shot",266,25.0
+envo,"BERTSubs-style, isolated class, zero-shot",267,1.0
+envo,"BERTSubs-style, isolated class, zero-shot",268,2.0
+envo,"BERTSubs-style, isolated class, zero-shot",269,1.0
+envo,"BERTSubs-style, isolated class, zero-shot",270,28.0
+envo,"BERTSubs-style, isolated class, zero-shot",271,4.0
+envo,"BERTSubs-style, isolated class, zero-shot",272,7.0
+envo,"BERTSubs-style, isolated class, zero-shot",273,1.0
+envo,"BERTSubs-style, isolated class, zero-shot",274,10.0
+envo,"BERTSubs-style, isolated class, zero-shot",275,1.0
+envo,"BERTSubs-style, isolated class, zero-shot",276,6.0
+envo,"BERTSubs-style, isolated class, zero-shot",277,1.0
+envo,"BERTSubs-style, isolated class, zero-shot",278,2.0
+envo,"BERTSubs-style, isolated class, zero-shot",279,24.0
+envo,"BERTSubs-style, isolated class, zero-shot",280,38.0
+envo,"BERTSubs-style, isolated class, zero-shot",281,4.0
+envo,"BERTSubs-style, isolated class, zero-shot",282,21.0
+envo,"BERTSubs-style, isolated class, zero-shot",283,1.0
+envo,"BERTSubs-style, isolated class, zero-shot",284,4.0
+envo,"BERTSubs-style, isolated class, zero-shot",285,1.0
+envo,"BERTSubs-style, isolated class, zero-shot",286,1.0
+envo,"BERTSubs-style, isolated class, zero-shot",287,4.0
+envo,"BERTSubs-style, isolated class, zero-shot",288,2.0
+envo,"BERTSubs-style, isolated class, zero-shot",289,24.0
+envo,"BERTSubs-style, isolated class, zero-shot",290,8.0
+envo,"BERTSubs-style, isolated class, zero-shot",291,100.0
+envo,"BERTSubs-style, isolated class, zero-shot",292,1.0
+envo,"BERTSubs-style, isolated class, zero-shot",293,29.0
+envo,"BERTSubs-style, isolated class, zero-shot",294,37.0
+envo,"BERTSubs-style, isolated class, zero-shot",295,8.0
+envo,"BERTSubs-style, isolated class, zero-shot",296,3.0
+envo,"BERTSubs-style, isolated class, zero-shot",297,79.0
+envo,"BERTSubs-style, isolated class, zero-shot",298,20.0
+envo,"BERTSubs-style, isolated class, zero-shot",299,1.0
+envo,"BERTSubs-style, path context, zero-shot",0,4.0
+envo,"BERTSubs-style, path context, zero-shot",1,2.0
+envo,"BERTSubs-style, path context, zero-shot",2,3.0
+envo,"BERTSubs-style, path context, zero-shot",3,1.0
+envo,"BERTSubs-style, path context, zero-shot",4,9.0
+envo,"BERTSubs-style, path context, zero-shot",5,13.0
+envo,"BERTSubs-style, path context, zero-shot",6,1.0
+envo,"BERTSubs-style, path context, zero-shot",7,2.0
+envo,"BERTSubs-style, path context, zero-shot",8,2.0
+envo,"BERTSubs-style, path context, zero-shot",9,1.0
+envo,"BERTSubs-style, path context, zero-shot",10,80.0
+envo,"BERTSubs-style, path context, zero-shot",11,1.0
+envo,"BERTSubs-style, path context, zero-shot",12,2.0
+envo,"BERTSubs-style, path context, zero-shot",13,48.0
+envo,"BERTSubs-style, path context, zero-shot",14,12.0
+envo,"BERTSubs-style, path context, zero-shot",15,2.0
+envo,"BERTSubs-style, path context, zero-shot",16,5.0
+envo,"BERTSubs-style, path context, zero-shot",17,23.0
+envo,"BERTSubs-style, path context, zero-shot",18,33.0
+envo,"BERTSubs-style, path context, zero-shot",19,59.0
+envo,"BERTSubs-style, path context, zero-shot",20,42.0
+envo,"BERTSubs-style, path context, zero-shot",21,1.0
+envo,"BERTSubs-style, path context, zero-shot",22,1.0
+envo,"BERTSubs-style, path context, zero-shot",23,25.0
+envo,"BERTSubs-style, path context, zero-shot",24,7.0
+envo,"BERTSubs-style, path context, zero-shot",25,1.0
+envo,"BERTSubs-style, path context, zero-shot",26,1.0
+envo,"BERTSubs-style, path context, zero-shot",27,1.0
+envo,"BERTSubs-style, path context, zero-shot",28,6.0
+envo,"BERTSubs-style, path context, zero-shot",29,1.0
+envo,"BERTSubs-style, path context, zero-shot",30,36.0
+envo,"BERTSubs-style, path context, zero-shot",31,20.0
+envo,"BERTSubs-style, path context, zero-shot",32,4.0
+envo,"BERTSubs-style, path context, zero-shot",33,3.0
+envo,"BERTSubs-style, path context, zero-shot",34,7.0
+envo,"BERTSubs-style, path context, zero-shot",35,1.0
+envo,"BERTSubs-style, path context, zero-shot",36,2.0
+envo,"BERTSubs-style, path context, zero-shot",37,3.0
+envo,"BERTSubs-style, path context, zero-shot",38,8.0
+envo,"BERTSubs-style, path context, zero-shot",39,2.0
+envo,"BERTSubs-style, path context, zero-shot",40,3.0
+envo,"BERTSubs-style, path context, zero-shot",41,4.0
+envo,"BERTSubs-style, path context, zero-shot",42,1.0
+envo,"BERTSubs-style, path context, zero-shot",43,3.0
+envo,"BERTSubs-style, path context, zero-shot",44,4.0
+envo,"BERTSubs-style, path context, zero-shot",45,43.0
+envo,"BERTSubs-style, path context, zero-shot",46,1.0
+envo,"BERTSubs-style, path context, zero-shot",47,5.0
+envo,"BERTSubs-style, path context, zero-shot",48,4.0
+envo,"BERTSubs-style, path context, zero-shot",49,9.0
+envo,"BERTSubs-style, path context, zero-shot",50,1.0
+envo,"BERTSubs-style, path context, zero-shot",51,3.0
+envo,"BERTSubs-style, path context, zero-shot",52,11.0
+envo,"BERTSubs-style, path context, zero-shot",53,8.0
+envo,"BERTSubs-style, path context, zero-shot",54,3.0
+envo,"BERTSubs-style, path context, zero-shot",55,4.0
+envo,"BERTSubs-style, path context, zero-shot",56,6.0
+envo,"BERTSubs-style, path context, zero-shot",57,19.0
+envo,"BERTSubs-style, path context, zero-shot",58,2.0
+envo,"BERTSubs-style, path context, zero-shot",59,4.0
+envo,"BERTSubs-style, path context, zero-shot",60,7.0
+envo,"BERTSubs-style, path context, zero-shot",61,12.0
+envo,"BERTSubs-style, path context, zero-shot",62,15.0
+envo,"BERTSubs-style, path context, zero-shot",63,16.0
+envo,"BERTSubs-style, path context, zero-shot",64,29.0
+envo,"BERTSubs-style, path context, zero-shot",65,18.0
+envo,"BERTSubs-style, path context, zero-shot",66,17.0
+envo,"BERTSubs-style, path context, zero-shot",67,3.0
+envo,"BERTSubs-style, path context, zero-shot",68,2.0
+envo,"BERTSubs-style, path context, zero-shot",69,1.0
+envo,"BERTSubs-style, path context, zero-shot",70,12.0
+envo,"BERTSubs-style, path context, zero-shot",71,2.0
+envo,"BERTSubs-style, path context, zero-shot",72,4.0
+envo,"BERTSubs-style, path context, zero-shot",73,5.0
+envo,"BERTSubs-style, path context, zero-shot",74,1.0
+envo,"BERTSubs-style, path context, zero-shot",75,89.0
+envo,"BERTSubs-style, path context, zero-shot",76,4.0
+envo,"BERTSubs-style, path context, zero-shot",77,4.0
+envo,"BERTSubs-style, path context, zero-shot",78,5.0
+envo,"BERTSubs-style, path context, zero-shot",79,3.0
+envo,"BERTSubs-style, path context, zero-shot",80,4.0
+envo,"BERTSubs-style, path context, zero-shot",81,4.0
+envo,"BERTSubs-style, path context, zero-shot",82,1.0
+envo,"BERTSubs-style, path context, zero-shot",83,2.0
+envo,"BERTSubs-style, path context, zero-shot",84,2.0
+envo,"BERTSubs-style, path context, zero-shot",85,6.0
+envo,"BERTSubs-style, path context, zero-shot",86,6.0
+envo,"BERTSubs-style, path context, zero-shot",87,16.0
+envo,"BERTSubs-style, path context, zero-shot",88,15.0
+envo,"BERTSubs-style, path context, zero-shot",89,3.0
+envo,"BERTSubs-style, path context, zero-shot",90,3.0
+envo,"BERTSubs-style, path context, zero-shot",91,3.0
+envo,"BERTSubs-style, path context, zero-shot",92,4.0
+envo,"BERTSubs-style, path context, zero-shot",93,3.0
+envo,"BERTSubs-style, path context, zero-shot",94,4.0
+envo,"BERTSubs-style, path context, zero-shot",95,57.0
+envo,"BERTSubs-style, path context, zero-shot",96,1.0
+envo,"BERTSubs-style, path context, zero-shot",97,2.0
+envo,"BERTSubs-style, path context, zero-shot",98,2.0
+envo,"BERTSubs-style, path context, zero-shot",99,61.0
+envo,"BERTSubs-style, path context, zero-shot",100,2.0
+envo,"BERTSubs-style, path context, zero-shot",101,1.0
+envo,"BERTSubs-style, path context, zero-shot",102,1.0
+envo,"BERTSubs-style, path context, zero-shot",103,8.0
+envo,"BERTSubs-style, path context, zero-shot",104,39.0
+envo,"BERTSubs-style, path context, zero-shot",105,1.0
+envo,"BERTSubs-style, path context, zero-shot",106,1.0
+envo,"BERTSubs-style, path context, zero-shot",107,11.0
+envo,"BERTSubs-style, path context, zero-shot",108,11.0
+envo,"BERTSubs-style, path context, zero-shot",109,1.0
+envo,"BERTSubs-style, path context, zero-shot",110,3.0
+envo,"BERTSubs-style, path context, zero-shot",111,17.0
+envo,"BERTSubs-style, path context, zero-shot",112,4.0
+envo,"BERTSubs-style, path context, zero-shot",113,9.0
+envo,"BERTSubs-style, path context, zero-shot",114,12.0
+envo,"BERTSubs-style, path context, zero-shot",115,1.0
+envo,"BERTSubs-style, path context, zero-shot",116,19.0
+envo,"BERTSubs-style, path context, zero-shot",117,1.0
+envo,"BERTSubs-style, path context, zero-shot",118,2.0
+envo,"BERTSubs-style, path context, zero-shot",119,1.0
+envo,"BERTSubs-style, path context, zero-shot",120,3.0
+envo,"BERTSubs-style, path context, zero-shot",121,2.0
+envo,"BERTSubs-style, path context, zero-shot",122,1.0
+envo,"BERTSubs-style, path context, zero-shot",123,11.0
+envo,"BERTSubs-style, path context, zero-shot",124,6.0
+envo,"BERTSubs-style, path context, zero-shot",125,21.0
+envo,"BERTSubs-style, path context, zero-shot",126,6.0
+envo,"BERTSubs-style, path context, zero-shot",127,15.0
+envo,"BERTSubs-style, path context, zero-shot",128,4.0
+envo,"BERTSubs-style, path context, zero-shot",129,2.0
+envo,"BERTSubs-style, path context, zero-shot",130,7.0
+envo,"BERTSubs-style, path context, zero-shot",131,4.0
+envo,"BERTSubs-style, path context, zero-shot",132,1.0
+envo,"BERTSubs-style, path context, zero-shot",133,1.0
+envo,"BERTSubs-style, path context, zero-shot",134,6.0
+envo,"BERTSubs-style, path context, zero-shot",135,2.0
+envo,"BERTSubs-style, path context, zero-shot",136,1.0
+envo,"BERTSubs-style, path context, zero-shot",137,1.0
+envo,"BERTSubs-style, path context, zero-shot",138,10.0
+envo,"BERTSubs-style, path context, zero-shot",139,46.0
+envo,"BERTSubs-style, path context, zero-shot",140,18.0
+envo,"BERTSubs-style, path context, zero-shot",141,1.0
+envo,"BERTSubs-style, path context, zero-shot",142,1.0
+envo,"BERTSubs-style, path context, zero-shot",143,1.0
+envo,"BERTSubs-style, path context, zero-shot",144,1.0
+envo,"BERTSubs-style, path context, zero-shot",145,10.0
+envo,"BERTSubs-style, path context, zero-shot",146,1.0
+envo,"BERTSubs-style, path context, zero-shot",147,2.0
+envo,"BERTSubs-style, path context, zero-shot",148,1.0
+envo,"BERTSubs-style, path context, zero-shot",149,1.0
+envo,"BERTSubs-style, path context, zero-shot",150,12.0
+envo,"BERTSubs-style, path context, zero-shot",151,3.0
+envo,"BERTSubs-style, path context, zero-shot",152,3.0
+envo,"BERTSubs-style, path context, zero-shot",153,1.0
+envo,"BERTSubs-style, path context, zero-shot",154,13.0
+envo,"BERTSubs-style, path context, zero-shot",155,5.0
+envo,"BERTSubs-style, path context, zero-shot",156,2.0
+envo,"BERTSubs-style, path context, zero-shot",157,46.0
+envo,"BERTSubs-style, path context, zero-shot",158,40.0
+envo,"BERTSubs-style, path context, zero-shot",159,3.0
+envo,"BERTSubs-style, path context, zero-shot",160,11.0
+envo,"BERTSubs-style, path context, zero-shot",161,4.0
+envo,"BERTSubs-style, path context, zero-shot",162,74.0
+envo,"BERTSubs-style, path context, zero-shot",163,2.0
+envo,"BERTSubs-style, path context, zero-shot",164,1.0
+envo,"BERTSubs-style, path context, zero-shot",165,2.0
+envo,"BERTSubs-style, path context, zero-shot",166,1.0
+envo,"BERTSubs-style, path context, zero-shot",167,19.0
+envo,"BERTSubs-style, path context, zero-shot",168,83.0
+envo,"BERTSubs-style, path context, zero-shot",169,6.0
+envo,"BERTSubs-style, path context, zero-shot",170,37.0
+envo,"BERTSubs-style, path context, zero-shot",171,9.0
+envo,"BERTSubs-style, path context, zero-shot",172,8.0
+envo,"BERTSubs-style, path context, zero-shot",173,1.0
+envo,"BERTSubs-style, path context, zero-shot",174,4.0
+envo,"BERTSubs-style, path context, zero-shot",175,2.0
+envo,"BERTSubs-style, path context, zero-shot",176,6.0
+envo,"BERTSubs-style, path context, zero-shot",177,12.0
+envo,"BERTSubs-style, path context, zero-shot",178,8.0
+envo,"BERTSubs-style, path context, zero-shot",179,4.0
+envo,"BERTSubs-style, path context, zero-shot",180,1.0
+envo,"BERTSubs-style, path context, zero-shot",181,12.0
+envo,"BERTSubs-style, path context, zero-shot",182,1.0
+envo,"BERTSubs-style, path context, zero-shot",183,10.0
+envo,"BERTSubs-style, path context, zero-shot",184,9.0
+envo,"BERTSubs-style, path context, zero-shot",185,3.0
+envo,"BERTSubs-style, path context, zero-shot",186,2.0
+envo,"BERTSubs-style, path context, zero-shot",187,3.0
+envo,"BERTSubs-style, path context, zero-shot",188,10.0
+envo,"BERTSubs-style, path context, zero-shot",189,1.0
+envo,"BERTSubs-style, path context, zero-shot",190,6.0
+envo,"BERTSubs-style, path context, zero-shot",191,13.0
+envo,"BERTSubs-style, path context, zero-shot",192,11.0
+envo,"BERTSubs-style, path context, zero-shot",193,9.0
+envo,"BERTSubs-style, path context, zero-shot",194,40.0
+envo,"BERTSubs-style, path context, zero-shot",195,71.0
+envo,"BERTSubs-style, path context, zero-shot",196,29.0
+envo,"BERTSubs-style, path context, zero-shot",197,1.0
+envo,"BERTSubs-style, path context, zero-shot",198,1.0
+envo,"BERTSubs-style, path context, zero-shot",199,1.0
+envo,"BERTSubs-style, path context, zero-shot",200,8.0
+envo,"BERTSubs-style, path context, zero-shot",201,48.0
+envo,"BERTSubs-style, path context, zero-shot",202,1.0
+envo,"BERTSubs-style, path context, zero-shot",203,2.0
+envo,"BERTSubs-style, path context, zero-shot",204,31.0
+envo,"BERTSubs-style, path context, zero-shot",205,7.0
+envo,"BERTSubs-style, path context, zero-shot",206,26.0
+envo,"BERTSubs-style, path context, zero-shot",207,2.0
+envo,"BERTSubs-style, path context, zero-shot",208,15.0
+envo,"BERTSubs-style, path context, zero-shot",209,16.0
+envo,"BERTSubs-style, path context, zero-shot",210,8.0
+envo,"BERTSubs-style, path context, zero-shot",211,1.0
+envo,"BERTSubs-style, path context, zero-shot",212,81.0
+envo,"BERTSubs-style, path context, zero-shot",213,6.0
+envo,"BERTSubs-style, path context, zero-shot",214,12.0
+envo,"BERTSubs-style, path context, zero-shot",215,2.0
+envo,"BERTSubs-style, path context, zero-shot",216,2.0
+envo,"BERTSubs-style, path context, zero-shot",217,12.0
+envo,"BERTSubs-style, path context, zero-shot",218,10.0
+envo,"BERTSubs-style, path context, zero-shot",219,8.0
+envo,"BERTSubs-style, path context, zero-shot",220,12.0
+envo,"BERTSubs-style, path context, zero-shot",221,3.0
+envo,"BERTSubs-style, path context, zero-shot",222,1.0
+envo,"BERTSubs-style, path context, zero-shot",223,3.0
+envo,"BERTSubs-style, path context, zero-shot",224,50.0
+envo,"BERTSubs-style, path context, zero-shot",225,7.0
+envo,"BERTSubs-style, path context, zero-shot",226,1.0
+envo,"BERTSubs-style, path context, zero-shot",227,7.0
+envo,"BERTSubs-style, path context, zero-shot",228,5.0
+envo,"BERTSubs-style, path context, zero-shot",229,2.0
+envo,"BERTSubs-style, path context, zero-shot",230,46.0
+envo,"BERTSubs-style, path context, zero-shot",231,37.0
+envo,"BERTSubs-style, path context, zero-shot",232,12.0
+envo,"BERTSubs-style, path context, zero-shot",233,2.0
+envo,"BERTSubs-style, path context, zero-shot",234,26.0
+envo,"BERTSubs-style, path context, zero-shot",235,7.0
+envo,"BERTSubs-style, path context, zero-shot",236,3.0
+envo,"BERTSubs-style, path context, zero-shot",237,5.0
+envo,"BERTSubs-style, path context, zero-shot",238,1.0
+envo,"BERTSubs-style, path context, zero-shot",239,19.0
+envo,"BERTSubs-style, path context, zero-shot",240,1.0
+envo,"BERTSubs-style, path context, zero-shot",241,3.0
+envo,"BERTSubs-style, path context, zero-shot",242,21.0
+envo,"BERTSubs-style, path context, zero-shot",243,24.0
+envo,"BERTSubs-style, path context, zero-shot",244,1.0
+envo,"BERTSubs-style, path context, zero-shot",245,5.0
+envo,"BERTSubs-style, path context, zero-shot",246,3.0
+envo,"BERTSubs-style, path context, zero-shot",247,6.0
+envo,"BERTSubs-style, path context, zero-shot",248,7.0
+envo,"BERTSubs-style, path context, zero-shot",249,6.0
+envo,"BERTSubs-style, path context, zero-shot",250,1.0
+envo,"BERTSubs-style, path context, zero-shot",251,1.0
+envo,"BERTSubs-style, path context, zero-shot",252,2.0
+envo,"BERTSubs-style, path context, zero-shot",253,1.0
+envo,"BERTSubs-style, path context, zero-shot",254,11.0
+envo,"BERTSubs-style, path context, zero-shot",255,13.0
+envo,"BERTSubs-style, path context, zero-shot",256,29.0
+envo,"BERTSubs-style, path context, zero-shot",257,9.0
+envo,"BERTSubs-style, path context, zero-shot",258,1.0
+envo,"BERTSubs-style, path context, zero-shot",259,1.0
+envo,"BERTSubs-style, path context, zero-shot",260,1.0
+envo,"BERTSubs-style, path context, zero-shot",261,4.0
+envo,"BERTSubs-style, path context, zero-shot",262,42.0
+envo,"BERTSubs-style, path context, zero-shot",263,2.0
+envo,"BERTSubs-style, path context, zero-shot",264,1.0
+envo,"BERTSubs-style, path context, zero-shot",265,79.0
+envo,"BERTSubs-style, path context, zero-shot",266,19.0
+envo,"BERTSubs-style, path context, zero-shot",267,1.0
+envo,"BERTSubs-style, path context, zero-shot",268,1.0
+envo,"BERTSubs-style, path context, zero-shot",269,1.0
+envo,"BERTSubs-style, path context, zero-shot",270,37.0
+envo,"BERTSubs-style, path context, zero-shot",271,2.0
+envo,"BERTSubs-style, path context, zero-shot",272,1.0
+envo,"BERTSubs-style, path context, zero-shot",273,2.0
+envo,"BERTSubs-style, path context, zero-shot",274,4.0
+envo,"BERTSubs-style, path context, zero-shot",275,2.0
+envo,"BERTSubs-style, path context, zero-shot",276,16.0
+envo,"BERTSubs-style, path context, zero-shot",277,1.0
+envo,"BERTSubs-style, path context, zero-shot",278,3.0
+envo,"BERTSubs-style, path context, zero-shot",279,13.0
+envo,"BERTSubs-style, path context, zero-shot",280,50.0
+envo,"BERTSubs-style, path context, zero-shot",281,1.0
+envo,"BERTSubs-style, path context, zero-shot",282,14.0
+envo,"BERTSubs-style, path context, zero-shot",283,1.0
+envo,"BERTSubs-style, path context, zero-shot",284,7.0
+envo,"BERTSubs-style, path context, zero-shot",285,1.0
+envo,"BERTSubs-style, path context, zero-shot",286,1.0
+envo,"BERTSubs-style, path context, zero-shot",287,6.0
+envo,"BERTSubs-style, path context, zero-shot",288,1.0
+envo,"BERTSubs-style, path context, zero-shot",289,25.0
+envo,"BERTSubs-style, path context, zero-shot",290,6.0
+envo,"BERTSubs-style, path context, zero-shot",291,56.0
+envo,"BERTSubs-style, path context, zero-shot",292,2.0
+envo,"BERTSubs-style, path context, zero-shot",293,13.0
+envo,"BERTSubs-style, path context, zero-shot",294,23.0
+envo,"BERTSubs-style, path context, zero-shot",295,2.0
+envo,"BERTSubs-style, path context, zero-shot",296,4.0
+envo,"BERTSubs-style, path context, zero-shot",297,62.0
+envo,"BERTSubs-style, path context, zero-shot",298,7.0
+envo,"BERTSubs-style, path context, zero-shot",299,2.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",0,4.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",1,2.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",2,2.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",3,1.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",4,7.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",5,8.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",6,1.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",7,1.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",8,2.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",9,1.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",10,61.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",11,1.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",12,1.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",13,19.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",14,5.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",15,1.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",16,3.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",17,15.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",18,37.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",19,71.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",20,28.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",21,1.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",22,1.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",23,16.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",24,7.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",25,1.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",26,1.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",27,1.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",28,4.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",29,1.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",30,32.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",31,7.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",32,1.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",33,1.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",34,1.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",35,1.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",36,1.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",37,1.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",38,3.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",39,2.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",40,2.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",41,2.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",42,1.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",43,2.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",44,2.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",45,37.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",46,1.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",47,1.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",48,2.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",49,4.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",50,1.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",51,2.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",52,5.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",53,8.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",54,2.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",55,2.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",56,2.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",57,12.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",58,1.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",59,2.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",60,5.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",61,14.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",62,9.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",63,4.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",64,11.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",65,7.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",66,8.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",67,2.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",68,3.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",69,1.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",70,3.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",71,2.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",72,1.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",73,1.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",74,1.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",75,62.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",76,2.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",77,3.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",78,1.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",79,1.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",80,1.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",81,2.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",82,1.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",83,1.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",84,1.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",85,1.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",86,1.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",87,15.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",88,4.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",89,1.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",90,1.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",91,1.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",92,2.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",93,3.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",94,1.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",95,36.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",96,1.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",97,2.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",98,2.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",99,18.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",100,1.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",101,1.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",102,1.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",103,3.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",104,23.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",105,1.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",106,1.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",107,4.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",108,4.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",109,1.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",110,1.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",111,8.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",112,4.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",113,2.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",114,7.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",115,1.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",116,9.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",117,1.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",118,1.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",119,1.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",120,3.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",121,1.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",122,1.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",123,4.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",124,4.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",125,6.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",126,5.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",127,19.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",128,1.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",129,1.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",130,2.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",131,2.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",132,1.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",133,1.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",134,3.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",135,2.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",136,1.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",137,1.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",138,4.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",139,11.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",140,13.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",141,1.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",142,1.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",143,1.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",144,1.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",145,3.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",146,1.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",147,1.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",148,1.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",149,1.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",150,12.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",151,1.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",152,3.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",153,1.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",154,5.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",155,3.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",156,1.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",157,33.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",158,17.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",159,2.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",160,9.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",161,1.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",162,47.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",163,1.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",164,1.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",165,1.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",166,1.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",167,11.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",168,83.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",169,3.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",170,11.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",171,2.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",172,3.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",173,1.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",174,2.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",175,1.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",176,3.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",177,6.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",178,2.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",179,2.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",180,1.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",181,4.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",182,1.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",183,4.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",184,7.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",185,3.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",186,2.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",187,3.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",188,4.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",189,1.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",190,4.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",191,9.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",192,5.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",193,7.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",194,39.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",195,31.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",196,22.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",197,1.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",198,1.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",199,1.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",200,5.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",201,9.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",202,2.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",203,1.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",204,22.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",205,3.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",206,7.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",207,1.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",208,10.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",209,16.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",210,3.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",211,1.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",212,78.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",213,4.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",214,8.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",215,3.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",216,1.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",217,3.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",218,1.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",219,2.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",220,10.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",221,1.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",222,1.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",223,1.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",224,39.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",225,2.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",226,1.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",227,2.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",228,1.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",229,2.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",230,22.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",231,25.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",232,6.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",233,2.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",234,9.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",235,3.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",236,1.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",237,2.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",238,1.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",239,8.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",240,1.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",241,1.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",242,4.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",243,16.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",244,3.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",245,1.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",246,2.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",247,2.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",248,4.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",249,4.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",250,1.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",251,1.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",252,1.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",253,1.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",254,6.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",255,10.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",256,4.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",257,5.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",258,1.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",259,1.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",260,1.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",261,1.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",262,13.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",263,1.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",264,1.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",265,45.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",266,6.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",267,1.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",268,1.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",269,2.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",270,19.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",271,2.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",272,1.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",273,1.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",274,1.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",275,1.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",276,17.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",277,1.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",278,2.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",279,7.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",280,34.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",281,1.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",282,10.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",283,1.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",284,4.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",285,1.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",286,1.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",287,2.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",288,1.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",289,16.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",290,5.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",291,38.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",292,1.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",293,3.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",294,13.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",295,3.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",296,1.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",297,45.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",298,3.0
+envo,"BERTSubs-style, path context, fine-tuned on this ontology (reference)",299,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),0,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),1,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),2,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),3,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),4,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),5,2.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),6,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),7,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),8,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),9,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),10,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),11,2.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),12,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),13,29.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),14,6.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),15,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),16,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),17,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),18,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),19,18.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),20,2.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),21,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),22,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),23,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),24,2.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),25,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),26,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),27,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),28,2.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),29,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),30,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),31,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),32,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),33,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),34,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),35,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),36,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),37,2.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),38,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),39,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),40,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),41,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),42,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),43,2.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),44,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),45,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),46,5.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),47,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),48,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),49,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),50,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),51,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),52,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),53,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),54,2.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),55,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),56,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),57,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),58,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),59,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),60,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),61,4.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),62,2.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),63,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),64,2.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),65,4.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),66,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),67,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),68,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),69,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),70,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),71,8.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),72,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),73,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),74,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),75,2.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),76,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),77,2.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),78,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),79,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),80,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),81,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),82,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),83,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),84,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),85,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),86,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),87,30.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),88,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),89,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),90,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),91,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),92,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),93,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),94,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),95,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),96,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),97,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),98,2.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),99,15.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),100,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),101,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),102,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),103,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),104,5.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),105,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),106,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),107,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),108,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),109,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),110,2.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),111,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),112,10.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),113,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),114,4.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),115,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),116,6.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),117,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),118,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),119,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),120,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),121,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),122,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),123,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),124,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),125,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),126,4.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),127,12.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),128,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),129,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),130,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),131,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),132,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),133,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),134,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),135,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),136,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),137,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),138,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),139,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),140,2.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),141,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),142,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),143,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),144,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),145,3.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),146,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),147,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),148,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),149,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),150,2.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),151,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),152,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),153,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),154,3.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),155,7.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),156,2.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),157,6.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),158,4.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),159,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),160,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),161,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),162,8.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),163,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),164,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),165,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),166,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),167,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),168,2.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),169,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),170,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),171,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),172,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),173,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),174,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),175,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),176,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),177,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),178,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),179,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),180,2.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),181,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),182,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),183,4.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),184,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),185,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),186,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),187,2.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),188,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),189,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),190,3.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),191,2.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),192,7.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),193,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),194,11.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),195,2.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),196,25.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),197,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),198,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),199,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),200,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),201,2.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),202,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),203,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),204,3.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),205,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),206,3.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),207,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),208,5.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),209,7.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),210,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),211,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),212,11.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),213,5.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),214,2.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),215,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),216,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),217,2.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),218,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),219,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),220,3.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),221,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),222,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),223,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),224,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),225,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),226,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),227,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),228,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),229,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),230,3.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),231,4.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),232,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),233,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),234,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),235,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),236,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),237,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),238,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),239,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),240,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),241,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),242,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),243,2.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),244,2.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),245,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),246,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),247,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),248,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),249,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),250,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),251,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),252,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),253,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),254,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),255,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),256,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),257,10.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),258,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),259,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),260,3.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),261,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),262,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),263,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),264,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),265,8.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),266,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),267,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),268,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),269,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),270,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),271,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),272,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),273,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),274,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),275,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),276,3.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),277,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),278,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),279,31.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),280,11.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),281,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),282,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),283,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),284,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),285,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),286,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),287,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),288,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),289,4.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),290,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),291,2.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),292,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),293,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),294,2.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),295,2.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),296,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),297,56.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),298,1.0
+envo,GNN + BERTSubs zero-shot (summed standardised scores),299,1.0

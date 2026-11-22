@@ -1,0 +1,5 @@
+cutoff,ontology,task,i,model,rank,kind,h,entailed
+2019-07-01,mpath,B,0,names only,668.0,new,1y,
+2019-07-01,mpath,B,0,name vote,669.0,new,1y,
+2019-07-01,mpath,B,0,structural vote,92.0,new,1y,
+2019-07-01,mpath,B,0,hybrid,669.0,new,1y,

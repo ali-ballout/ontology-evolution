@@ -1,0 +1,396 @@
+queries without an answerable parent (left out): 413 of 20228, all new classes: True
+
+== M1-M3 levels (ontology means)
+    cutoff             view      model  n_ont  n_q  hit5  hit10  hit20  effort  unsafe  cycle  unsat
+2019-07-01        new class  GBR_del_c     27 4824 0.626  0.730  0.807   7.188   0.000  0.000  0.000
+2019-07-01        new class      GNN_R     27 4824 0.631  0.748  0.829   6.975   0.000  0.000  0.000
+2019-07-01        new class     hybrid     27 4824 0.549  0.664  0.777   8.263   0.000  0.000  0.000
+2019-07-01        new class names only     27 4824 0.480  0.538  0.600  10.637   0.000  0.000  0.000
+2019-07-01 re-parenting all  GBR_del_c     23 2540 0.304  0.405  0.535  13.159   0.087  0.048  0.041
+2019-07-01 re-parenting all      GNN_R     23 2540 0.318  0.432  0.570  12.743   0.047  0.010  0.038
+2019-07-01 re-parenting all         R0     23 2540 0.293  0.451  0.604  12.539   0.055  0.036  0.021
+2019-07-01 re-parenting all     hybrid     23 2540 0.301  0.412  0.528  13.141   0.094  0.056  0.041
+2019-07-01 re-parenting all names only     23 2540 0.222  0.311  0.399  15.261   0.108  0.076  0.035
+2019-07-01         entailed  GBR_del_c     13  753 0.172  0.399  0.640  13.244   0.088  0.061  0.032
+2019-07-01         entailed      GNN_R     13  753 0.332  0.523  0.719  11.193   0.040  0.009  0.033
+2019-07-01         entailed         R0     13  753 0.965  0.997  1.000   2.126   0.042  0.033  0.016
+2019-07-01         entailed     hybrid     13  753 0.406  0.488  0.617  11.422   0.093  0.062  0.037
+2019-07-01         entailed names only     13  753 0.122  0.207  0.291  17.026   0.125  0.094  0.038
+2019-07-01     not entailed  GBR_del_c     23 1787 0.323  0.406  0.519  13.126   0.084  0.045  0.040
+2019-07-01     not entailed      GNN_R     23 1787 0.305  0.402  0.525  13.296   0.048  0.010  0.038
+2019-07-01     not entailed         R0     23 1787 0.118  0.295  0.485  15.499   0.053  0.034  0.020
+2019-07-01     not entailed     hybrid     23 1787 0.272  0.387  0.509  13.603   0.090  0.052  0.038
+2019-07-01     not entailed names only     23 1787 0.227  0.322  0.413  15.074   0.102  0.071  0.032
+2019-07-01            moved  GBR_del_c     18 1707 0.264  0.381  0.522  13.652   0.113  0.054  0.062
+2019-07-01            moved      GNN_R     18 1707 0.302  0.427  0.578  12.849   0.071  0.013  0.059
+2019-07-01            moved         R0     18 1707 0.373  0.514  0.657  11.185   0.066  0.037  0.034
+2019-07-01            moved     hybrid     18 1707 0.343  0.440  0.552  12.577   0.116  0.059  0.062
+2019-07-01            moved names only     18 1707 0.231  0.320  0.399  15.073   0.131  0.083  0.053
+2019-07-01            added  GBR_del_c     19  833 0.286  0.396  0.526  13.333   0.054  0.045  0.010
+2019-07-01            added      GNN_R     19  833 0.314  0.421  0.531  13.086   0.016  0.007  0.008
+2019-07-01            added         R0     19  833 0.195  0.336  0.499  14.683   0.033  0.030  0.002
+2019-07-01            added     hybrid     19  833 0.241  0.329  0.466  14.539   0.059  0.049  0.010
+2019-07-01            added names only     19  833 0.146  0.228  0.308  16.769   0.078  0.067  0.011
+2021-07-01        new class  GBR_del_c     28 4689 0.628  0.727  0.799   7.275   0.000  0.000  0.000
+2021-07-01        new class      GNN_R     28 4689 0.623  0.727  0.811   7.256   0.000  0.000  0.000
+2021-07-01        new class     hybrid     28 4689 0.544  0.664  0.762   8.410   0.000  0.000  0.000
+2021-07-01        new class names only     28 4689 0.454  0.517  0.588  11.046   0.000  0.000  0.000
+2021-07-01 re-parenting all  GBR_del_c     20 2428 0.281  0.374  0.525  13.604   0.079  0.041  0.040
+2021-07-01 re-parenting all      GNN_R     20 2428 0.318  0.441  0.564  12.644   0.045  0.006  0.039
+2021-07-01 re-parenting all         L0     20 2428 0.354  0.482  0.623  11.755   0.058  0.030  0.029
+2021-07-01 re-parenting all         R0     20 2428 0.348  0.454  0.602  12.108   0.042  0.024  0.020
+2021-07-01 re-parenting all     hybrid     20 2428 0.302  0.391  0.503  13.464   0.090  0.046  0.047
+2021-07-01 re-parenting all names only     20 2428 0.166  0.254  0.348  16.295   0.106  0.066  0.043
+2021-07-01         entailed  GBR_del_c     13  895 0.206  0.369  0.557  13.945   0.124  0.055  0.072
+2021-07-01         entailed      GNN_R     13  895 0.357  0.512  0.684  11.353   0.080  0.006  0.076
+2021-07-01         entailed         L0     13  895 0.441  0.636  0.823   9.096   0.091  0.038  0.055
+2021-07-01         entailed         R0     13  895 0.867  0.949  0.972   2.888   0.059  0.029  0.036
+2021-07-01         entailed     hybrid     13  895 0.398  0.472  0.572  11.941   0.137  0.063  0.081
+2021-07-01         entailed names only     13  895 0.122  0.203  0.307  17.081   0.156  0.087  0.076
+2021-07-01     not entailed  GBR_del_c     16 1533 0.300  0.375  0.501  13.645   0.076  0.036  0.041
+2021-07-01     not entailed      GNN_R     16 1533 0.316  0.403  0.510  13.280   0.047  0.005  0.042
+2021-07-01     not entailed         L0     16 1533 0.299  0.402  0.524  13.225   0.056  0.027  0.030
+2021-07-01     not entailed         R0     16 1533 0.091  0.223  0.426  16.431   0.038  0.023  0.016
+2021-07-01     not entailed     hybrid     16 1533 0.258  0.363  0.468  14.175   0.085  0.041  0.045
+2021-07-01     not entailed names only     16 1533 0.210  0.286  0.341  15.759   0.104  0.061  0.044
+2021-07-01            moved  GBR_del_c     17 1543 0.267  0.363  0.511  13.946   0.097  0.043  0.057
+2021-07-01            moved      GNN_R     17 1543 0.308  0.443  0.553  12.776   0.063  0.006  0.059
+2021-07-01            moved         L0     17 1543 0.354  0.495  0.629  11.632   0.070  0.033  0.040
+2021-07-01            moved         R0     17 1543 0.400  0.499  0.629  11.276   0.057  0.029  0.032
+2021-07-01            moved     hybrid     17 1543 0.325  0.410  0.521  13.095   0.114  0.051  0.067
+2021-07-01            moved names only     17 1543 0.191  0.275  0.354  15.895   0.129  0.070  0.063
+2021-07-01            added  GBR_del_c     14  885 0.316  0.435  0.544  12.726   0.085  0.039  0.047
+2021-07-01            added      GNN_R     14  885 0.364  0.430  0.568  12.401   0.045  0.003  0.042
+2021-07-01            added         L0     14  885 0.368  0.447  0.609  12.046   0.061  0.025  0.037
+2021-07-01            added         R0     14  885 0.218  0.360  0.554  13.787   0.031  0.017  0.014
+2021-07-01            added     hybrid     14  885 0.268  0.375  0.476  14.054   0.088  0.040  0.048
+2021-07-01            added names only     14  885 0.145  0.249  0.319  16.534   0.103  0.059  0.045
+2023-07-01        new class  GBR_del_c     23 3207 0.615  0.699  0.775   7.754   0.000  0.000  0.000
+2023-07-01        new class      GNN_R     23 3207 0.610  0.709  0.785   7.582   0.000  0.000  0.000
+2023-07-01        new class     hybrid     23 3207 0.524  0.644  0.742   8.839   0.000  0.000  0.000
+2023-07-01        new class names only     23 3207 0.399  0.475  0.563  11.816   0.000  0.000  0.000
+2023-07-01 re-parenting all  GBR_del_c     15 2127 0.256  0.360  0.524  13.944   0.080  0.033  0.048
+2023-07-01 re-parenting all      GNN_R     15 2127 0.324  0.448  0.530  12.873   0.048  0.003  0.045
+2023-07-01 re-parenting all         L0     15 2127 0.329  0.476  0.610  12.103   0.066  0.028  0.040
+2023-07-01 re-parenting all         R0     15 2127 0.353  0.455  0.596  11.968   0.041  0.023  0.021
+2023-07-01 re-parenting all     hybrid     15 2127 0.258  0.387  0.489  13.801   0.103  0.040  0.067
+2023-07-01 re-parenting all names only     15 2127 0.163  0.243  0.322  16.525   0.130  0.063  0.071
+2023-07-01         entailed  GBR_del_c     10  857 0.200  0.398  0.556  13.963   0.167  0.052  0.119
+2023-07-01         entailed      GNN_R     10  857 0.372  0.544  0.662  11.072   0.125  0.005  0.121
+2023-07-01         entailed         L0     10  857 0.423  0.679  0.833   8.838   0.141  0.044  0.101
+2023-07-01         entailed         R0     10  857 0.962  0.995  1.000   1.711   0.090  0.039  0.058
+2023-07-01         entailed     hybrid     10  857 0.404  0.506  0.600  11.427   0.213  0.062  0.161
+2023-07-01         entailed names only     10  857 0.084  0.139  0.222  18.285   0.254  0.100  0.165
+2023-07-01     not entailed  GBR_del_c     15 1270 0.269  0.339  0.493  14.181   0.071  0.028  0.044
+2023-07-01     not entailed      GNN_R     15 1270 0.293  0.410  0.481  13.588   0.042  0.003  0.039
+2023-07-01     not entailed         L0     15 1270 0.282  0.390  0.516  13.503   0.057  0.023  0.035
+2023-07-01     not entailed         R0     15 1270 0.102  0.222  0.413  16.383   0.032  0.017  0.016
+2023-07-01     not entailed     hybrid     15 1270 0.196  0.336  0.437  14.851   0.088  0.032  0.056
+2023-07-01     not entailed names only     15 1270 0.182  0.269  0.323  16.144   0.112  0.053  0.060
+2023-07-01            moved  GBR_del_c     13 1424 0.222  0.326  0.480  14.697   0.116  0.044  0.074
+2023-07-01            moved      GNN_R     13 1424 0.311  0.452  0.547  12.839   0.079  0.005  0.074
+2023-07-01            moved         L0     13 1424 0.320  0.476  0.631  12.075   0.094  0.037  0.059
+2023-07-01            moved         R0     13 1424 0.446  0.535  0.656  10.398   0.066  0.034  0.037
+2023-07-01            moved     hybrid     13 1424 0.287  0.420  0.508  13.313   0.144  0.055  0.095
+2023-07-01            moved names only     13 1424 0.181  0.246  0.312  16.364   0.173  0.082  0.097
+2023-07-01            added  GBR_del_c     12  703 0.301  0.416  0.582  12.818   0.063  0.021  0.042
+2023-07-01            added      GNN_R     12  703 0.325  0.446  0.527  12.862   0.044  0.002  0.042
+2023-07-01            added         L0     12  703 0.346  0.487  0.610  11.746   0.053  0.018  0.035
+2023-07-01            added         R0     12  703 0.216  0.365  0.517  13.970   0.023  0.008  0.015
+2023-07-01            added     hybrid     12  703 0.237  0.351  0.461  14.346   0.089  0.022  0.067
+2023-07-01            added names only     12  703 0.132  0.226  0.298  16.870   0.114  0.042  0.072
+
+== H7: tuned ranker vs names only, new classes, recall@10; unsafe share of the ranker's top 10
+  2019 new class         hit10  ranker vs names only: 0.730 vs 0.538, wins 25/27, diff +0.192 [+0.133, +0.253]; cluster (19) +0.135..+0.278; block +0.136 (13), indep +0.243 (14)
+     criterion 1 (>= +0.10, CI > 0): True; criterion 2 (unsafe 0.000 <= 0.05): True
+  2021 new class         hit10  ranker vs names only: 0.727 vs 0.517, wins 26/28, diff +0.210 [+0.147, +0.276]; cluster (19) +0.151..+0.303; block +0.165 (13), indep +0.249 (15)
+     criterion 1 (>= +0.10, CI > 0): True; criterion 2 (unsafe 0.000 <= 0.05): True
+  2023 new class         hit10  ranker vs names only: 0.699 vs 0.475, wins 21/23, diff +0.224 [+0.153, +0.302]; cluster (15) +0.156..+0.354; block +0.172 (11), indep +0.272 (12)
+     criterion 1 (>= +0.10, CI > 0): True; criterion 2 (unsafe 0.000 <= 0.05): True
+  H7: both criteria at 3/3 cutoffs -> SUPPORTED
+
+== Comparisons (recall@10, effort, unsafe; unsafe = cycle or unsat)
+  2019 new class         hit10  GBR_del_c vs hybrid: 0.730 vs 0.664, wins 22/27, diff +0.066 [+0.045, +0.090]; cluster (19) +0.035..+0.085; block +0.093 (13), indep +0.041 (14)
+  2019 new class         effort GBR_del_c vs hybrid: 7.188 vs 8.263, wins 0/27, diff -1.075 [-1.370, -0.806]; cluster (19) -1.346..-0.634; block -1.413 (13), indep -0.762 (14)
+  2019 new class         hit10  GBR_del_c vs GNN_R: 0.730 vs 0.748, wins 12/27, diff -0.018 [-0.043, +0.005]; cluster (19) -0.043..-0.004; block -0.031 (13), indep -0.006 (14)
+  2019 new class         effort GBR_del_c vs GNN_R: 7.188 vs 6.975, wins 14/27, diff +0.213 [-0.190, +0.664]; cluster (19) -0.038..+0.585; block +0.493 (13), indep -0.046 (14)
+  2019 new class         hit10  GBR_del_c vs names only: 0.730 vs 0.538, wins 25/27, diff +0.192 [+0.133, +0.253]; cluster (19) +0.135..+0.278; block +0.136 (13), indep +0.243 (14)
+  2019 new class         effort GBR_del_c vs names only: 7.188 vs 10.637, wins 2/27, diff -3.449 [-4.623, -2.333]; cluster (19) -5.100..-2.380; block -2.394 (13), indep -4.428 (14)
+  2019 re-parenting all  hit10  GBR_del_c vs hybrid: 0.405 vs 0.412, wins 9/23, diff -0.008 [-0.035, +0.022]; cluster (15) -0.032..+0.029; block -0.014 (11), indep -0.002 (12)
+  2019 re-parenting all  effort GBR_del_c vs hybrid: 13.159 vs 13.141, wins 11/23, diff +0.018 [-0.373, +0.412]; cluster (15) -0.550..+0.284; block +0.262 (11), indep -0.206 (12)
+  2019 re-parenting all  unsafe GBR_del_c vs hybrid: 0.087 vs 0.094, wins 5/23, diff -0.008 [-0.016, +0.001]; cluster (15) -0.020..-0.002; block +0.001 (11), indep -0.015 (12)
+  2019 re-parenting all  hit10  GBR_del_c vs GNN_R: 0.405 vs 0.432, wins 7/23, diff -0.027 [-0.070, +0.024]; cluster (15) -0.065..+0.050; block -0.082 (11), indep +0.024 (12)
+  2019 re-parenting all  effort GBR_del_c vs GNN_R: 13.159 vs 12.743, wins 14/23, diff +0.416 [-0.339, +1.136]; cluster (15) -0.756..+1.016; block +1.257 (11), indep -0.354 (12)
+  2019 re-parenting all  unsafe GBR_del_c vs GNN_R: 0.087 vs 0.047, wins 22/23, diff +0.039 [+0.027, +0.052]; cluster (15) +0.021..+0.049; block +0.045 (11), indep +0.033 (12)
+  2019 re-parenting all  hit10  GBR_del_c vs names only: 0.405 vs 0.311, wins 17/23, diff +0.094 [+0.028, +0.160]; cluster (15) +0.040..+0.172; block +0.082 (11), indep +0.105 (12)
+  2019 re-parenting all  effort GBR_del_c vs names only: 13.159 vs 15.261, wins 4/23, diff -2.102 [-3.314, -0.905]; cluster (15) -3.541..-1.193; block -1.786 (11), indep -2.392 (12)
+  2019 re-parenting all  unsafe GBR_del_c vs names only: 0.087 vs 0.108, wins 1/23, diff -0.021 [-0.036, -0.002]; cluster (15) -0.033..-0.015; block -0.015 (11), indep -0.026 (12)
+  2019 re-parenting all  hit10  GBR_del_c vs R0: 0.405 vs 0.451, wins 7/23, diff -0.046 [-0.120, +0.018]; cluster (15) -0.111..+0.066; block -0.140 (11), indep +0.040 (12)
+  2019 re-parenting all  effort GBR_del_c vs R0: 13.159 vs 12.539, wins 12/23, diff +0.620 [-0.646, +2.080]; cluster (15) -1.523..+1.906; block +2.540 (11), indep -1.140 (12)
+  2019 re-parenting all  unsafe GBR_del_c vs R0: 0.087 vs 0.055, wins 15/23, diff +0.031 [+0.011, +0.058]; cluster (15) +0.002..+0.050; block +0.060 (11), indep +0.005 (12)
+  2019 entailed          hit10  GBR_del_c vs hybrid: 0.399 vs 0.488, wins 2/13, diff -0.089 [-0.155, -0.029]; block -0.086 (8), indep -0.093 (5)
+  2019 entailed          effort GBR_del_c vs hybrid: 13.244 vs 11.422, wins 11/13, diff +1.822 [+0.813, +2.949]; block +1.789 (8), indep +1.875 (5)
+  2019 entailed          unsafe GBR_del_c vs hybrid: 0.088 vs 0.093, wins 3/13, diff -0.005 [-0.018, +0.008]; block -0.008 (8), indep +0.001 (5)
+  2019 entailed          hit10  GBR_del_c vs GNN_R: 0.399 vs 0.523, wins 2/13, diff -0.124 [-0.203, -0.044]; block -0.150 (8), indep -0.082 (5)
+  2019 entailed          effort GBR_del_c vs GNN_R: 13.244 vs 11.193, wins 10/13, diff +2.051 [+0.271, +3.771]; block +2.790 (8), indep +0.868 (5)
+  2019 entailed          unsafe GBR_del_c vs GNN_R: 0.088 vs 0.040, wins 11/13, diff +0.049 [+0.027, +0.070]; block +0.054 (8), indep +0.041 (5)
+  2019 entailed          hit10  GBR_del_c vs names only: 0.399 vs 0.207, wins 11/13, diff +0.192 [+0.111, +0.279]; block +0.165 (8), indep +0.235 (5)
+  2019 entailed          effort GBR_del_c vs names only: 13.244 vs 17.026, wins 0/13, diff -3.781 [-5.409, -2.281]; block -2.758 (8), indep -5.419 (5)
+  2019 entailed          unsafe GBR_del_c vs names only: 0.088 vs 0.125, wins 0/13, diff -0.036 [-0.051, -0.023]; block -0.046 (8), indep -0.021 (5)
+  2019 entailed          hit10  GBR_del_c vs R0: 0.399 vs 0.997, wins 0/13, diff -0.598 [-0.698, -0.497]; block -0.662 (8), indep -0.496 (5)
+  2019 entailed          effort GBR_del_c vs R0: 13.244 vs 2.126, wins 13/13, diff +11.118 [+9.554, +12.805]; block +12.853 (8), indep +8.342 (5)
+  2019 entailed          unsafe GBR_del_c vs R0: 0.088 vs 0.042, wins 11/13, diff +0.046 [+0.020, +0.077]; block +0.061 (8), indep +0.023 (5)
+  2019 not entailed      hit10  GBR_del_c vs hybrid: 0.406 vs 0.387, wins 13/23, diff +0.019 [-0.014, +0.053]; cluster (15) -0.026..+0.046; block +0.034 (11), indep +0.005 (12)
+  2019 not entailed      effort GBR_del_c vs hybrid: 13.126 vs 13.603, wins 8/23, diff -0.476 [-0.927, -0.059]; cluster (15) -0.739..-0.028; block -0.630 (11), indep -0.336 (12)
+  2019 not entailed      unsafe GBR_del_c vs hybrid: 0.084 vs 0.090, wins 7/23, diff -0.006 [-0.013, +0.002]; cluster (15) -0.019..+0.001; block +0.005 (11), indep -0.015 (12)
+  2019 not entailed      hit10  GBR_del_c vs GNN_R: 0.406 vs 0.402, wins 9/23, diff +0.003 [-0.034, +0.049]; cluster (15) -0.036..+0.056; block -0.024 (11), indep +0.028 (12)
+  2019 not entailed      effort GBR_del_c vs GNN_R: 13.126 vs 13.296, wins 11/23, diff -0.169 [-0.760, +0.343]; cluster (15) -0.845..+0.478; block +0.122 (11), indep -0.436 (12)
+  2019 not entailed      unsafe GBR_del_c vs GNN_R: 0.084 vs 0.048, wins 22/23, diff +0.036 [+0.026, +0.047]; cluster (15) +0.022..+0.046; block +0.039 (11), indep +0.034 (12)
+  2019 not entailed      hit10  GBR_del_c vs names only: 0.406 vs 0.322, wins 17/23, diff +0.084 [+0.015, +0.152]; cluster (15) +0.028..+0.165; block +0.072 (11), indep +0.094 (12)
+  2019 not entailed      effort GBR_del_c vs names only: 13.126 vs 15.074, wins 4/23, diff -1.948 [-3.177, -0.689]; cluster (15) -3.371..-0.999; block -1.725 (11), indep -2.152 (12)
+  2019 not entailed      unsafe GBR_del_c vs names only: 0.084 vs 0.102, wins 3/23, diff -0.018 [-0.032, +0.002]; cluster (15) -0.033..-0.010; block -0.008 (11), indep -0.027 (12)
+  2019 not entailed      hit10  GBR_del_c vs R0: 0.406 vs 0.295, wins 19/23, diff +0.111 [+0.076, +0.148]; cluster (15) +0.061..+0.139; block +0.135 (11), indep +0.089 (12)
+  2019 not entailed      effort GBR_del_c vs R0: 13.126 vs 15.499, wins 0/23, diff -2.373 [-3.034, -1.805]; cluster (15) -2.791..-1.619; block -2.750 (11), indep -2.027 (12)
+  2019 not entailed      unsafe GBR_del_c vs R0: 0.084 vs 0.053, wins 14/23, diff +0.031 [+0.010, +0.059]; cluster (15) +0.001..+0.050; block +0.059 (11), indep +0.005 (12)
+  2021 new class         hit10  GBR_del_c vs hybrid: 0.727 vs 0.664, wins 23/28, diff +0.063 [+0.039, +0.090]; cluster (19) +0.025..+0.085; block +0.078 (13), indep +0.050 (15)
+  2021 new class         effort GBR_del_c vs hybrid: 7.275 vs 8.410, wins 1/28, diff -1.135 [-1.439, -0.863]; cluster (19) -1.378..-0.679; block -1.502 (13), indep -0.818 (15)
+  2021 new class         hit10  GBR_del_c vs GNN_R: 0.727 vs 0.727, wins 11/28, diff -0.000 [-0.022, +0.017]; cluster (19) -0.033..+0.017; block -0.007 (13), indep +0.005 (15)
+  2021 new class         effort GBR_del_c vs GNN_R: 7.275 vs 7.256, wins 18/28, diff +0.019 [-0.260, +0.311]; cluster (19) -0.234..+0.424; block +0.130 (13), indep -0.078 (15)
+  2021 new class         hit10  GBR_del_c vs names only: 0.727 vs 0.517, wins 26/28, diff +0.210 [+0.147, +0.276]; cluster (19) +0.151..+0.303; block +0.165 (13), indep +0.249 (15)
+  2021 new class         effort GBR_del_c vs names only: 7.275 vs 11.046, wins 3/28, diff -3.772 [-5.042, -2.591]; cluster (19) -5.697..-2.659; block -2.992 (13), indep -4.447 (15)
+  2021 re-parenting all  hit10  GBR_del_c vs hybrid: 0.374 vs 0.391, wins 6/20, diff -0.017 [-0.045, +0.011]; cluster (11) -0.064..+0.004; block -0.008 (13), indep -0.033 (7)
+  2021 re-parenting all  effort GBR_del_c vs hybrid: 13.604 vs 13.464, wins 10/20, diff +0.141 [-0.324, +0.617]; cluster (11) -0.358..+0.791; block +0.092 (13), indep +0.232 (7)
+  2021 re-parenting all  unsafe GBR_del_c vs hybrid: 0.079 vs 0.090, wins 5/20, diff -0.012 [-0.018, -0.006]; cluster (11) -0.019..-0.008; block -0.012 (13), indep -0.011 (7)
+  2021 re-parenting all  hit10  GBR_del_c vs GNN_R: 0.374 vs 0.441, wins 7/20, diff -0.067 [-0.137, -0.010]; cluster (11) -0.132..-0.008; block -0.070 (13), indep -0.061 (7)
+  2021 re-parenting all  effort GBR_del_c vs GNN_R: 13.604 vs 12.644, wins 12/20, diff +0.961 [+0.014, +2.120]; cluster (11) -0.207..+1.720; block +1.171 (13), indep +0.571 (7)
+  2021 re-parenting all  unsafe GBR_del_c vs GNN_R: 0.079 vs 0.045, wins 18/20, diff +0.034 [+0.024, +0.043]; cluster (11) +0.020..+0.043; block +0.031 (13), indep +0.039 (7)
+  2021 re-parenting all  hit10  GBR_del_c vs names only: 0.374 vs 0.254, wins 16/20, diff +0.121 [+0.060, +0.182]; cluster (11) +0.028..+0.187; block +0.130 (13), indep +0.103 (7)
+  2021 re-parenting all  effort GBR_del_c vs names only: 13.604 vs 16.295, wins 3/20, diff -2.691 [-3.827, -1.555]; cluster (11) -4.186..-1.166; block -2.690 (13), indep -2.692 (7)
+  2021 re-parenting all  unsafe GBR_del_c vs names only: 0.079 vs 0.106, wins 0/20, diff -0.027 [-0.036, -0.019]; cluster (11) -0.032..-0.014; block -0.030 (13), indep -0.022 (7)
+  2021 re-parenting all  hit10  GBR_del_c vs R0: 0.374 vs 0.454, wins 6/20, diff -0.080 [-0.163, -0.003]; cluster (11) -0.115..+0.007; block -0.120 (13), indep -0.005 (7)
+  2021 re-parenting all  effort GBR_del_c vs R0: 13.604 vs 12.108, wins 11/20, diff +1.496 [+0.101, +3.034]; cluster (11) -0.716..+2.416; block +2.573 (13), indep -0.504 (7)
+  2021 re-parenting all  unsafe GBR_del_c vs R0: 0.079 vs 0.042, wins 16/20, diff +0.037 [+0.019, +0.057]; cluster (11) +0.008..+0.049; block +0.049 (13), indep +0.014 (7)
+  2021 re-parenting all  hit10  L0 vs GBR_del_c: 0.482 vs 0.374, wins 18/20, diff +0.108 [+0.072, +0.151]; cluster (11) +0.084..+0.137; block +0.111 (13), indep +0.101 (7)
+  2021 re-parenting all  effort L0 vs GBR_del_c: 11.755 vs 13.604, wins 3/20, diff -1.850 [-2.628, -1.219]; cluster (11) -2.219..-1.020; block -2.207 (13), indep -1.187 (7)
+  2021 re-parenting all  unsafe L0 vs GBR_del_c: 0.058 vs 0.079, wins 0/20, diff -0.021 [-0.029, -0.014]; cluster (11) -0.025..-0.011; block -0.026 (13), indep -0.011 (7)
+  2021 re-parenting all  hit10  L0 vs R0: 0.482 vs 0.454, wins 12/20, diff +0.028 [-0.041, +0.089]; cluster (11) -0.006..+0.108; block -0.009 (13), indep +0.095 (7)
+  2021 re-parenting all  effort L0 vs R0: 11.755 vs 12.108, wins 8/20, diff -0.353 [-1.274, +0.651]; cluster (11) -1.879..+0.292; block +0.367 (13), indep -1.690 (7)
+  2021 re-parenting all  unsafe L0 vs R0: 0.058 vs 0.042, wins 11/20, diff +0.016 [+0.002, +0.030]; cluster (11) -0.005..+0.025; block +0.023 (13), indep +0.003 (7)
+  2021 entailed          hit10  GBR_del_c vs hybrid: 0.369 vs 0.472, wins 2/13, diff -0.103 [-0.192, -0.029]; block -0.079 (11), indep -0.235 (2)
+  2021 entailed          effort GBR_del_c vs hybrid: 13.945 vs 11.941, wins 10/13, diff +2.004 [+0.846, +3.440]; block +1.645 (11), indep +3.982 (2)
+  2021 entailed          unsafe GBR_del_c vs hybrid: 0.124 vs 0.137, wins 3/13, diff -0.013 [-0.028, +0.001]; block -0.015 (11), indep +0.000 (2)
+  2021 entailed          hit10  GBR_del_c vs GNN_R: 0.369 vs 0.512, wins 3/13, diff -0.142 [-0.264, -0.034]; block -0.111 (11), indep -0.315 (2)
+  2021 entailed          effort GBR_del_c vs GNN_R: 13.945 vs 11.353, wins 10/13, diff +2.592 [+0.808, +4.579]; block +2.025 (11), indep +5.715 (2)
+  2021 entailed          unsafe GBR_del_c vs GNN_R: 0.124 vs 0.080, wins 11/13, diff +0.043 [+0.023, +0.064]; block +0.043 (11), indep +0.044 (2)
+  2021 entailed          hit10  GBR_del_c vs names only: 0.369 vs 0.203, wins 10/13, diff +0.166 [+0.084, +0.241]; block +0.169 (11), indep +0.147 (2)
+  2021 entailed          effort GBR_del_c vs names only: 13.945 vs 17.081, wins 1/13, diff -3.136 [-4.327, -1.837]; block -3.018 (11), indep -3.782 (2)
+  2021 entailed          unsafe GBR_del_c vs names only: 0.124 vs 0.156, wins 1/13, diff -0.032 [-0.050, -0.016]; block -0.038 (11), indep -0.003 (2)
+  2021 entailed          hit10  GBR_del_c vs R0: 0.369 vs 0.949, wins 0/13, diff -0.579 [-0.694, -0.465]; block -0.584 (11), indep -0.553 (2)
+  2021 entailed          effort GBR_del_c vs R0: 13.945 vs 2.888, wins 13/13, diff +11.057 [+9.116, +12.959]; block +11.167 (11), indep +10.450 (2)
+  2021 entailed          unsafe GBR_del_c vs R0: 0.124 vs 0.059, wins 12/13, diff +0.065 [+0.029, +0.103]; block +0.072 (11), indep +0.023 (2)
+  2021 entailed          hit10  L0 vs GBR_del_c: 0.636 vs 0.369, wins 13/13, diff +0.266 [+0.173, +0.372]; block +0.243 (11), indep +0.394 (2)
+  2021 entailed          effort L0 vs GBR_del_c: 9.096 vs 13.945, wins 0/13, diff -4.850 [-6.372, -3.452]; block -4.674 (11), indep -5.815 (2)
+  2021 entailed          unsafe L0 vs GBR_del_c: 0.091 vs 0.124, wins 0/13, diff -0.033 [-0.049, -0.018]; block -0.035 (11), indep -0.023 (2)
+  2021 entailed          hit10  L0 vs R0: 0.636 vs 0.949, wins 0/13, diff -0.313 [-0.430, -0.214]; block -0.341 (11), indep -0.159 (2)
+  2021 entailed          effort L0 vs R0: 9.096 vs 2.888, wins 13/13, diff +6.207 [+4.867, +7.575]; block +6.493 (11), indep +4.635 (2)
+  2021 entailed          unsafe L0 vs R0: 0.091 vs 0.059, wins 11/13, diff +0.031 [+0.005, +0.059]; block +0.037 (11), indep +0.000 (2)
+  2021 not entailed      hit10  GBR_del_c vs hybrid: 0.375 vs 0.363, wins 6/16, diff +0.013 [-0.025, +0.051]; block +0.021 (11), indep -0.006 (5)
+  2021 not entailed      effort GBR_del_c vs hybrid: 13.645 vs 14.175, wins 4/16, diff -0.530 [-1.112, +0.041]; block -0.581 (11), indep -0.418 (5)
+  2021 not entailed      unsafe GBR_del_c vs hybrid: 0.076 vs 0.085, wins 3/16, diff -0.009 [-0.017, -0.002]; block -0.007 (11), indep -0.012 (5)
+  2021 not entailed      hit10  GBR_del_c vs GNN_R: 0.375 vs 0.403, wins 7/16, diff -0.028 [-0.078, +0.012]; block -0.049 (11), indep +0.020 (5)
+  2021 not entailed      effort GBR_del_c vs GNN_R: 13.645 vs 13.280, wins 7/16, diff +0.365 [-0.415, +1.335]; block +0.694 (11), indep -0.360 (5)
+  2021 not entailed      unsafe GBR_del_c vs GNN_R: 0.076 vs 0.047, wins 13/16, diff +0.030 [+0.019, +0.040]; block +0.028 (11), indep +0.032 (5)
+  2021 not entailed      hit10  GBR_del_c vs names only: 0.375 vs 0.286, wins 12/16, diff +0.089 [+0.016, +0.164]; block +0.087 (11), indep +0.093 (5)
+  2021 not entailed      effort GBR_del_c vs names only: 13.645 vs 15.759, wins 4/16, diff -2.114 [-3.574, -0.707]; block -1.942 (11), indep -2.493 (5)
+  2021 not entailed      unsafe GBR_del_c vs names only: 0.076 vs 0.104, wins 1/16, diff -0.028 [-0.038, -0.018]; block -0.029 (11), indep -0.026 (5)
+  2021 not entailed      hit10  GBR_del_c vs R0: 0.375 vs 0.223, wins 14/16, diff +0.153 [+0.083, +0.230]; block +0.195 (11), indep +0.061 (5)
+  2021 not entailed      effort GBR_del_c vs R0: 13.645 vs 16.431, wins 1/16, diff -2.787 [-3.863, -1.785]; block -3.184 (11), indep -1.912 (5)
+  2021 not entailed      unsafe GBR_del_c vs R0: 0.076 vs 0.038, wins 13/16, diff +0.038 [+0.016, +0.063]; block +0.055 (11), indep -0.001 (5)
+  2021 not entailed      hit10  L0 vs GBR_del_c: 0.402 vs 0.375, wins 9/16, diff +0.027 [-0.002, +0.058]; block +0.007 (11), indep +0.071 (5)
+  2021 not entailed      effort L0 vs GBR_del_c: 13.225 vs 13.645, wins 8/16, diff -0.420 [-0.935, -0.020]; block -0.424 (11), indep -0.410 (5)
+  2021 not entailed      unsafe L0 vs GBR_del_c: 0.056 vs 0.076, wins 2/16, diff -0.020 [-0.031, -0.010]; block -0.026 (11), indep -0.006 (5)
+  2021 not entailed      hit10  L0 vs R0: 0.402 vs 0.223, wins 15/16, diff +0.180 [+0.115, +0.250]; block +0.202 (11), indep +0.132 (5)
+  2021 not entailed      effort L0 vs R0: 13.225 vs 16.431, wins 1/16, diff -3.207 [-4.164, -2.296]; block -3.609 (11), indep -2.322 (5)
+  2021 not entailed      unsafe L0 vs R0: 0.056 vs 0.038, wins 9/16, diff +0.018 [+0.005, +0.034]; block +0.029 (11), indep -0.006 (5)
+  2023 new class         hit10  GBR_del_c vs hybrid: 0.699 vs 0.644, wins 17/23, diff +0.054 [+0.019, +0.090]; cluster (15) -0.005..+0.084; block +0.077 (11), indep +0.034 (12)
+  2023 new class         effort GBR_del_c vs hybrid: 7.754 vs 8.839, wins 3/23, diff -1.086 [-1.515, -0.652]; cluster (15) -1.487..-0.308; block -1.427 (11), indep -0.773 (12)
+  2023 new class         hit10  GBR_del_c vs GNN_R: 0.699 vs 0.709, wins 9/23, diff -0.010 [-0.035, +0.013]; cluster (15) -0.039..+0.006; block +0.001 (11), indep -0.020 (12)
+  2023 new class         effort GBR_del_c vs GNN_R: 7.754 vs 7.582, wins 11/23, diff +0.172 [-0.252, +0.628]; cluster (15) -0.095..+0.653; block +0.021 (11), indep +0.310 (12)
+  2023 new class         hit10  GBR_del_c vs names only: 0.699 vs 0.475, wins 21/23, diff +0.224 [+0.153, +0.302]; cluster (15) +0.156..+0.354; block +0.172 (11), indep +0.272 (12)
+  2023 new class         effort GBR_del_c vs names only: 7.754 vs 11.816, wins 1/23, diff -4.062 [-5.533, -2.718]; cluster (15) -6.509..-2.794; block -3.133 (11), indep -4.914 (12)
+  2023 re-parenting all  hit10  GBR_del_c vs hybrid: 0.360 vs 0.387, wins 6/15, diff -0.027 [-0.096, +0.025]; block +0.002 (11), indep -0.105 (4)
+  2023 re-parenting all  effort GBR_del_c vs hybrid: 13.944 vs 13.801, wins 8/15, diff +0.143 [-0.738, +1.237]; block -0.228 (11), indep +1.165 (4)
+  2023 re-parenting all  unsafe GBR_del_c vs hybrid: 0.080 vs 0.103, wins 4/15, diff -0.024 [-0.040, -0.009]; block -0.028 (11), indep -0.012 (4)
+  2023 re-parenting all  hit10  GBR_del_c vs GNN_R: 0.360 vs 0.448, wins 4/15, diff -0.088 [-0.158, -0.020]; block -0.095 (11), indep -0.067 (4)
+  2023 re-parenting all  effort GBR_del_c vs GNN_R: 13.944 vs 12.873, wins 10/15, diff +1.072 [-0.028, +2.236]; block +1.094 (11), indep +1.010 (4)
+  2023 re-parenting all  unsafe GBR_del_c vs GNN_R: 0.080 vs 0.048, wins 15/15, diff +0.031 [+0.023, +0.041]; block +0.035 (11), indep +0.022 (4)
+  2023 re-parenting all  hit10  GBR_del_c vs names only: 0.360 vs 0.243, wins 13/15, diff +0.117 [+0.023, +0.191]; block +0.129 (11), indep +0.084 (4)
+  2023 re-parenting all  effort GBR_del_c vs names only: 13.944 vs 16.525, wins 1/15, diff -2.581 [-4.017, -0.852]; block -2.799 (11), indep -1.981 (4)
+  2023 re-parenting all  unsafe GBR_del_c vs names only: 0.080 vs 0.130, wins 1/15, diff -0.050 [-0.076, -0.028]; block -0.062 (11), indep -0.017 (4)
+  2023 re-parenting all  hit10  GBR_del_c vs R0: 0.360 vs 0.455, wins 5/15, diff -0.095 [-0.197, +0.007]; block -0.107 (11), indep -0.062 (4)
+  2023 re-parenting all  effort GBR_del_c vs R0: 13.944 vs 11.968, wins 10/15, diff +1.977 [+0.288, +3.743]; block +2.319 (11), indep +1.035 (4)
+  2023 re-parenting all  unsafe GBR_del_c vs R0: 0.080 vs 0.041, wins 11/15, diff +0.038 [+0.013, +0.068]; block +0.053 (11), indep -0.003 (4)
+  2023 re-parenting all  hit10  L0 vs GBR_del_c: 0.476 vs 0.360, wins 14/15, diff +0.116 [+0.071, +0.161]; block +0.128 (11), indep +0.082 (4)
+  2023 re-parenting all  effort L0 vs GBR_del_c: 12.103 vs 13.944, wins 1/15, diff -1.842 [-2.559, -1.200]; block -1.969 (11), indep -1.491 (4)
+  2023 re-parenting all  unsafe L0 vs GBR_del_c: 0.066 vs 0.080, wins 1/15, diff -0.014 [-0.021, -0.008]; block -0.019 (11), indep +0.001 (4)
+  2023 re-parenting all  hit10  L0 vs R0: 0.476 vs 0.455, wins 9/15, diff +0.020 [-0.052, +0.092]; block +0.021 (11), indep +0.020 (4)
+  2023 re-parenting all  effort L0 vs R0: 12.103 vs 11.968, wins 6/15, diff +0.135 [-1.072, +1.359]; block +0.350 (11), indep -0.456 (4)
+  2023 re-parenting all  unsafe L0 vs R0: 0.066 vs 0.041, wins 11/15, diff +0.024 [+0.001, +0.049]; block +0.034 (11), indep -0.003 (4)
+  2023 entailed          hit10  GBR_del_c vs hybrid: 0.398 vs 0.506, wins 1/10, diff -0.108 [-0.178, -0.046]; block -0.096 (9), indep -0.214 (1)
+  2023 entailed          effort GBR_del_c vs hybrid: 13.963 vs 11.427, wins 10/10, diff +2.536 [+1.080, +4.272]; block +2.270 (9), indep +4.929 (1)
+  2023 entailed          unsafe GBR_del_c vs hybrid: 0.167 vs 0.213, wins 1/10, diff -0.046 [-0.079, -0.017]; block -0.049 (9), indep -0.014 (1)
+  2023 entailed          hit10  GBR_del_c vs GNN_R: 0.398 vs 0.544, wins 1/10, diff -0.146 [-0.231, -0.062]; block -0.122 (9), indep -0.357 (1)
+  2023 entailed          effort GBR_del_c vs GNN_R: 13.963 vs 11.072, wins 9/10, diff +2.891 [+1.033, +4.876]; block +2.363 (9), indep +7.643 (1)
+  2023 entailed          unsafe GBR_del_c vs GNN_R: 0.167 vs 0.125, wins 8/10, diff +0.042 [+0.010, +0.077]; block +0.043 (9), indep +0.036 (1)
+  2023 entailed          hit10  GBR_del_c vs names only: 0.398 vs 0.139, wins 10/10, diff +0.259 [+0.143, +0.377]; block +0.224 (9), indep +0.571 (1)
+  2023 entailed          effort GBR_del_c vs names only: 13.963 vs 18.285, wins 0/10, diff -4.322 [-5.890, -2.717]; block -3.850 (9), indep -8.571 (1)
+  2023 entailed          unsafe GBR_del_c vs names only: 0.167 vs 0.254, wins 0/10, diff -0.086 [-0.130, -0.048]; block -0.093 (9), indep -0.021 (1)
+  2023 entailed          hit10  GBR_del_c vs R0: 0.398 vs 0.995, wins 0/10, diff -0.597 [-0.703, -0.503]; block -0.616 (9), indep -0.429 (1)
+  2023 entailed          effort GBR_del_c vs R0: 13.963 vs 1.711, wins 10/10, diff +12.252 [+10.924, +13.937]; block +12.343 (9), indep +11.429 (1)
+  2023 entailed          unsafe GBR_del_c vs R0: 0.167 vs 0.090, wins 8/10, diff +0.078 [+0.019, +0.138]; block +0.088 (9), indep -0.014 (1)
+  2023 entailed          hit10  L0 vs GBR_del_c: 0.679 vs 0.398, wins 9/10, diff +0.281 [+0.202, +0.345]; block +0.265 (9), indep +0.429 (1)
+  2023 entailed          effort L0 vs GBR_del_c: 8.838 vs 13.963, wins 0/10, diff -5.125 [-5.915, -4.289]; block -4.996 (9), indep -6.286 (1)
+  2023 entailed          unsafe L0 vs GBR_del_c: 0.141 vs 0.167, wins 1/10, diff -0.026 [-0.040, -0.013]; block -0.030 (9), indep +0.007 (1)
+  2023 entailed          hit10  L0 vs R0: 0.679 vs 0.995, wins 0/10, diff -0.316 [-0.432, -0.203]; block -0.351 (9), indep +0.000 (1)
+  2023 entailed          effort L0 vs R0: 8.838 vs 1.711, wins 10/10, diff +7.127 [+5.500, +8.919]; block +7.347 (9), indep +5.143 (1)
+  2023 entailed          unsafe L0 vs R0: 0.141 vs 0.090, wins 8/10, diff +0.052 [-0.002, +0.102]; block +0.058 (9), indep -0.007 (1)
+  2023 not entailed      hit10  GBR_del_c vs hybrid: 0.339 vs 0.336, wins 8/15, diff +0.003 [-0.067, +0.058]; block +0.037 (11), indep -0.091 (4)
+  2023 not entailed      effort GBR_del_c vs hybrid: 14.181 vs 14.851, wins 6/15, diff -0.670 [-1.642, +0.482]; block -1.157 (11), indep +0.667 (4)
+  2023 not entailed      unsafe GBR_del_c vs hybrid: 0.071 vs 0.088, wins 4/15, diff -0.017 [-0.031, -0.006]; block -0.019 (11), indep -0.012 (4)
+  2023 not entailed      hit10  GBR_del_c vs GNN_R: 0.339 vs 0.410, wins 5/15, diff -0.070 [-0.139, -0.007]; block -0.077 (11), indep -0.052 (4)
+  2023 not entailed      effort GBR_del_c vs GNN_R: 14.181 vs 13.588, wins 8/15, diff +0.593 [-0.404, +1.613]; block +0.557 (11), indep +0.691 (4)
+  2023 not entailed      unsafe GBR_del_c vs GNN_R: 0.071 vs 0.042, wins 15/15, diff +0.029 [+0.023, +0.035]; block +0.031 (11), indep +0.021 (4)
+  2023 not entailed      hit10  GBR_del_c vs names only: 0.339 vs 0.269, wins 12/15, diff +0.071 [-0.025, +0.157]; block +0.081 (11), indep +0.042 (4)
+  2023 not entailed      effort GBR_del_c vs names only: 14.181 vs 16.144, wins 2/15, diff -1.963 [-3.555, -0.201]; block -2.161 (11), indep -1.418 (4)
+  2023 not entailed      unsafe GBR_del_c vs names only: 0.071 vs 0.112, wins 2/15, diff -0.041 [-0.064, -0.021]; block -0.049 (11), indep -0.017 (4)
+  2023 not entailed      hit10  GBR_del_c vs R0: 0.339 vs 0.222, wins 13/15, diff +0.117 [+0.037, +0.203]; block +0.154 (11), indep +0.017 (4)
+  2023 not entailed      effort GBR_del_c vs R0: 14.181 vs 16.383, wins 1/15, diff -2.202 [-3.623, -0.891]; block -2.741 (11), indep -0.720 (4)
+  2023 not entailed      unsafe GBR_del_c vs R0: 0.071 vs 0.032, wins 11/15, diff +0.039 [+0.018, +0.064]; block +0.055 (11), indep -0.003 (4)
+  2023 not entailed      hit10  L0 vs GBR_del_c: 0.390 vs 0.339, wins 7/15, diff +0.051 [+0.013, +0.094]; block +0.055 (11), indep +0.040 (4)
+  2023 not entailed      effort L0 vs GBR_del_c: 13.503 vs 14.181, wins 5/15, diff -0.678 [-1.226, -0.165]; block -0.560 (11), indep -1.002 (4)
+  2023 not entailed      unsafe L0 vs GBR_del_c: 0.057 vs 0.071, wins 1/15, diff -0.014 [-0.020, -0.008]; block -0.019 (11), indep +0.000 (4)
+  2023 not entailed      hit10  L0 vs R0: 0.390 vs 0.222, wins 14/15, diff +0.168 [+0.094, +0.251]; block +0.209 (11), indep +0.057 (4)
+  2023 not entailed      effort L0 vs R0: 13.503 vs 16.383, wins 1/15, diff -2.880 [-4.138, -1.744]; block -3.301 (11), indep -1.722 (4)
+  2023 not entailed      unsafe L0 vs R0: 0.057 vs 0.032, wins 11/15, diff +0.026 [+0.008, +0.047]; block +0.036 (11), indep -0.003 (4)
+
+== Unsafe suggestions by kind, re-parenting: hierarchy cycle (suggestion is an inferred descendant) and unsatisfiable class (declared-disjoint pair)
+  2019 re-parenting all  cycle  GBR_del_c vs GNN_R: 0.048 vs 0.010, wins 22/23, diff +0.038 [+0.028, +0.049]; cluster (15) +0.025..+0.046; block +0.041 (11), indep +0.035 (12)
+  2019 re-parenting all  unsat  GBR_del_c vs GNN_R: 0.041 vs 0.038, wins 5/23, diff +0.002 [-0.002, +0.008]; cluster (15) -0.005..+0.006; block +0.007 (11), indep -0.002 (12)
+  2019 re-parenting all  cycle  GBR_del_c vs names only: 0.048 vs 0.076, wins 0/23, diff -0.028 [-0.037, -0.019]; cluster (15) -0.034..-0.020; block -0.029 (11), indep -0.027 (12)
+  2019 re-parenting all  unsat  GBR_del_c vs names only: 0.041 vs 0.035, wins 5/23, diff +0.006 [-0.004, +0.020]; cluster (15) +0.000..+0.009; block +0.011 (11), indep +0.001 (12)
+  2019 re-parenting all  cycle  GBR_del_c vs hybrid: 0.048 vs 0.056, wins 5/23, diff -0.008 [-0.016, -0.002]; cluster (15) -0.019..-0.004; block -0.002 (11), indep -0.014 (12)
+  2019 re-parenting all  unsat  GBR_del_c vs hybrid: 0.041 vs 0.041, wins 3/23, diff +0.000 [-0.005, +0.006]; cluster (15) -0.002..+0.001; block +0.001 (11), indep -0.001 (12)
+  2019 re-parenting all  cycle  GBR_del_c vs R0: 0.048 vs 0.036, wins 14/23, diff +0.012 [+0.003, +0.020]; cluster (15) -0.000..+0.018; block +0.021 (11), indep +0.003 (12)
+  2019 re-parenting all  unsat  GBR_del_c vs R0: 0.041 vs 0.021, wins 7/23, diff +0.019 [+0.001, +0.044]; cluster (15) +0.000..+0.032; block +0.037 (11), indep +0.003 (12)
+  2019 re-parenting all  cycle  GNN_R vs R0: 0.010 vs 0.036, wins 1/23, diff -0.027 [-0.042, -0.014]; cluster (15) -0.040..-0.018; block -0.020 (11), indep -0.033 (12)
+  2019 re-parenting all  unsat  GNN_R vs R0: 0.038 vs 0.021, wins 9/23, diff +0.017 [+0.001, +0.038]; cluster (15) +0.001..+0.026; block +0.031 (11), indep +0.005 (12)
+  2021 re-parenting all  cycle  GBR_del_c vs GNN_R: 0.041 vs 0.006, wins 17/20, diff +0.035 [+0.024, +0.045]; cluster (11) +0.017..+0.042; block +0.035 (13), indep +0.035 (7)
+  2021 re-parenting all  unsat  GBR_del_c vs GNN_R: 0.040 vs 0.039, wins 6/20, diff +0.000 [-0.003, +0.004]; cluster (11) -0.002..+0.008; block -0.002 (13), indep +0.005 (7)
+  2021 re-parenting all  cycle  GBR_del_c vs names only: 0.041 vs 0.066, wins 0/20, diff -0.025 [-0.033, -0.018]; cluster (11) -0.030..-0.013; block -0.027 (13), indep -0.022 (7)
+  2021 re-parenting all  unsat  GBR_del_c vs names only: 0.040 vs 0.043, wins 3/20, diff -0.003 [-0.007, +0.000]; cluster (11) -0.005..+0.002; block -0.005 (13), indep +0.000 (7)
+  2021 re-parenting all  cycle  GBR_del_c vs hybrid: 0.041 vs 0.046, wins 5/20, diff -0.006 [-0.012, -0.000]; cluster (11) -0.010..-0.003; block -0.004 (13), indep -0.009 (7)
+  2021 re-parenting all  unsat  GBR_del_c vs hybrid: 0.040 vs 0.047, wins 0/20, diff -0.007 [-0.012, -0.003]; cluster (11) -0.013..-0.002; block -0.009 (13), indep -0.003 (7)
+  2021 re-parenting all  cycle  GBR_del_c vs R0: 0.041 vs 0.024, wins 15/20, diff +0.017 [+0.006, +0.028]; cluster (11) +0.002..+0.023; block +0.021 (13), indep +0.010 (7)
+  2021 re-parenting all  unsat  GBR_del_c vs R0: 0.040 vs 0.020, wins 9/20, diff +0.019 [+0.006, +0.035]; cluster (11) +0.000..+0.028; block +0.028 (13), indep +0.004 (7)
+  2021 re-parenting all  cycle  GNN_R vs R0: 0.006 vs 0.024, wins 1/20, diff -0.018 [-0.031, -0.008]; cluster (11) -0.027..-0.010; block -0.014 (13), indep -0.025 (7)
+  2021 re-parenting all  unsat  GNN_R vs R0: 0.039 vs 0.020, wins 8/20, diff +0.019 [+0.006, +0.035]; cluster (11) -0.001..+0.029; block +0.030 (13), indep -0.000 (7)
+  2021 re-parenting all  cycle  L0 vs GBR_del_c: 0.030 vs 0.041, wins 0/20, diff -0.011 [-0.015, -0.007]; cluster (11) -0.014..-0.004; block -0.013 (13), indep -0.007 (7)
+  2021 re-parenting all  unsat  L0 vs GBR_del_c: 0.029 vs 0.040, wins 0/20, diff -0.011 [-0.017, -0.005]; cluster (11) -0.014..-0.003; block -0.014 (13), indep -0.004 (7)
+  2023 re-parenting all  cycle  GBR_del_c vs GNN_R: 0.033 vs 0.003, wins 15/15, diff +0.030 [+0.021, +0.040]; block +0.033 (11), indep +0.022 (4)
+  2023 re-parenting all  unsat  GBR_del_c vs GNN_R: 0.048 vs 0.045, wins 5/15, diff +0.003 [-0.004, +0.012]; block +0.005 (11), indep +0.000 (4)
+  2023 re-parenting all  cycle  GBR_del_c vs names only: 0.033 vs 0.063, wins 0/15, diff -0.030 [-0.041, -0.021]; block -0.035 (11), indep -0.017 (4)
+  2023 re-parenting all  unsat  GBR_del_c vs names only: 0.048 vs 0.071, wins 2/15, diff -0.022 [-0.043, -0.005]; block -0.030 (11), indep +0.000 (4)
+  2023 re-parenting all  cycle  GBR_del_c vs hybrid: 0.033 vs 0.040, wins 6/15, diff -0.007 [-0.018, +0.002]; block -0.005 (11), indep -0.012 (4)
+  2023 re-parenting all  unsat  GBR_del_c vs hybrid: 0.048 vs 0.067, wins 0/15, diff -0.019 [-0.036, -0.004]; block -0.025 (11), indep +0.000 (4)
+  2023 re-parenting all  cycle  GBR_del_c vs R0: 0.033 vs 0.023, wins 11/15, diff +0.010 [-0.003, +0.021]; block +0.015 (11), indep -0.003 (4)
+  2023 re-parenting all  unsat  GBR_del_c vs R0: 0.048 vs 0.021, wins 7/15, diff +0.027 [+0.008, +0.049]; block +0.037 (11), indep +0.000 (4)
+  2023 re-parenting all  cycle  GNN_R vs R0: 0.003 vs 0.023, wins 1/15, diff -0.020 [-0.041, -0.005]; block -0.018 (11), indep -0.025 (4)
+  2023 re-parenting all  unsat  GNN_R vs R0: 0.045 vs 0.021, wins 7/15, diff +0.024 [+0.004, +0.049]; block +0.032 (11), indep +0.000 (4)
+  2023 re-parenting all  cycle  L0 vs GBR_del_c: 0.028 vs 0.033, wins 2/15, diff -0.005 [-0.008, -0.002]; block -0.007 (11), indep +0.001 (4)
+  2023 re-parenting all  unsat  L0 vs GBR_del_c: 0.040 vs 0.048, wins 0/15, diff -0.009 [-0.015, -0.003]; block -0.012 (11), indep +0.000 (4)
+
+== Q1: side-by-side list (reasoner top 5 + L0 top 5, interleaved, filled to 10) vs each list's top 10
+  2021 re-parenting all  hit10  R0+L0 vs L0: 0.512 vs 0.482, wins 12/20, diff +0.031 [-0.013, +0.080]; cluster (11) -0.064..+0.075; block +0.074 (13), indep -0.050 (7)
+  2021 re-parenting all  hit10  R0+L0 vs R0: 0.512 vs 0.454, wins 14/20, diff +0.058 [+0.020, +0.102]; cluster (11) +0.021..+0.074; block +0.065 (13), indep +0.045 (7)
+  2021 re-parenting all  hit10  R0+L0 vs GBR_del_c: 0.512 vs 0.374, wins 17/20, diff +0.138 [+0.082, +0.204]; cluster (11) +0.040..+0.183; block +0.185 (13), indep +0.050 (7)
+  2021 entailed          hit10  R0+L0 vs L0: 0.916 vs 0.636, wins 13/13, diff +0.280 [+0.192, +0.370]; block +0.302 (11), indep +0.159 (2)
+  2021 entailed          hit10  R0+L0 vs R0: 0.916 vs 0.949, wins 0/13, diff -0.033 [-0.072, -0.005]; block -0.039 (11), indep +0.000 (2)
+  2021 entailed          hit10  R0+L0 vs GBR_del_c: 0.916 vs 0.369, wins 13/13, diff +0.546 [+0.429, +0.658]; block +0.545 (11), indep +0.553 (2)
+  2021 not entailed      hit10  R0+L0 vs L0: 0.347 vs 0.402, wins 2/16, diff -0.055 [-0.082, -0.028]; block -0.051 (11), indep -0.065 (5)
+  2021 not entailed      hit10  R0+L0 vs R0: 0.347 vs 0.223, wins 15/16, diff +0.125 [+0.068, +0.190]; block +0.151 (11), indep +0.067 (5)
+  2021 not entailed      hit10  R0+L0 vs GBR_del_c: 0.347 vs 0.375, wins 3/16, diff -0.028 [-0.059, +0.002]; block -0.044 (11), indep +0.006 (5)
+  2023 re-parenting all  hit10  R0+L0 vs L0: 0.524 vs 0.476, wins 8/15, diff +0.048 [+0.002, +0.096]; block +0.061 (11), indep +0.012 (4)
+  2023 re-parenting all  hit10  R0+L0 vs R0: 0.524 vs 0.455, wins 11/15, diff +0.068 [+0.029, +0.119]; block +0.082 (11), indep +0.032 (4)
+  2023 re-parenting all  hit10  R0+L0 vs GBR_del_c: 0.524 vs 0.360, wins 11/15, diff +0.164 [+0.088, +0.242]; block +0.189 (11), indep +0.094 (4)
+  2023 entailed          hit10  R0+L0 vs L0: 0.975 vs 0.679, wins 9/10, diff +0.296 [+0.192, +0.403]; block +0.329 (9), indep +0.000 (1)
+  2023 entailed          hit10  R0+L0 vs R0: 0.975 vs 0.995, wins 0/10, diff -0.020 [-0.045, +0.000]; block -0.022 (9), indep +0.000 (1)
+  2023 entailed          hit10  R0+L0 vs GBR_del_c: 0.975 vs 0.398, wins 10/10, diff +0.577 [+0.491, +0.682]; block +0.594 (9), indep +0.429 (1)
+  2023 not entailed      hit10  R0+L0 vs L0: 0.332 vs 0.390, wins 2/15, diff -0.059 [-0.106, -0.020]; block -0.074 (11), indep -0.017 (4)
+  2023 not entailed      hit10  R0+L0 vs R0: 0.332 vs 0.222, wins 13/15, diff +0.110 [+0.060, +0.177]; block +0.135 (11), indep +0.040 (4)
+  2023 not entailed      hit10  R0+L0 vs GBR_del_c: 0.332 vs 0.339, wins 5/15, diff -0.008 [-0.048, +0.039]; block -0.019 (11), indep +0.023 (4)
+
+== Q2 / M4: anatomy of wrong top-10 suggestions (share of wrong suggestions, ontology means)
+    cutoff task      model  n_ont  redundant  near_miss  transient  unsupported  wrong_per_list
+2019-07-01    A  GBR_del_c     23      0.086      0.195      0.001        0.717           9.593
+2019-07-01    A      GNN_R     23      0.090      0.192      0.001        0.716           9.549
+2019-07-01    A         R0     23      0.495      0.112      0.001        0.392           9.487
+2019-07-01    A     hybrid     23      0.103      0.193      0.001        0.703           9.587
+2019-07-01    A names only     23      0.022      0.213      0.001        0.764           9.691
+2019-07-01    B  GBR_del_c     27      0.000      0.271      0.002        0.727           9.247
+2019-07-01    B      GNN_R     27      0.000      0.261      0.002        0.737           9.252
+2019-07-01    B     hybrid     27      0.000      0.272      0.002        0.726           9.324
+2019-07-01    B names only     27      0.000      0.252      0.001        0.747           9.463
+2021-07-01    A  GBR_del_c     20      0.103      0.184      0.001        0.712           9.626
+2021-07-01    A      GNN_R     20      0.125      0.175      0.001        0.700           9.576
+2021-07-01    A         L0     20      0.256      0.188      0.001        0.554           9.511
+2021-07-01    A         R0     20      0.610      0.085      0.000        0.305           9.487
+2021-07-01    A     hybrid     20      0.115      0.188      0.001        0.696           9.620
+2021-07-01    A names only     20      0.021      0.229      0.001        0.749           9.741
+2021-07-01    B  GBR_del_c     28      0.000      0.268      0.001        0.731           9.252
+2021-07-01    B      GNN_R     28      0.000      0.267      0.001        0.732           9.260
+2021-07-01    B     hybrid     28      0.000      0.270      0.001        0.729           9.329
+2021-07-01    B names only     28      0.000      0.246      0.001        0.753           9.468
+2023-07-01    A  GBR_del_c     15      0.081      0.208      0.001        0.710           9.646
+2023-07-01    A      GNN_R     15      0.092      0.169      0.001        0.739           9.531
+2023-07-01    A         L0     15      0.183      0.195      0.001        0.621           9.509
+2023-07-01    A         R0     15      0.588      0.087      0.000        0.325           9.440
+2023-07-01    A     hybrid     15      0.105      0.188      0.001        0.706           9.626
+2023-07-01    A names only     15      0.020      0.226      0.001        0.754           9.770
+2023-07-01    B  GBR_del_c     23      0.000      0.269      0.000        0.731           9.243
+2023-07-01    B      GNN_R     23      0.000      0.257      0.000        0.743           9.262
+2023-07-01    B     hybrid     23      0.000      0.264      0.000        0.735           9.326
+2023-07-01    B names only     23      0.000      0.233      0.000        0.766           9.536
+
+== Breakdowns (tuned ranker and names only / R0; recall@10, ontology means)
+model                                GBR_del_c  GNN_R     L0     R0  names only
+by     level        task cutoff                                                
+family block        A    2019-07-01      0.358  0.440    NaN  0.498       0.275
+                         2021-07-01      0.352  0.423  0.463  0.472       0.222
+                         2023-07-01      0.333  0.428  0.460  0.440       0.204
+                    B    2019-07-01      0.715  0.747    NaN    NaN       0.579
+                         2021-07-01      0.732  0.738    NaN    NaN       0.567
+                         2023-07-01      0.702  0.701    NaN    NaN       0.531
+       independent  A    2019-07-01      0.448  0.424    NaN  0.408       0.343
+                         2021-07-01      0.415  0.476  0.516  0.421       0.312
+                         2023-07-01      0.436  0.503  0.518  0.499       0.353
+                    B    2019-07-01      0.743  0.749    NaN    NaN       0.500
+                         2021-07-01      0.722  0.717    NaN    NaN       0.474
+                         2023-07-01      0.695  0.716    NaN    NaN       0.424
+size   3,000-10,000 A    2019-07-01      0.354  0.439    NaN  0.371       0.319
+                         2021-07-01      0.410  0.442  0.481  0.407       0.323
+                         2023-07-01      0.324  0.376  0.417  0.368       0.256
+                    B    2019-07-01      0.750  0.738    NaN    NaN       0.607
+                         2021-07-01      0.718  0.711    NaN    NaN       0.588
+                         2023-07-01      0.757  0.754    NaN    NaN       0.499
+       < 3,000      A    2019-07-01      0.441  0.437    NaN  0.453       0.333
+                         2021-07-01      0.355  0.446  0.473  0.444       0.221
+                         2023-07-01      0.463  0.532  0.588  0.509       0.291
+                    B    2019-07-01      0.736  0.770    NaN    NaN       0.520
+                         2021-07-01      0.746  0.754    NaN    NaN       0.493
+                         2023-07-01      0.673  0.714    NaN    NaN       0.449
+       > 10,000     A    2019-07-01      0.335  0.393    NaN  0.597       0.193
+                         2021-07-01      0.355  0.416  0.534  0.680       0.190
+                         2023-07-01      0.321  0.489  0.467  0.555       0.174
+                    B    2019-07-01      0.657  0.628    NaN    NaN       0.539
+                         2021-07-01      0.586  0.546    NaN    NaN       0.452
+                         2023-07-01      0.653  0.604    NaN    NaN       0.495

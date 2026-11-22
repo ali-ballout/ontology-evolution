@@ -1,0 +1,4 @@
+sample 300 (150 flagged, 150 not flagged) from 30 cutoff-ontology pairs; agreement 300/300, Wilson 95% lower bound 98.7%
+  flagged: agreement 150/150, exact 95% lower bound 97.6%
+  not flagged: agreement 150/150, exact 95% lower bound 97.6%
+HermiT-unsafe cases where the query stays satisfiable and a descendant does not: 4 of 150

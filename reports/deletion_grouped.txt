@@ -1,0 +1,49 @@
+ontologies 43 seeds per fold {0: 3, 1: 3, 2: 3}
+independent {'n': 19, 'gnn': 0.621, 'hybrid': 0.557, 'wins': 16, 'mean': 0.064, 'median': 0.042}
+block {'n': 21, 'gnn': 0.548, 'hybrid': 0.473, 'wins': 19, 'mean': 0.075, 'median': 0.091}
+large {'n': 3, 'gnn': 0.488, 'hybrid': 0.351, 'wins': 3, 'mean': 0.136, 'median': 0.133}
+all {'n': 43, 'gnn': 0.576, 'hybrid': 0.502, 'wins': 38, 'mean': 0.074, 'median': 0.087, 'ci': [np.float64(0.053372166866903784), np.float64(0.09663742959394192)], 'cl_ci': [np.float64(0.039975760838750055), np.float64(0.09424688826081641)], 'n_clusters': 28}
+ontology
+rs            -0.103
+ms            -0.056
+wbbt          -0.011
+lepao         -0.005
+colao         -0.004
+ehdaa2         0.001
+xlmod          0.005
+mod            0.007
+plana          0.011
+miro           0.012
+hao            0.014
+zfa            0.017
+obi            0.025
+mop            0.030
+mpath          0.032
+so             0.036
+mi             0.042
+xco            0.050
+pato           0.062
+stato          0.066
+maxo           0.081
+xao            0.087
+symp           0.089
+mco            0.091
+rxno           0.093
+chmo           0.093
+wbphenotype    0.099
+to             0.099
+peco           0.102
+envo           0.107
+poro           0.117
+uberon         0.121
+fbcv           0.122
+po             0.128
+go             0.133
+nbo            0.136
+pw             0.136
+omp            0.138
+cl             0.156
+aism           0.170
+cmo            0.184
+mmo            0.213
+eco            0.276

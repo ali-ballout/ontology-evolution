@@ -1,0 +1,110 @@
+
+======== cutoff 2019-07-01
+model                 names only   name vote structural vote      hybrid reasoner: nearest inferred ancestor    ont/q
+view                                                                                                                 
+A added | 1y          0.097/0.19  0.099/0.29      0.073/0.15  0.100/0.28                          0.110/0.26    9/264
+A added | 2y          0.088/0.17  0.111/0.20      0.051/0.14  0.093/0.20                          0.092/0.28    5/142
+A added | 3y+         0.088/0.22  0.165/0.31      0.113/0.25  0.169/0.33                          0.160/0.36   11/337
+A added | all         0.100/0.22  0.145/0.31      0.091/0.21  0.147/0.31                          0.133/0.33   19/812
+A all | 1y            0.170/0.35  0.170/0.39      0.082/0.17  0.171/0.37                          0.197/0.40   12/821
+A all | 2y            0.131/0.29  0.257/0.41      0.067/0.15  0.248/0.42                          0.236/0.44   11/515
+A all | 3y+           0.093/0.22  0.160/0.30      0.095/0.20  0.164/0.32                          0.230/0.41  15/1090
+A all | all           0.137/0.30  0.194/0.38      0.085/0.18  0.195/0.39                          0.213/0.42  23/2520
+A entailed | 1y       0.097/0.19  0.185/0.41      0.196/0.43  0.178/0.42                          0.615/1.00    6/145
+A entailed | 2y       0.088/0.30  0.359/0.54      0.142/0.23  0.364/0.58                          0.723/0.98    4/154
+A entailed | 3y+      0.061/0.14  0.190/0.43      0.157/0.38  0.203/0.45                          0.727/1.00    8/399
+A entailed | all      0.091/0.20  0.252/0.44      0.180/0.41  0.260/0.47                          0.699/1.00   13/729
+A moved | 1y          0.209/0.46  0.241/0.45      0.081/0.16  0.241/0.44                          0.221/0.46    8/523
+A moved | 2y          0.126/0.32  0.314/0.48      0.075/0.14  0.312/0.49                          0.284/0.52    8/342
+A moved | 3y+         0.110/0.22  0.163/0.31      0.089/0.19  0.166/0.32                          0.300/0.48   13/727
+A moved | all         0.139/0.30  0.217/0.41      0.089/0.19  0.217/0.42                          0.274/0.48  18/1652
+A not entailed | 1y   0.184/0.38  0.151/0.36      0.045/0.10  0.150/0.33                          0.061/0.22   12/656
+A not entailed | 2y   0.125/0.24  0.200/0.35      0.052/0.13  0.190/0.36                          0.080/0.28   10/342
+A not entailed | 3y+  0.100/0.23  0.149/0.27      0.079/0.15  0.153/0.28                          0.055/0.20   15/681
+A not entailed | all  0.143/0.30  0.176/0.35      0.065/0.13  0.177/0.36                          0.070/0.25  23/1770
+B new class | 1y      0.343/0.54  0.471/0.71      0.089/0.18  0.471/0.71                                 NaN  21/1357
+B new class | 2y      0.373/0.53  0.356/0.61      0.122/0.20  0.356/0.61                                 NaN  19/1417
+B new class | 3y+     0.346/0.50  0.399/0.67      0.073/0.17  0.399/0.67                                 NaN  24/2264
+B new class | all     0.362/0.53  0.417/0.67      0.088/0.19  0.417/0.67                                 NaN  27/5064
+
+======== cutoff 2021-07-01
+model                 names only   name vote structural vote      hybrid reasoner: nearest inferred ancestor    ont/q
+view                                                                                                                 
+A added | 1y          0.083/0.19  0.147/0.22      0.095/0.18  0.153/0.21                          0.249/0.35    4/314
+A added | 2y          0.065/0.15  0.101/0.20      0.119/0.19  0.125/0.22                          0.097/0.19    5/190
+A added | 3y+         0.075/0.17  0.164/0.30      0.125/0.30  0.172/0.33                          0.171/0.42   10/307
+A added | all         0.099/0.23  0.170/0.34      0.094/0.21  0.175/0.35                          0.151/0.35   14/866
+A all | 1y            0.129/0.26  0.167/0.33      0.082/0.17  0.173/0.34                          0.197/0.32   12/705
+A all | 2y            0.079/0.20  0.176/0.32      0.092/0.15  0.184/0.33                          0.229/0.38    8/583
+A all | 3y+           0.119/0.25  0.194/0.40      0.093/0.22  0.194/0.40                          0.311/0.54  15/1056
+A all | all           0.103/0.24  0.194/0.36      0.100/0.20  0.199/0.37                          0.258/0.43  20/2404
+A entailed | 1y       0.163/0.32  0.260/0.43      0.090/0.22  0.235/0.43                          0.742/0.99    3/194
+A entailed | 2y       0.065/0.23  0.267/0.49      0.099/0.18  0.272/0.48                          0.568/0.86    5/201
+A entailed | 3y+      0.064/0.13  0.197/0.42      0.136/0.34  0.197/0.42                          0.750/1.00   10/430
+A entailed | all      0.087/0.20  0.247/0.46      0.126/0.29  0.250/0.46                          0.719/0.95   13/872
+A moved | 1y          0.163/0.31  0.195/0.39      0.086/0.17  0.201/0.40                          0.207/0.36   12/367
+A moved | 2y          0.109/0.27  0.191/0.36      0.072/0.13  0.192/0.36                          0.267/0.42    8/388
+A moved | 3y+         0.139/0.27  0.217/0.43      0.088/0.23  0.214/0.44                          0.399/0.60   12/713
+A moved | all         0.119/0.26  0.206/0.38      0.092/0.21  0.210/0.39                          0.311/0.48  17/1509
+A not entailed | 1y   0.144/0.28  0.149/0.33      0.056/0.12  0.153/0.33                          0.051/0.17   11/482
+A not entailed | 2y   0.095/0.21  0.122/0.29      0.074/0.13  0.129/0.30                          0.052/0.16    7/370
+A not entailed | 3y+  0.140/0.28  0.186/0.37      0.076/0.19  0.185/0.38                          0.068/0.24   13/601
+A not entailed | all  0.131/0.27  0.158/0.32      0.071/0.15  0.160/0.33                          0.059/0.20  16/1485
+B new class | 1y      0.396/0.56  0.431/0.69      0.085/0.20  0.431/0.69                                 NaN  20/1484
+B new class | 2y      0.423/0.56  0.362/0.64      0.087/0.18  0.362/0.64                                 NaN  19/1400
+B new class | 3y+     0.330/0.48  0.385/0.66      0.076/0.17  0.385/0.66                                 NaN  23/1882
+B new class | all     0.361/0.51  0.397/0.66      0.089/0.20  0.397/0.66                                 NaN  28/4809
+
+======== cutoff 2023-07-01
+model                 names only   name vote structural vote      hybrid reasoner: nearest inferred ancestor    ont/q
+view                                                                                                                 
+A added | 1y          0.105/0.24  0.165/0.29      0.084/0.19  0.169/0.30                          0.124/0.26    7/267
+A added | 2y          0.073/0.11  0.091/0.15      0.094/0.21  0.105/0.16                          0.150/0.31    6/289
+A added | 3y+         0.022/0.05  0.150/0.26      0.126/0.44  0.160/0.26                          0.259/0.54     3/68
+A added | all         0.097/0.21  0.171/0.31      0.103/0.26  0.177/0.33                          0.158/0.35   12/679
+A all | 1y            0.139/0.29  0.184/0.33      0.054/0.14  0.186/0.34                          0.204/0.34    9/697
+A all | 2y            0.149/0.30  0.171/0.36      0.073/0.15  0.177/0.38                          0.212/0.47    9/742
+A all | 3y+           0.062/0.12  0.169/0.37      0.123/0.31  0.174/0.37                          0.434/0.61   11/607
+A all | all           0.112/0.23  0.172/0.35      0.086/0.19  0.176/0.36                          0.282/0.44  15/2105
+A entailed | 1y       0.111/0.33  0.256/0.40      0.120/0.42  0.267/0.41                          0.759/1.00    4/211
+A entailed | 2y       0.115/0.22  0.190/0.35      0.119/0.29  0.200/0.37                          0.602/0.98    4/292
+A entailed | 3y+      0.049/0.09  0.199/0.43      0.163/0.41  0.210/0.43                          0.751/1.00   10/315
+A entailed | all      0.062/0.13  0.230/0.48      0.172/0.42  0.242/0.49                          0.797/1.00   10/836
+A moved | 1y          0.144/0.25  0.175/0.34      0.056/0.18  0.178/0.34                          0.278/0.41    8/420
+A moved | 2y          0.182/0.36  0.186/0.46      0.055/0.13  0.185/0.46                          0.276/0.55    7/432
+A moved | 3y+         0.063/0.13  0.174/0.36      0.119/0.25  0.179/0.37                          0.473/0.61    9/497
+A moved | all         0.128/0.24  0.185/0.39      0.081/0.19  0.187/0.40                          0.355/0.52  13/1394
+A not entailed | 1y   0.135/0.26  0.140/0.28      0.038/0.09  0.140/0.28                          0.045/0.15    9/476
+A not entailed | 2y   0.160/0.31  0.159/0.34      0.050/0.09  0.158/0.36                          0.066/0.26    9/443
+A not entailed | 3y+  0.059/0.13  0.139/0.29      0.087/0.17  0.140/0.30                          0.053/0.16    7/264
+A not entailed | all  0.124/0.26  0.148/0.30      0.055/0.11  0.148/0.31                          0.063/0.19  15/1254
+B new class | 1y      0.358/0.54  0.419/0.67      0.060/0.14  0.419/0.67                                 NaN   15/831
+B new class | 2y      0.326/0.46  0.395/0.65      0.070/0.18  0.395/0.65                                 NaN  17/1136
+B new class | 3y+     0.274/0.40  0.356/0.59      0.074/0.14  0.356/0.59                                 NaN  15/1217
+B new class | all     0.321/0.47  0.385/0.64      0.071/0.17  0.385/0.64                                 NaN  23/3234
+
+== Paired change in hybrid and reasoner MRR from 1y to 3y+ (per ontology with >= 10 queries in both bins)
+2019-07-01 A not entailed  hybrid                                : 8 ontologies, 3y+ minus 1y median -0.048, lower in 6
+2019-07-01 A not entailed  names only                            : 8 ontologies, 3y+ minus 1y median -0.077, lower in 6
+2019-07-01 A not entailed  reasoner: nearest inferred ancestor   : 8 ontologies, 3y+ minus 1y median -0.025, lower in 7
+2019-07-01 A entailed      hybrid                                : 3 ontologies, 3y+ minus 1y median -0.006, lower in 2
+2019-07-01 A entailed      names only                            : 3 ontologies, 3y+ minus 1y median +0.020, lower in 1
+2019-07-01 A entailed      reasoner: nearest inferred ancestor   : 3 ontologies, 3y+ minus 1y median -0.075, lower in 2
+2019-07-01 B               hybrid                                : 19 ontologies, 3y+ minus 1y median -0.068, lower in 15
+2019-07-01 B               names only                            : 19 ontologies, 3y+ minus 1y median -0.022, lower in 11
+2021-07-01 A not entailed  hybrid                                : 8 ontologies, 3y+ minus 1y median -0.058, lower in 5
+2021-07-01 A not entailed  names only                            : 8 ontologies, 3y+ minus 1y median -0.024, lower in 5
+2021-07-01 A not entailed  reasoner: nearest inferred ancestor   : 8 ontologies, 3y+ minus 1y median +0.004, lower in 4
+2021-07-01 A entailed      hybrid                                : 3 ontologies, 3y+ minus 1y median -0.004, lower in 2
+2021-07-01 A entailed      names only                            : 3 ontologies, 3y+ minus 1y median +0.019, lower in 1
+2021-07-01 A entailed      reasoner: nearest inferred ancestor   : 3 ontologies, 3y+ minus 1y median -0.139, lower in 2
+2021-07-01 B               hybrid                                : 17 ontologies, 3y+ minus 1y median +0.042, lower in 7
+2021-07-01 B               names only                            : 17 ontologies, 3y+ minus 1y median -0.048, lower in 11
+2023-07-01 A not entailed  hybrid                                : 3 ontologies, 3y+ minus 1y median +0.017, lower in 1
+2023-07-01 A not entailed  names only                            : 3 ontologies, 3y+ minus 1y median -0.054, lower in 3
+2023-07-01 A not entailed  reasoner: nearest inferred ancestor   : 3 ontologies, 3y+ minus 1y median -0.009, lower in 2
+2023-07-01 A entailed      hybrid                                : 4 ontologies, 3y+ minus 1y median -0.132, lower in 2
+2023-07-01 A entailed      names only                            : 4 ontologies, 3y+ minus 1y median -0.048, lower in 4
+2023-07-01 A entailed      reasoner: nearest inferred ancestor   : 4 ontologies, 3y+ minus 1y median -0.275, lower in 3
+2023-07-01 B               hybrid                                : 11 ontologies, 3y+ minus 1y median -0.043, lower in 6
+2023-07-01 B               names only                            : 11 ontologies, 3y+ minus 1y median -0.042, lower in 7

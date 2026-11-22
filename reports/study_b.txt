@@ -1,0 +1,149 @@
+== Device check: 2019 std fold 0, R seed 0 (CPU) vs RGPU seed 0 (GPU), same seed
+  A not entailed  GPU − CPU per ontology: mean +0.0043, max |diff| 0.1195; spread between the 3 seeds (mean |seed − seed mean|): 0.0226
+  A all           GPU − CPU per ontology: mean -0.0073, max |diff| 0.1195; spread between the 3 seeds (mean |seed − seed mean|): 0.0254
+  A entailed      GPU − CPU per ontology: mean +0.0076, max |diff| 0.1155; spread between the 3 seeds (mean |seed − seed mean|): 0.0304
+  B new class     GPU − CPU per ontology: mean +0.0147, max |diff| 0.0765; spread between the 3 seeds (mean |seed − seed mean|): 0.0250
+
+== H1: GNN R vs hybrid (and names only), per cutoff and fold set
+  2019 std      A not entailed  GNN R vs hybrid: 0.187 vs 0.177, wins 13/23, mean +0.010, median +0.009, CI -0.010..+0.032 | per seed +0.011 +0.006 +0.013
+  2019 std      B new class     GNN R vs hybrid: 0.450 vs 0.417, wins 21/27, mean +0.033, median +0.039, CI +0.008..+0.058 | per seed +0.044 +0.032 +0.024
+  2019 std      B new class     GNN R vs names only: 0.450 vs 0.362, wins 19/27, mean +0.088, median +0.087, CI +0.027..+0.151 | per seed +0.099 +0.087 +0.079
+  2019 std      A all           GNN R vs hybrid: 0.200 vs 0.195, wins 11/23, mean +0.005, median -0.005, CI -0.012..+0.023 | per seed +0.003 +0.003 +0.009
+  2019 famA     A not entailed  GNN R vs hybrid: 0.159 vs 0.147, wins 5/11, mean +0.011, median -0.001, CI -0.012..+0.038 | per seed +0.008 +0.004 +0.022
+  2019 famA     B new class     GNN R vs hybrid: 0.460 vs 0.384, wins 13/13, mean +0.075, median +0.060, CI +0.043..+0.111 | per seed +0.074 +0.091 +0.061
+  2019 famA     B new class     GNN R vs names only: 0.460 vs 0.385, wins 8/13, mean +0.075, median +0.124, CI -0.015..+0.172 | per seed +0.074 +0.091 +0.060
+  2019 famA     A all           GNN R vs hybrid: 0.177 vs 0.171, wins 5/11, mean +0.006, median -0.001, CI -0.009..+0.023 | per seed -0.005 +0.001 +0.023
+  2019 famB     A not entailed  GNN R vs hybrid: 0.209 vs 0.204, wins 7/12, mean +0.005, median +0.013, CI -0.026..+0.043 | per seed -0.006 -0.003 +0.023
+  2019 famB     B new class     GNN R vs hybrid: 0.452 vs 0.447, wins 8/14, mean +0.004, median +0.025, CI -0.020..+0.027 | per seed +0.005 -0.006 +0.015
+  2019 famB     B new class     GNN R vs names only: 0.452 vs 0.341, wins 10/14, mean +0.111, median +0.088, CI +0.022..+0.204 | per seed +0.111 +0.100 +0.121
+  2019 famB     A all           GNN R vs hybrid: 0.215 vs 0.218, wins 6/12, mean -0.003, median +0.001, CI -0.030..+0.029 | per seed -0.015 -0.010 +0.015
+  2019 famBsize A not entailed  GNN R vs hybrid: 0.204 vs 0.204, wins 6/12, mean -0.000, median +0.000, CI -0.029..+0.032 | per seed +0.004 -0.020 +0.014
+  2019 famBsize B new class     GNN R vs hybrid: 0.436 vs 0.447, wins 7/14, mean -0.011, median +0.001, CI -0.041..+0.018 | per seed -0.030 -0.032 +0.030
+  2019 famBsize B new class     GNN R vs names only: 0.436 vs 0.341, wins 10/14, mean +0.095, median +0.065, CI +0.012..+0.184 | per seed +0.076 +0.074 +0.136
+  2019 famBsize A all           GNN R vs hybrid: 0.208 vs 0.218, wins 6/12, mean -0.009, median -0.002, CI -0.034..+0.017 | per seed -0.007 -0.029 +0.008
+  2021 std      A not entailed  GNN R vs hybrid: 0.199 vs 0.160, wins 13/16, mean +0.039, median +0.028, CI +0.019..+0.060 | per seed +0.048 +0.031 +0.037
+  2021 std      B new class     GNN R vs hybrid: 0.454 vs 0.397, wins 24/28, mean +0.057, median +0.045, CI +0.036..+0.079 | per seed +0.054 +0.053 +0.065
+  2021 std      B new class     GNN R vs names only: 0.454 vs 0.361, wins 20/28, mean +0.093, median +0.071, CI +0.030..+0.160 | per seed +0.090 +0.089 +0.100
+  2021 std      A all           GNN R vs hybrid: 0.209 vs 0.199, wins 11/20, mean +0.011, median +0.003, CI -0.012..+0.032 | per seed +0.009 +0.013 +0.010
+  2021 famA     A not entailed  GNN R vs hybrid: 0.168 vs 0.143, wins 7/11, mean +0.024, median +0.017, CI +0.004..+0.047 | per seed +0.038 +0.014 +0.022
+  2021 famA     B new class     GNN R vs hybrid: 0.437 vs 0.373, wins 11/13, mean +0.064, median +0.034, CI +0.030..+0.099 | per seed +0.079 +0.046 +0.066
+  2021 famA     B new class     GNN R vs names only: 0.437 vs 0.409, wins 8/13, mean +0.028, median +0.049, CI -0.049..+0.102 | per seed +0.044 +0.011 +0.030
+  2021 famA     A all           GNN R vs hybrid: 0.189 vs 0.179, wins 10/13, mean +0.011, median +0.006, CI -0.012..+0.032 | per seed +0.013 -0.003 +0.023
+  2021 famB     A not entailed  GNN R vs hybrid: 0.231 vs 0.198, wins 3/5, mean +0.033, median +0.024, CI -0.008..+0.072 | per seed -0.003 +0.043 +0.059
+  2021 famB     B new class     GNN R vs hybrid: 0.437 vs 0.417, wins 9/15, mean +0.020, median +0.021, CI -0.007..+0.051 | per seed +0.016 +0.002 +0.041
+  2021 famB     B new class     GNN R vs names only: 0.437 vs 0.320, wins 10/15, mean +0.117, median +0.067, CI +0.025..+0.225 | per seed +0.113 +0.100 +0.139
+  2021 famB     A all           GNN R vs hybrid: 0.244 vs 0.236, wins 3/7, mean +0.008, median -0.013, CI -0.037..+0.052 | per seed -0.011 +0.009 +0.027
+  2021 famBsize A not entailed  GNN R vs hybrid: 0.237 vs 0.198, wins 5/5, mean +0.039, median +0.023, CI +0.010..+0.072 | per seed +0.037 +0.067 +0.014
+  2021 famBsize B new class     GNN R vs hybrid: 0.445 vs 0.417, wins 11/15, mean +0.028, median +0.023, CI +0.005..+0.053 | per seed +0.026 +0.037 +0.020
+  2021 famBsize B new class     GNN R vs names only: 0.445 vs 0.320, wins 10/15, mean +0.125, median +0.080, CI +0.032..+0.230 | per seed +0.124 +0.135 +0.118
+  2021 famBsize A all           GNN R vs hybrid: 0.242 vs 0.236, wins 5/7, mean +0.006, median +0.010, CI -0.040..+0.050 | per seed +0.011 +0.020 -0.012
+  2023 std      A not entailed  GNN R vs hybrid: 0.181 vs 0.148, wins 13/15, mean +0.033, median +0.023, CI +0.010..+0.058 | per seed +0.034 +0.030 +0.037
+  2023 std      B new class     GNN R vs hybrid: 0.433 vs 0.385, wins 19/23, mean +0.048, median +0.050, CI +0.028..+0.069 | per seed +0.051 +0.043 +0.050
+  2023 std      B new class     GNN R vs names only: 0.433 vs 0.321, wins 17/23, mean +0.112, median +0.064, CI +0.038..+0.192 | per seed +0.114 +0.107 +0.114
+  2023 std      A all           GNN R vs hybrid: 0.201 vs 0.176, wins 13/15, mean +0.025, median +0.020, CI -0.001..+0.050 | per seed +0.020 +0.028 +0.027
+  2023 famA     A not entailed  GNN R vs hybrid: 0.163 vs 0.121, wins 8/11, mean +0.043, median +0.015, CI +0.016..+0.072 | per seed +0.052 +0.046 +0.029
+  2023 famA     B new class     GNN R vs hybrid: 0.399 vs 0.360, wins 9/11, mean +0.039, median +0.045, CI +0.017..+0.063 | per seed +0.041 +0.035 +0.042
+  2023 famA     B new class     GNN R vs names only: 0.399 vs 0.363, wins 8/11, mean +0.036, median +0.041, CI -0.034..+0.108 | per seed +0.038 +0.032 +0.039
+  2023 famA     A all           GNN R vs hybrid: 0.192 vs 0.157, wins 9/11, mean +0.036, median +0.029, CI +0.016..+0.055 | per seed +0.049 +0.041 +0.016
+  2023 famB     A not entailed  GNN R vs hybrid: 0.280 vs 0.222, wins 3/4, mean +0.058, median +0.029, CI -0.006..+0.151 | per seed +0.044 +0.072 +0.059
+  2023 famB     B new class     GNN R vs hybrid: 0.430 vs 0.407, wins 8/12, mean +0.023, median +0.027, CI -0.012..+0.060 | per seed +0.047 +0.015 +0.007
+  2023 famB     B new class     GNN R vs names only: 0.430 vs 0.283, wins 8/12, mean +0.147, median +0.134, CI +0.021..+0.287 | per seed +0.171 +0.139 +0.132
+  2023 famB     A all           GNN R vs hybrid: 0.279 vs 0.227, wins 2/4, mean +0.052, median +0.011, CI -0.015..+0.150 | per seed +0.030 +0.063 +0.063
+  2023 famBsize A not entailed  GNN R vs hybrid: 0.270 vs 0.222, wins 2/4, mean +0.048, median +0.019, CI -0.024..+0.150 | per seed +0.062 +0.049 +0.034
+  2023 famBsize B new class     GNN R vs hybrid: 0.430 vs 0.407, wins 7/12, mean +0.023, median +0.022, CI -0.012..+0.060 | per seed +0.022 +0.015 +0.032
+  2023 famBsize B new class     GNN R vs names only: 0.430 vs 0.283, wins 8/12, mean +0.148, median +0.098, CI +0.030..+0.278 | per seed +0.146 +0.140 +0.156
+  2023 famBsize A all           GNN R vs hybrid: 0.267 vs 0.227, wins 3/4, mean +0.040, median +0.009, CI -0.029..+0.140 | per seed +0.035 +0.049 +0.036
+
+== H1: effect of related training ontologies vs training size (famB vs famBsize, std vs famA on the same ontologies)
+  2019 famB     A not entailed  famB (all others) vs famBsize (size-matched): 0.209 vs 0.204, wins 9/12, mean +0.005, median +0.009, CI -0.007..+0.017 | per seed -0.005 -0.002 +0.023
+  2019 famA     A not entailed  std (related in training) vs famA (no related): 0.164 vs 0.159, wins 6/11, mean +0.005, median +0.012, CI -0.009..+0.018 | per seed +0.003 +0.013 -0.000
+  2019 famB     B new class     famB (all others) vs famBsize (size-matched): 0.452 vs 0.436, wins 11/14, mean +0.015, median +0.010, CI +0.003..+0.027 | per seed +0.015 +0.005 +0.025
+  2019 famA     B new class     std (related in training) vs famA (no related): 0.441 vs 0.460, wins 4/13, mean -0.018, median -0.011, CI -0.038..-0.001 | per seed -0.002 -0.017 -0.036
+  2021 famB     A not entailed  famB (all others) vs famBsize (size-matched): 0.231 vs 0.237, wins 2/5, mean -0.006, median -0.013, CI -0.023..+0.014 | per seed -0.042 +0.004 +0.020
+  2021 famA     A not entailed  std (related in training) vs famA (no related): 0.187 vs 0.168, wins 7/11, mean +0.019, median +0.014, CI -0.001..+0.042 | per seed +0.038 +0.001 +0.019
+  2021 famB     B new class     famB (all others) vs famBsize (size-matched): 0.437 vs 0.445, wins 5/15, mean -0.008, median -0.013, CI -0.019..+0.004 | per seed -0.012 -0.026 +0.013
+  2021 famA     B new class     std (related in training) vs famA (no related): 0.463 vs 0.437, wins 11/13, mean +0.026, median +0.017, CI +0.009..+0.045 | per seed +0.027 +0.012 +0.039
+  2023 famB     A not entailed  famB (all others) vs famBsize (size-matched): 0.280 vs 0.270, wins 2/4, mean +0.010, median +0.010, CI -0.012..+0.032 | per seed -0.004 +0.023 +0.011
+  2023 famA     A not entailed  std (related in training) vs famA (no related): 0.152 vs 0.163, wins 4/11, mean -0.011, median -0.010, CI -0.030..+0.006 | per seed -0.007 -0.027 +0.000
+  2023 famB     B new class     famB (all others) vs famBsize (size-matched): 0.430 vs 0.430, wins 5/12, mean -0.000, median -0.013, CI -0.021..+0.022 | per seed +0.023 -0.008 -0.016
+  2023 famA     B new class     std (related in training) vs famA (no related): 0.423 vs 0.399, wins 10/11, mean +0.023, median +0.023, CI +0.009..+0.038 | per seed +0.028 +0.012 +0.030
+
+== H4: history regimes vs R (std folds)
+  2021 std      A not entailed  GNN M vs GNN R: 0.188 vs 0.199, wins 6/16, mean -0.011, median -0.015, CI -0.035..+0.014 | per seed -0.006 -0.019 -0.008
+  2021 std      A not entailed  GNN E vs GNN R: 0.186 vs 0.199, wins 6/16, mean -0.013, median -0.005, CI -0.037..+0.010 | per seed -0.003 -0.011 -0.024
+  2021 std      A not entailed  GNN N vs GNN R: 0.186 vs 0.199, wins 6/16, mean -0.013, median -0.018, CI -0.036..+0.011 | per seed +0.001 -0.019 -0.022
+  2021 std      A not entailed  GNN X vs GNN R: 0.191 vs 0.199, wins 9/16, mean -0.008, median +0.009, CI -0.037..+0.018 | per seed +0.004 -0.014 -0.015
+  2021 std      A not entailed  GNN X vs GNN E: 0.191 vs 0.186, wins 7/16, mean +0.004, median -0.000, CI -0.012..+0.022 | per seed +0.017 -0.001 -0.003
+  2021 std      A entailed      GNN M vs GNN R: 0.284 vs 0.238, wins 10/13, mean +0.046, median +0.038, CI +0.004..+0.088 | per seed +0.048 +0.029 +0.061
+  2021 std      A entailed      GNN E vs GNN R: 0.333 vs 0.238, wins 12/13, mean +0.095, median +0.072, CI +0.051..+0.142 | per seed +0.145 +0.095 +0.044
+  2021 std      A entailed      GNN N vs GNN R: 0.268 vs 0.238, wins 9/13, mean +0.030, median +0.038, CI -0.001..+0.059 | per seed +0.041 +0.030 +0.019
+  2021 std      A entailed      GNN X vs GNN R: 0.202 vs 0.238, wins 6/13, mean -0.036, median -0.027, CI -0.091..+0.008 | per seed -0.058 -0.021 -0.028
+  2021 std      A entailed      GNN X vs GNN E: 0.202 vs 0.333, wins 1/13, mean -0.131, median -0.128, CI -0.201..-0.072 | per seed -0.153 -0.116 -0.123
+  2021 std      B new class     GNN M vs GNN R: 0.451 vs 0.454, wins 10/28, mean -0.003, median -0.008, CI -0.012..+0.008 | per seed +0.011 -0.017 -0.002
+  2021 std      B new class     GNN E vs GNN R: 0.400 vs 0.454, wins 3/28, mean -0.055, median -0.046, CI -0.074..-0.036 | per seed -0.059 -0.038 -0.067
+  2021 std      B new class     GNN N vs GNN R: 0.468 vs 0.454, wins 19/28, mean +0.014, median +0.011, CI +0.001..+0.027 | per seed +0.020 +0.005 +0.016
+  2021 std      B new class     GNN X vs GNN R: 0.401 vs 0.454, wins 3/28, mean -0.053, median -0.040, CI -0.072..-0.035 | per seed -0.038 -0.056 -0.064
+  2021 std      B new class     GNN X vs GNN E: 0.401 vs 0.400, wins 19/28, mean +0.002, median +0.004, CI -0.007..+0.010 | per seed +0.017 -0.002 -0.010
+  2023 std      A not entailed  GNN M vs GNN R: 0.190 vs 0.181, wins 10/15, mean +0.009, median +0.007, CI -0.008..+0.025 | per seed +0.018 +0.006 +0.003
+  2023 std      A not entailed  GNN E vs GNN R: 0.179 vs 0.181, wins 6/15, mean -0.002, median -0.018, CI -0.028..+0.025 | per seed +0.007 +0.004 -0.018
+  2023 std      A not entailed  GNN N vs GNN R: 0.191 vs 0.181, wins 10/15, mean +0.009, median +0.011, CI -0.008..+0.026 | per seed +0.013 +0.013 +0.003
+  2023 std      A not entailed  GNN X vs GNN R: 0.172 vs 0.181, wins 6/15, mean -0.009, median -0.018, CI -0.031..+0.015 | per seed +0.016 -0.016 -0.027
+  2023 std      A not entailed  GNN X vs GNN E: 0.172 vs 0.179, wins 7/15, mean -0.007, median -0.011, CI -0.023..+0.009 | per seed +0.018 -0.014 -0.025
+  2023 std      A entailed      GNN M vs GNN R: 0.263 vs 0.262, wins 5/10, mean +0.001, median +0.006, CI -0.021..+0.021 | per seed -0.020 +0.011 +0.011
+  2023 std      A entailed      GNN E vs GNN R: 0.300 vs 0.262, wins 6/10, mean +0.038, median +0.025, CI +0.003..+0.075 | per seed +0.068 +0.020 +0.025
+  2023 std      A entailed      GNN N vs GNN R: 0.254 vs 0.262, wins 3/10, mean -0.008, median -0.018, CI -0.029..+0.016 | per seed -0.010 -0.009 -0.006
+  2023 std      A entailed      GNN X vs GNN R: 0.207 vs 0.262, wins 2/10, mean -0.055, median -0.061, CI -0.083..-0.025 | per seed -0.093 -0.055 -0.017
+  2023 std      A entailed      GNN X vs GNN E: 0.207 vs 0.300, wins 0/10, mean -0.093, median -0.071, CI -0.142..-0.049 | per seed -0.131 -0.093 -0.055
+  2023 std      B new class     GNN M vs GNN R: 0.440 vs 0.433, wins 13/23, mean +0.008, median +0.006, CI -0.013..+0.030 | per seed +0.004 +0.007 +0.012
+  2023 std      B new class     GNN E vs GNN R: 0.383 vs 0.433, wins 3/23, mean -0.049, median -0.039, CI -0.067..-0.031 | per seed -0.035 -0.052 -0.061
+  2023 std      B new class     GNN N vs GNN R: 0.434 vs 0.433, wins 10/23, mean +0.002, median -0.007, CI -0.016..+0.021 | per seed +0.001 +0.002 +0.003
+  2023 std      B new class     GNN X vs GNN R: 0.357 vs 0.433, wins 1/23, mean -0.076, median -0.078, CI -0.093..-0.057 | per seed -0.082 -0.073 -0.071
+  2023 std      B new class     GNN X vs GNN E: 0.357 vs 0.383, wins 6/23, mean -0.026, median -0.015, CI -0.042..-0.011 | per seed -0.033 -0.024 -0.022
+
+== H5: GNN vs tuned non-neural ranker (std folds)
+  2019 std      A not entailed  GNN R vs GBR_del: 0.187 vs 0.202, wins 7/23, mean -0.015, median -0.008, CI -0.032..-0.000 | per seed -0.014 -0.018 -0.012
+  2019 std      A not entailed  GBR_del vs hybrid: 0.202 vs 0.177, wins 17/23, mean +0.025, median +0.015, CI +0.007..+0.044
+  2019 std      A all           GNN R vs GBR_del: 0.200 vs 0.192, wins 13/23, mean +0.008, median +0.004, CI -0.012..+0.027 | per seed +0.007 +0.006 +0.012
+  2019 std      A all           GBR_del vs hybrid: 0.192 vs 0.195, wins 10/23, mean -0.003, median -0.003, CI -0.020..+0.014
+  2019 std      B new class     GNN R vs GBR_del: 0.450 vs 0.468, wins 11/27, mean -0.018, median -0.014, CI -0.038..+0.003 | per seed -0.007 -0.019 -0.027
+  2019 std      B new class     GBR_del vs hybrid: 0.468 vs 0.417, wins 27/27, mean +0.051, median +0.045, CI +0.039..+0.065
+  2021 std      A not entailed  GNN R vs GBR_del: 0.199 vs 0.195, wins 8/16, mean +0.004, median +0.001, CI -0.024..+0.035 | per seed +0.014 -0.004 +0.003
+  2021 std      A not entailed  GNN M vs GBR_delhist: 0.188 vs 0.208, wins 6/16, mean -0.020, median -0.017, CI -0.051..+0.008 | per seed -0.015 -0.028 -0.017
+  2021 std      A not entailed  GBR_del vs hybrid: 0.195 vs 0.160, wins 13/16, mean +0.034, median +0.016, CI +0.012..+0.059
+  2021 std      A all           GNN R vs GBR_del: 0.209 vs 0.187, wins 10/20, mean +0.022, median +0.011, CI -0.006..+0.051 | per seed +0.021 +0.024 +0.021
+  2021 std      A all           GNN M vs GBR_delhist: 0.213 vs 0.225, wins 10/20, mean -0.012, median +0.007, CI -0.042..+0.016 | per seed -0.003 -0.022 -0.010
+  2021 std      A all           GBR_del vs hybrid: 0.187 vs 0.199, wins 11/20, mean -0.011, median +0.004, CI -0.043..+0.015
+  2021 std      B new class     GNN R vs GBR_del: 0.454 vs 0.452, wins 11/28, mean +0.002, median -0.005, CI -0.015..+0.019 | per seed -0.001 -0.002 +0.009
+  2021 std      B new class     GNN M vs GBR_delhist: 0.451 vs 0.469, wins 7/28, mean -0.017, median -0.023, CI -0.036..+0.001 | per seed -0.004 -0.032 -0.016
+  2021 std      B new class     GBR_del vs hybrid: 0.452 vs 0.397, wins 25/28, mean +0.055, median +0.054, CI +0.035..+0.074
+  2023 std      A not entailed  GNN R vs GBR_del: 0.181 vs 0.191, wins 7/15, mean -0.010, median -0.021, CI -0.035..+0.015 | per seed -0.009 -0.013 -0.006
+  2023 std      A not entailed  GNN M vs GBR_delhist: 0.190 vs 0.195, wins 9/15, mean -0.004, median +0.003, CI -0.030..+0.020 | per seed +0.004 -0.007 -0.010
+  2023 std      A not entailed  GBR_del vs hybrid: 0.191 vs 0.148, wins 9/15, mean +0.043, median +0.022, CI +0.015..+0.071
+  2023 std      A all           GNN R vs GBR_del: 0.201 vs 0.178, wins 9/15, mean +0.022, median +0.032, CI -0.006..+0.052 | per seed +0.017 +0.025 +0.025
+  2023 std      A all           GNN M vs GBR_delhist: 0.209 vs 0.199, wins 9/15, mean +0.010, median +0.020, CI -0.018..+0.037 | per seed +0.013 +0.006 +0.010
+  2023 std      A all           GBR_del vs hybrid: 0.178 vs 0.176, wins 5/15, mean +0.002, median -0.009, CI -0.021..+0.029
+  2023 std      B new class     GNN R vs GBR_del: 0.433 vs 0.428, wins 12/23, mean +0.004, median +0.006, CI -0.014..+0.023 | per seed +0.007 -0.001 +0.006
+  2023 std      B new class     GNN M vs GBR_delhist: 0.440 vs 0.450, wins 8/23, mean -0.010, median -0.007, CI -0.033..+0.014 | per seed -0.013 -0.010 -0.005
+  2023 std      B new class     GBR_del vs hybrid: 0.428 vs 0.385, wins 20/23, mean +0.044, median +0.039, CI +0.024..+0.063
+
+== Ablations (2023, std): NAMES / STRUCT / NOREL vs R
+  2023 std      A not entailed  GNN NAMES vs GNN R: 0.122 vs 0.181, wins 3/15, mean -0.060, median -0.058, CI -0.106..-0.011 | per seed -0.060 -0.059 -0.060
+  2023 std      A not entailed  GNN STRUCT vs GNN R: 0.092 vs 0.181, wins 1/15, mean -0.090, median -0.064, CI -0.131..-0.053 | per seed -0.086 -0.090 -0.093
+  2023 std      A not entailed  GNN NOREL vs GNN R: 0.182 vs 0.181, wins 7/15, mean +0.001, median -0.000, CI -0.016..+0.018 | per seed +0.008 -0.004 -0.000
+  2023 std      A entailed      GNN NAMES vs GNN R: 0.061 vs 0.262, wins 0/10, mean -0.201, median -0.131, CI -0.314..-0.107 | per seed -0.201 -0.201 -0.201
+  2023 std      A entailed      GNN STRUCT vs GNN R: 0.209 vs 0.262, wins 3/10, mean -0.053, median -0.074, CI -0.148..+0.050 | per seed -0.086 -0.056 -0.016
+  2023 std      A entailed      GNN NOREL vs GNN R: 0.245 vs 0.262, wins 3/10, mean -0.017, median -0.017, CI -0.050..+0.015 | per seed -0.029 -0.018 -0.004
+  2023 std      B new class     GNN NAMES vs GNN R: 0.318 vs 0.433, wins 5/23, mean -0.114, median -0.070, CI -0.193..-0.041 | per seed -0.115 -0.114 -0.115
+  2023 std      B new class     GNN STRUCT vs GNN R: 0.067 vs 0.433, wins 0/23, mean -0.365, median -0.343, CI -0.406..-0.328 | per seed -0.358 -0.364 -0.374
+  2023 std      B new class     GNN NOREL vs GNN R: 0.447 vs 0.433, wins 13/23, mean +0.015, median +0.009, CI +0.003..+0.029 | per seed +0.015 +0.011 +0.018
+
+== Reasoner vs GNN R on entailed / not-entailed (std)
+  2019 std      A entailed      GNN R vs reasoner: 0.228 vs 0.699, wins 0/13, mean -0.471, median -0.396, CI -0.593..-0.355 | per seed -0.485 -0.456 -0.471
+  2019 std      A not entailed  GNN R vs reasoner: 0.187 vs 0.070, wins 23/23, mean +0.117, median +0.094, CI +0.086..+0.153 | per seed +0.117 +0.113 +0.120
+  2019 std      A all           GNN R vs reasoner: 0.200 vs 0.213, wins 13/23, mean -0.012, median +0.019, CI -0.080..+0.046 | per seed -0.014 -0.014 -0.009
+  2021 std      A entailed      GNN R vs reasoner: 0.238 vs 0.719, wins 0/13, mean -0.481, median -0.438, CI -0.604..-0.358 | per seed -0.477 -0.481 -0.485
+  2021 std      A not entailed  GNN R vs reasoner: 0.199 vs 0.059, wins 16/16, mean +0.140, median +0.127, CI +0.112..+0.174 | per seed +0.149 +0.132 +0.139
+  2021 std      A all           GNN R vs reasoner: 0.209 vs 0.258, wins 6/20, mean -0.049, median -0.039, CI -0.112..+0.009 | per seed -0.051 -0.047 -0.050
+  2023 std      A entailed      GNN R vs reasoner: 0.262 vs 0.797, wins 0/10, mean -0.535, median -0.477, CI -0.693..-0.386 | per seed -0.554 -0.533 -0.517
+  2023 std      A not entailed  GNN R vs reasoner: 0.181 vs 0.063, wins 15/15, mean +0.118, median +0.101, CI +0.079..+0.161 | per seed +0.118 +0.114 +0.121
+  2023 std      A all           GNN R vs reasoner: 0.201 vs 0.282, wins 6/15, mean -0.082, median -0.054, CI -0.154..-0.019 | per seed -0.087 -0.079 -0.079

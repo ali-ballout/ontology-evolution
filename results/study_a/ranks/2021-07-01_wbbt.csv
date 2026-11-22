@@ -1,0 +1,43 @@
+cutoff,ontology,task,i,model,rank,kind,h,entailed
+2021-07-01,wbbt,A,0,names only,1.5,added,1y,False
+2021-07-01,wbbt,A,0,name vote,1.0,added,1y,False
+2021-07-01,wbbt,A,0,structural vote,4.0,added,1y,False
+2021-07-01,wbbt,A,0,hybrid,1.0,added,1y,False
+2021-07-01,wbbt,A,0,reasoner: nearest inferred ancestor,3.0,added,1y,False
+2021-07-01,wbbt,A,0,reasoner: ancestors by hybrid,3.0,added,1y,False
+2021-07-01,wbbt,A,1,names only,4.5,added,1y,False
+2021-07-01,wbbt,A,1,name vote,1.0,added,1y,False
+2021-07-01,wbbt,A,1,structural vote,4.0,added,1y,False
+2021-07-01,wbbt,A,1,hybrid,1.0,added,1y,False
+2021-07-01,wbbt,A,1,reasoner: nearest inferred ancestor,3.0,added,1y,False
+2021-07-01,wbbt,A,1,reasoner: ancestors by hybrid,3.0,added,1y,False
+2021-07-01,wbbt,A,2,names only,4931.0,moved,1y,False
+2021-07-01,wbbt,A,2,name vote,5.0,moved,1y,False
+2021-07-01,wbbt,A,2,structural vote,12.5,moved,1y,False
+2021-07-01,wbbt,A,2,hybrid,4.0,moved,1y,False
+2021-07-01,wbbt,A,2,reasoner: nearest inferred ancestor,12.0,moved,1y,False
+2021-07-01,wbbt,A,2,reasoner: ancestors by hybrid,12.0,moved,1y,False
+2021-07-01,wbbt,A,3,names only,5943.0,moved,1y,False
+2021-07-01,wbbt,A,3,name vote,7.0,moved,1y,False
+2021-07-01,wbbt,A,3,structural vote,11.5,moved,1y,False
+2021-07-01,wbbt,A,3,hybrid,6.0,moved,1y,False
+2021-07-01,wbbt,A,3,reasoner: nearest inferred ancestor,14.0,moved,1y,False
+2021-07-01,wbbt,A,3,reasoner: ancestors by hybrid,14.0,moved,1y,False
+2021-07-01,wbbt,A,4,names only,5889.0,moved,1y,False
+2021-07-01,wbbt,A,4,name vote,3.0,moved,1y,False
+2021-07-01,wbbt,A,4,structural vote,12.5,moved,1y,False
+2021-07-01,wbbt,A,4,hybrid,3.0,moved,1y,False
+2021-07-01,wbbt,A,4,reasoner: nearest inferred ancestor,11.0,moved,1y,False
+2021-07-01,wbbt,A,4,reasoner: ancestors by hybrid,11.0,moved,1y,False
+2021-07-01,wbbt,A,5,names only,56.0,moved,1y,False
+2021-07-01,wbbt,A,5,name vote,57.0,moved,1y,False
+2021-07-01,wbbt,A,5,structural vote,63.5,moved,1y,False
+2021-07-01,wbbt,A,5,hybrid,59.0,moved,1y,False
+2021-07-01,wbbt,A,5,reasoner: nearest inferred ancestor,60.0,moved,1y,False
+2021-07-01,wbbt,A,5,reasoner: ancestors by hybrid,60.0,moved,1y,False
+2021-07-01,wbbt,A,6,names only,832.0,added,1y,False
+2021-07-01,wbbt,A,6,name vote,836.0,added,1y,False
+2021-07-01,wbbt,A,6,structural vote,3706.5,added,1y,False
+2021-07-01,wbbt,A,6,hybrid,841.0,added,1y,False
+2021-07-01,wbbt,A,6,reasoner: nearest inferred ancestor,844.0,added,1y,False
+2021-07-01,wbbt,A,6,reasoner: ancestors by hybrid,844.0,added,1y,False

@@ -1,0 +1,140 @@
+== Part 1: H1 for the tuned ranker (GBR_del_c) on family-held-out folds
+  2019 famA     A not entailed  rr  ranker vs hybrid: 0.179 vs 0.147, wins 7/11, mean +0.032, CI +0.007..+0.060; 3 clusters (too few)
+  2019 famA     B new class     rr  ranker vs hybrid: 0.450 vs 0.384, wins 13/13, mean +0.065, CI +0.044..+0.087; 5 clusters (too few)
+  2019 famA     B new class     rr  ranker vs names only: 0.450 vs 0.385, wins 9/13, mean +0.065, CI -0.023..+0.157; 5 clusters (too few)
+  2019 famB     A not entailed  rr  ranker vs hybrid: 0.239 vs 0.204, wins 10/12, mean +0.035, CI +0.008..+0.068; cluster CI (12) +0.008..+0.068
+  2019 famB     B new class     rr  ranker vs hybrid: 0.487 vs 0.447, wins 14/14, mean +0.039, CI +0.025..+0.058; cluster CI (14) +0.025..+0.058
+  2019 famB     B new class     rr  ranker vs names only: 0.487 vs 0.341, wins 10/14, mean +0.146, CI +0.058..+0.237; cluster CI (14) +0.058..+0.237
+  2019 famBsize A not entailed  rr  ranker vs hybrid: 0.237 vs 0.204, wins 10/12, mean +0.033, CI +0.012..+0.056; cluster CI (12) +0.012..+0.056
+  2019 famBsize B new class     rr  ranker vs hybrid: 0.486 vs 0.447, wins 11/14, mean +0.039, CI +0.018..+0.064; cluster CI (14) +0.018..+0.064
+  2019 famBsize B new class     rr  ranker vs names only: 0.486 vs 0.341, wins 10/14, mean +0.145, CI +0.061..+0.234; cluster CI (14) +0.061..+0.234
+  2021 famA     A not entailed  rr  ranker vs hybrid: 0.168 vs 0.143, wins 7/11, mean +0.024, CI +0.002..+0.050; 2 clusters (too few)
+  2021 famA     B new class     rr  ranker vs hybrid: 0.433 vs 0.373, wins 13/13, mean +0.060, CI +0.042..+0.079; 4 clusters (too few)
+  2021 famA     B new class     rr  ranker vs names only: 0.433 vs 0.409, wins 9/13, mean +0.024, CI -0.055..+0.098; 4 clusters (too few)
+  2021 famB     A not entailed  rr  ranker vs hybrid: 0.219 vs 0.198, wins 3/5, mean +0.021, CI -0.000..+0.042; 5 clusters (too few)
+  2021 famB     B new class     rr  ranker vs hybrid: 0.446 vs 0.417, wins 13/15, mean +0.028, CI +0.012..+0.044; cluster CI (15) +0.012..+0.044
+  2021 famB     B new class     rr  ranker vs names only: 0.446 vs 0.320, wins 10/15, mean +0.126, CI +0.033..+0.230; cluster CI (15) +0.033..+0.230
+  2021 famBsize A not entailed  rr  ranker vs hybrid: 0.201 vs 0.198, wins 3/5, mean +0.003, CI -0.035..+0.043; 5 clusters (too few)
+  2021 famBsize B new class     rr  ranker vs hybrid: 0.448 vs 0.417, wins 13/15, mean +0.031, CI +0.012..+0.050; cluster CI (15) +0.012..+0.050
+  2021 famBsize B new class     rr  ranker vs names only: 0.448 vs 0.320, wins 11/15, mean +0.129, CI +0.041..+0.229; cluster CI (15) +0.041..+0.229
+  2023 famA     A not entailed  rr  ranker vs hybrid: 0.151 vs 0.121, wins 5/11, mean +0.031, CI +0.003..+0.060; 3 clusters (too few)
+  2023 famA     B new class     rr  ranker vs hybrid: 0.414 vs 0.360, wins 11/11, mean +0.054, CI +0.036..+0.075; 3 clusters (too few)
+  2023 famA     B new class     rr  ranker vs names only: 0.414 vs 0.363, wins 8/11, mean +0.051, CI -0.001..+0.108; 3 clusters (too few)
+  2023 famB     A not entailed  rr  ranker vs hybrid: 0.200 vs 0.222, wins 1/4, mean -0.022, CI -0.066..+0.015; 4 clusters (too few)
+  2023 famB     B new class     rr  ranker vs hybrid: 0.439 vs 0.407, wins 8/12, mean +0.032, CI +0.001..+0.062; cluster CI (12) +0.001..+0.062
+  2023 famB     B new class     rr  ranker vs names only: 0.439 vs 0.283, wins 9/12, mean +0.156, CI +0.038..+0.287; cluster CI (12) +0.038..+0.287
+  2023 famBsize A not entailed  rr  ranker vs hybrid: 0.262 vs 0.222, wins 2/4, mean +0.040, CI -0.026..+0.106; 4 clusters (too few)
+  2023 famBsize B new class     rr  ranker vs hybrid: 0.436 vs 0.407, wins 9/12, mean +0.029, CI +0.010..+0.046; cluster CI (12) +0.010..+0.046
+  2023 famBsize B new class     rr  ranker vs names only: 0.436 vs 0.283, wins 8/12, mean +0.153, CI +0.030..+0.289; cluster CI (12) +0.030..+0.289
+  famA intervals excluding zero: {('2019-07-01', 'A not entailed'): np.True_, ('2019-07-01', 'B new class'): np.True_, ('2021-07-01', 'A not entailed'): np.True_, ('2021-07-01', 'B new class'): np.True_, ('2023-07-01', 'A not entailed'): np.True_, ('2023-07-01', 'B new class'): np.True_}
+
+== Part 2: H6, re-parenting, std folds
+  2021 std      A all           rr  S3 vs R0: 0.238 vs 0.258, wins 7/20, mean -0.020, CI -0.089..+0.047; cluster CI (11) -0.072..+0.110; block -0.086 (13), independent +0.103 (7)
+  2021 std      A all           rr  S3 vs L0: 0.238 vs 0.239, wins 9/20, mean -0.000, CI -0.013..+0.011; cluster CI (11) -0.015..+0.011; block -0.006 (13), independent +0.011 (7)
+  2021 std      A entailed      rr  S3 vs R0: 0.281 vs 0.719, wins 0/13, mean -0.438, CI -0.563..-0.314; 4 clusters (too few); block -0.436 (11), independent -0.451 (2)
+  2021 std      A entailed      rr  S3 vs L0: 0.281 vs 0.280, wins 8/13, mean +0.001, CI -0.023..+0.022; 4 clusters (too few); block -0.004 (11), independent +0.027 (2)
+  2021 std      A not entailed  rr  S3 vs R0: 0.209 vs 0.059, wins 16/16, mean +0.150, CI +0.114..+0.190; 7 clusters (too few); block +0.147 (11), independent +0.158 (5)
+  2021 std      A not entailed  rr  S3 vs L0: 0.209 vs 0.200, wins 10/16, mean +0.009, CI -0.001..+0.020; 7 clusters (too few); block +0.006 (11), independent +0.015 (5)
+  2021 std      A all           rr  S1 vs R0: 0.266 vs 0.258, wins 13/20, mean +0.008, CI -0.000..+0.019; cluster CI (11) -0.001..+0.022; block +0.012 (13), independent +0.002 (7)
+  2021 std      A all           rr  S1 vs L0: 0.266 vs 0.239, wins 13/20, mean +0.028, CI -0.035..+0.095; cluster CI (11) -0.095..+0.076; block +0.091 (13), independent -0.091 (7)
+  2021 std      A entailed      rr  S1 vs R0: 0.728 vs 0.719, wins 7/13, mean +0.009, CI -0.009..+0.028; 4 clusters (too few); block +0.010 (11), independent +0.005 (2)
+  2021 std      A entailed      rr  S1 vs L0: 0.728 vs 0.280, wins 13/13, mean +0.448, CI +0.327..+0.566; 4 clusters (too few); block +0.442 (11), independent +0.483 (2)
+  2021 std      A not entailed  rr  S1 vs R0: 0.068 vs 0.059, wins 14/16, mean +0.009, CI +0.006..+0.013; 7 clusters (too few); block +0.009 (11), independent +0.010 (5)
+  2021 std      A not entailed  rr  S1 vs L0: 0.068 vs 0.200, wins 0/16, mean -0.132, CI -0.172..-0.097; 7 clusters (too few); block -0.131 (11), independent -0.133 (5)
+  2021 std      A all           rr  S2 vs R0: 0.241 vs 0.258, wins 7/20, mean -0.017, CI -0.081..+0.043; cluster CI (11) -0.065..+0.105; block -0.077 (13), independent +0.095 (7)
+  2021 std      A all           rr  S2 vs L0: 0.241 vs 0.239, wins 16/20, mean +0.003, CI +0.001..+0.004; cluster CI (11) +0.001..+0.004; block +0.003 (13), independent +0.003 (7)
+  2021 std      A entailed      rr  S2 vs R0: 0.284 vs 0.719, wins 0/13, mean -0.435, CI -0.548..-0.318; 4 clusters (too few); block -0.427 (11), independent -0.477 (2)
+  2021 std      A entailed      rr  S2 vs L0: 0.284 vs 0.280, wins 12/13, mean +0.005, CI +0.002..+0.008; 4 clusters (too few); block +0.005 (11), independent +0.000 (2)
+  2021 std      A not entailed  rr  S2 vs R0: 0.202 vs 0.059, wins 16/16, mean +0.143, CI +0.107..+0.185; 7 clusters (too few); block +0.142 (11), independent +0.146 (5)
+  2021 std      A not entailed  rr  S2 vs L0: 0.202 vs 0.200, wins 13/16, mean +0.002, CI +0.000..+0.005; 7 clusters (too few); block +0.002 (11), independent +0.003 (5)
+  2021 std      A all           rr  S4 vs R0: 0.257 vs 0.258, wins 11/20, mean -0.001, CI -0.058..+0.053; cluster CI (11) -0.043..+0.106; block -0.046 (13), independent +0.081 (7)
+  2021 std      A all           rr  S4 vs L0: 0.257 vs 0.239, wins 15/20, mean +0.018, CI -0.002..+0.039; cluster CI (11) -0.017..+0.038; block +0.034 (13), independent -0.011 (7)
+  2021 std      A entailed      rr  S4 vs R0: 0.498 vs 0.719, wins 3/13, mean -0.221, CI -0.365..-0.094; 4 clusters (too few); block -0.260 (11), independent -0.004 (2)
+  2021 std      A entailed      rr  S4 vs L0: 0.498 vs 0.280, wins 13/13, mean +0.219, CI +0.102..+0.349; 4 clusters (too few); block +0.172 (11), independent +0.474 (2)
+  2021 std      A not entailed  rr  S4 vs R0: 0.160 vs 0.059, wins 16/16, mean +0.102, CI +0.059..+0.151; 7 clusters (too few); block +0.111 (11), independent +0.080 (5)
+  2021 std      A not entailed  rr  S4 vs L0: 0.160 vs 0.200, wins 0/16, mean -0.040, CI -0.069..-0.014; 7 clusters (too few); block -0.029 (11), independent -0.063 (5)
+  2021 std      A all           rr  Oracle vs R0: 0.351 vs 0.258, wins 20/20, mean +0.093, CI +0.064..+0.125; cluster CI (11) +0.070..+0.124; block +0.077 (13), independent +0.122 (7)
+  2021 std      A all           rr  Oracle vs L0: 0.351 vs 0.239, wins 16/20, mean +0.113, CI +0.065..+0.165; cluster CI (11) +0.016..+0.154; block +0.157 (13), independent +0.030 (7)
+  2021 std      A entailed      rr  Oracle vs R0: 0.719 vs 0.719, wins 0/13, mean +0.000, CI +0.000..+0.000; 4 clusters (too few); block +0.000 (11), independent +0.000 (2)
+  2021 std      A entailed      rr  Oracle vs L0: 0.719 vs 0.280, wins 13/13, mean +0.439, CI +0.322..+0.554; 4 clusters (too few); block +0.432 (11), independent +0.478 (2)
+  2021 std      A not entailed  rr  Oracle vs R0: 0.200 vs 0.059, wins 16/16, mean +0.141, CI +0.105..+0.183; 7 clusters (too few); block +0.140 (11), independent +0.143 (5)
+  2021 std      A not entailed  rr  Oracle vs L0: 0.200 vs 0.200, wins 0/16, mean +0.000, CI +0.000..+0.000; 7 clusters (too few); block +0.000 (11), independent +0.000 (5)
+  2021 std      A all           rr  L0d vs R0: 0.206 vs 0.258, wins 8/20, mean -0.052, CI -0.128..+0.021; cluster CI (11) -0.106..+0.085; block -0.116 (13), independent +0.068 (7)
+  2021 std      A all           rr  L0d vs L0: 0.206 vs 0.239, wins 5/20, mean -0.032, CI -0.053..-0.011; cluster CI (11) -0.051..-0.008; block -0.036 (13), independent -0.024 (7)
+  2021 std      A entailed      rr  L0d vs R0: 0.177 vs 0.719, wins 0/13, mean -0.542, CI -0.676..-0.396; 4 clusters (too few); block -0.519 (11), independent -0.672 (2)
+  2021 std      A entailed      rr  L0d vs L0: 0.177 vs 0.280, wins 1/13, mean -0.103, CI -0.143..-0.059; 4 clusters (too few); block -0.087 (11), independent -0.194 (2)
+  2021 std      A not entailed  rr  L0d vs R0: 0.192 vs 0.059, wins 16/16, mean +0.134, CI +0.094..+0.182; 7 clusters (too few); block +0.136 (11), independent +0.130 (5)
+  2021 std      A not entailed  rr  L0d vs L0: 0.192 vs 0.200, wins 5/16, mean -0.007, CI -0.019..+0.005; 7 clusters (too few); block -0.005 (11), independent -0.013 (5)
+  2021 std      A all           h1  S3 vs R0: 0.134 vs 0.174, wins 6/20, mean -0.040, CI -0.119..+0.036; cluster CI (11) -0.099..+0.110; block -0.117 (13), independent +0.102 (7)
+  2021 std      A all           h10 S3 vs R0: 0.456 vs 0.434, wins 13/20, mean +0.022, CI -0.063..+0.097; cluster CI (11) -0.022..+0.132; block -0.020 (13), independent +0.101 (7)
+  2021 std      A not entailed  h1  S3 vs R0: 0.125 vs 0.000, wins 15/16, mean +0.125, CI +0.087..+0.164; 7 clusters (too few); block +0.115 (11), independent +0.147 (5)
+  2021 std      A not entailed  h10 S3 vs R0: 0.387 vs 0.203, wins 15/16, mean +0.184, CI +0.125..+0.245; 7 clusters (too few); block +0.217 (11), independent +0.111 (5)
+  2021 std      A all           h1  L0 vs R0: 0.139 vs 0.174, wins 6/20, mean -0.035, CI -0.112..+0.039; cluster CI (11) -0.090..+0.112; block -0.104 (13), independent +0.092 (7)
+  2021 std      A all           h10 L0 vs R0: 0.452 vs 0.434, wins 11/20, mean +0.018, CI -0.051..+0.077; cluster CI (11) -0.018..+0.102; block -0.025 (13), independent +0.097 (7)
+  2021 std      A not entailed  h1  L0 vs R0: 0.113 vs 0.000, wins 15/16, mean +0.113, CI +0.079..+0.150; 7 clusters (too few); block +0.106 (11), independent +0.126 (5)
+  2021 std      A not entailed  h10 L0 vs R0: 0.374 vs 0.203, wins 15/16, mean +0.171, CI +0.113..+0.232; 7 clusters (too few); block +0.188 (11), independent +0.134 (5)
+  2021 coverage (target among L0/S3 candidates): 0.829; median candidates 305
+  2023 std      A all           rr  S3 vs R0: 0.211 vs 0.282, wins 5/15, mean -0.071, CI -0.148..-0.003; 7 clusters (too few); block -0.108 (11), independent +0.029 (4)
+  2023 std      A all           rr  S3 vs L0: 0.211 vs 0.221, wins 7/15, mean -0.010, CI -0.028..+0.008; 7 clusters (too few); block -0.014 (11), independent +0.002 (4)
+  2023 std      A entailed      rr  S3 vs R0: 0.227 vs 0.797, wins 0/10, mean -0.569, CI -0.688..-0.459; 3 clusters (too few); block -0.537 (9), independent -0.863 (1)
+  2023 std      A entailed      rr  S3 vs L0: 0.227 vs 0.282, wins 2/10, mean -0.055, CI -0.099..-0.016; 3 clusters (too few); block -0.044 (9), independent -0.157 (1)
+  2023 std      A not entailed  rr  S3 vs R0: 0.196 vs 0.063, wins 15/15, mean +0.133, CI +0.090..+0.182; 7 clusters (too few); block +0.124 (11), independent +0.156 (4)
+  2023 std      A not entailed  rr  S3 vs L0: 0.196 vs 0.194, wins 10/15, mean +0.002, CI -0.012..+0.014; 7 clusters (too few); block -0.003 (11), independent +0.014 (4)
+  2023 std      A all           rr  S1 vs R0: 0.290 vs 0.282, wins 11/15, mean +0.008, CI -0.001..+0.017; 7 clusters (too few); block +0.010 (11), independent +0.003 (4)
+  2023 std      A all           rr  S1 vs L0: 0.290 vs 0.221, wins 10/15, mean +0.070, CI -0.001..+0.147; 7 clusters (too few); block +0.103 (11), independent -0.024 (4)
+  2023 std      A entailed      rr  S1 vs R0: 0.800 vs 0.797, wins 5/10, mean +0.004, CI -0.036..+0.034; 3 clusters (too few); block +0.004 (9), independent +0.000 (1)
+  2023 std      A entailed      rr  S1 vs L0: 0.800 vs 0.282, wins 10/10, mean +0.518, CI +0.420..+0.631; 3 clusters (too few); block +0.497 (9), independent +0.706 (1)
+  2023 std      A not entailed  rr  S1 vs R0: 0.077 vs 0.063, wins 11/15, mean +0.014, CI +0.004..+0.024; 7 clusters (too few); block +0.012 (11), independent +0.020 (4)
+  2023 std      A not entailed  rr  S1 vs L0: 0.077 vs 0.194, wins 0/15, mean -0.117, CI -0.173..-0.072; 7 clusters (too few); block -0.115 (11), independent -0.122 (4)
+  2023 std      A all           rr  S2 vs R0: 0.224 vs 0.282, wins 4/15, mean -0.058, CI -0.130..+0.008; 7 clusters (too few); block -0.090 (11), independent +0.030 (4)
+  2023 std      A all           rr  S2 vs L0: 0.224 vs 0.221, wins 15/15, mean +0.004, CI +0.002..+0.005; 7 clusters (too few); block +0.004 (11), independent +0.003 (4)
+  2023 std      A entailed      rr  S2 vs R0: 0.291 vs 0.797, wins 0/10, mean -0.505, CI -0.629..-0.391; 3 clusters (too few); block -0.484 (9), independent -0.700 (1)
+  2023 std      A entailed      rr  S2 vs L0: 0.291 vs 0.282, wins 10/10, mean +0.009, CI +0.005..+0.013; 3 clusters (too few); block +0.009 (9), independent +0.006 (1)
+  2023 std      A not entailed  rr  S2 vs R0: 0.196 vs 0.063, wins 15/15, mean +0.133, CI +0.084..+0.193; 7 clusters (too few); block +0.129 (11), independent +0.145 (4)
+  2023 std      A not entailed  rr  S2 vs L0: 0.196 vs 0.194, wins 14/15, mean +0.002, CI +0.001..+0.003; 7 clusters (too few); block +0.002 (11), independent +0.003 (4)
+  2023 std      A all           rr  S4 vs R0: 0.272 vs 0.282, wins 5/15, mean -0.010, CI -0.056..+0.037; 7 clusters (too few); block -0.018 (11), independent +0.012 (4)
+  2023 std      A all           rr  S4 vs L0: 0.272 vs 0.221, wins 12/15, mean +0.052, CI +0.018..+0.094; 7 clusters (too few); block +0.076 (11), independent -0.015 (4)
+  2023 std      A entailed      rr  S4 vs R0: 0.503 vs 0.797, wins 0/10, mean -0.294, CI -0.411..-0.184; 3 clusters (too few); block -0.248 (9), independent -0.704 (1)
+  2023 std      A entailed      rr  S4 vs L0: 0.503 vs 0.282, wins 10/10, mean +0.221, CI +0.114..+0.334; 3 clusters (too few); block +0.245 (9), independent +0.002 (1)
+  2023 std      A not entailed  rr  S4 vs R0: 0.169 vs 0.063, wins 14/15, mean +0.106, CI +0.053..+0.170; 7 clusters (too few); block +0.103 (11), independent +0.114 (4)
+  2023 std      A not entailed  rr  S4 vs L0: 0.169 vs 0.194, wins 0/15, mean -0.025, CI -0.040..-0.013; 7 clusters (too few); block -0.024 (11), independent -0.028 (4)
+  2023 std      A all           rr  Oracle vs R0: 0.375 vs 0.282, wins 15/15, mean +0.092, CI +0.055..+0.138; 7 clusters (too few); block +0.083 (11), independent +0.118 (4)
+  2023 std      A all           rr  Oracle vs L0: 0.375 vs 0.221, wins 15/15, mean +0.154, CI +0.099..+0.218; 7 clusters (too few); block +0.177 (11), independent +0.091 (4)
+  2023 std      A entailed      rr  Oracle vs R0: 0.797 vs 0.797, wins 0/10, mean +0.000, CI +0.000..+0.000; 3 clusters (too few); block +0.000 (9), independent +0.000 (1)
+  2023 std      A entailed      rr  Oracle vs L0: 0.797 vs 0.282, wins 10/10, mean +0.514, CI +0.399..+0.640; 3 clusters (too few); block +0.493 (9), independent +0.706 (1)
+  2023 std      A not entailed  rr  Oracle vs R0: 0.194 vs 0.063, wins 15/15, mean +0.131, CI +0.082..+0.191; 7 clusters (too few); block +0.127 (11), independent +0.142 (4)
+  2023 std      A not entailed  rr  Oracle vs L0: 0.194 vs 0.194, wins 0/15, mean +0.000, CI +0.000..+0.000; 7 clusters (too few); block +0.000 (11), independent +0.000 (4)
+  2023 std      A all           rr  L0d vs R0: 0.181 vs 0.282, wins 4/15, mean -0.102, CI -0.186..-0.025; 7 clusters (too few); block -0.143 (11), independent +0.011 (4)
+  2023 std      A all           rr  L0d vs L0: 0.181 vs 0.221, wins 2/15, mean -0.040, CI -0.070..-0.017; 7 clusters (too few); block -0.049 (11), independent -0.016 (4)
+  2023 std      A entailed      rr  L0d vs R0: 0.143 vs 0.797, wins 0/10, mean -0.653, CI -0.775..-0.533; 3 clusters (too few); block -0.624 (9), independent -0.914 (1)
+  2023 std      A entailed      rr  L0d vs L0: 0.143 vs 0.282, wins 0/10, mean -0.139, CI -0.188..-0.089; 3 clusters (too few); block -0.131 (9), independent -0.208 (1)
+  2023 std      A not entailed  rr  L0d vs R0: 0.192 vs 0.063, wins 15/15, mean +0.128, CI +0.082..+0.185; 7 clusters (too few); block +0.121 (11), independent +0.149 (4)
+  2023 std      A not entailed  rr  L0d vs L0: 0.192 vs 0.194, wins 6/15, mean -0.003, CI -0.013..+0.008; 7 clusters (too few); block -0.006 (11), independent +0.007 (4)
+  2023 std      A all           h1  S3 vs R0: 0.113 vs 0.211, wins 4/15, mean -0.097, CI -0.184..-0.021; 7 clusters (too few); block -0.136 (11), independent +0.011 (4)
+  2023 std      A all           h10 S3 vs R0: 0.435 vs 0.437, wins 8/15, mean -0.002, CI -0.078..+0.074; 7 clusters (too few); block +0.009 (11), independent -0.032 (4)
+  2023 std      A not entailed  h1  S3 vs R0: 0.119 vs 0.010, wins 14/15, mean +0.109, CI +0.068..+0.159; 7 clusters (too few); block +0.095 (11), independent +0.147 (4)
+  2023 std      A not entailed  h10 S3 vs R0: 0.358 vs 0.191, wins 14/15, mean +0.167, CI +0.085..+0.246; 7 clusters (too few); block +0.214 (11), independent +0.039 (4)
+  2023 std      A all           h1  L0 vs R0: 0.127 vs 0.211, wins 4/15, mean -0.083, CI -0.162..-0.016; 7 clusters (too few); block -0.116 (11), independent +0.007 (4)
+  2023 std      A all           h10 L0 vs R0: 0.439 vs 0.437, wins 8/15, mean +0.002, CI -0.067..+0.069; 7 clusters (too few); block +0.001 (11), independent +0.006 (4)
+  2023 std      A not entailed  h1  L0 vs R0: 0.119 vs 0.010, wins 14/15, mean +0.109, CI +0.063..+0.164; 7 clusters (too few); block +0.100 (11), independent +0.136 (4)
+  2023 std      A not entailed  h10 L0 vs R0: 0.357 vs 0.191, wins 14/15, mean +0.165, CI +0.091..+0.240; 7 clusters (too few); block +0.210 (11), independent +0.042 (4)
+  2023 coverage (target among L0/S3 candidates): 0.841; median candidates 305
+
+== H6 criterion for S3 and the descriptive strategies
+  2021 S3: all vs R0 -0.020 [-0.089], all vs L0 -0.000 [-0.013], non-entailed vs L0 +0.009 [lower -0.001] -> (1) False, (2) True, success False
+  2021 S1: all vs R0 +0.008 [-0.000], all vs L0 +0.028 [-0.035], non-entailed vs L0 -0.132 [lower -0.172] -> (1) False, (2) False, success False
+  2021 S2: all vs R0 -0.017 [-0.081], all vs L0 +0.003 [+0.001], non-entailed vs L0 +0.002 [lower +0.000] -> (1) False, (2) True, success False
+  2021 S4: all vs R0 -0.001 [-0.058], all vs L0 +0.018 [-0.002], non-entailed vs L0 -0.040 [lower -0.069] -> (1) False, (2) False, success False
+  2023 S3: all vs R0 -0.071 [-0.148], all vs L0 -0.010 [-0.028], non-entailed vs L0 +0.002 [lower -0.012] -> (1) False, (2) False, success False
+  2023 S1: all vs R0 +0.008 [-0.001], all vs L0 +0.070 [-0.001], non-entailed vs L0 -0.117 [lower -0.173] -> (1) False, (2) False, success False
+  2023 S2: all vs R0 -0.058 [-0.130], all vs L0 +0.004 [+0.002], non-entailed vs L0 +0.002 [lower +0.001] -> (1) False, (2) True, success False
+  2023 S4: all vs R0 -0.010 [-0.056], all vs L0 +0.052 [+0.018], non-entailed vs L0 -0.025 [lower -0.040] -> (1) False, (2) False, success False
+
+== Part 3: runtime (2023 test ontologies)
+     classes  view_s  features_ms  L0_ms  S3_ms  GNN_cpu_ms  GNN_cuda_ms
+50%   2979.0    0.16         6.66   6.20   5.22        6.25         0.52
+max  42950.0    2.86        50.18   9.66  10.95      201.52        14.63
+ontology  classes  features_ms  L0_ms  S3_ms  GNN_cpu_ms  GNN_cuda_ms
+      cl    15673         18.1    9.6    4.3        64.7          4.6
+  uberon    24799         23.8    6.9   10.9       126.5          5.6
+      go    42950         50.2    7.0    6.5       201.5         14.6
